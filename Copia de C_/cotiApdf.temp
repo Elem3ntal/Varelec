@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cotizacion>
+  <MetaData>
+    <Fecha>19/6/2014</Fecha>
+  </MetaData>
+  <Vendedor>javier</Vendedor>
+  <Cliente>
+    <RUT>---</RUT>
+    <Señores>---</Señores>
+    <Giro></Giro>
+    <Direccion></Direccion>
+    <Fono>---</Fono>
+    <Contacto></Contacto>
+    <Correo></Correo>
+  </Cliente>
+  <Productos />
+  <Condiciones>
+    <condiciones0>Orden de Compra a nombre de: VARELEC CHILE LTDA.</condiciones0>
+    <condiciones1>Condiciones de Pago: </condiciones1>
+    <condiciones2>Lugar de entrega: </condiciones2>
+    <condiciones3>Validez de la Cotización: 10 Dias</condiciones3>
+  </Condiciones>
+</cotizacion>

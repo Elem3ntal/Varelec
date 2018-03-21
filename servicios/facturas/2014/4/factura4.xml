@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cotizacion xmlns="">
+  <MetaData>
+    <Fecha>16/4/2014</Fecha>
+  </MetaData>
+  <Vendedor>javier</Vendedor>
+  <Cliente>
+    <RUT>4.756.340-2</RUT>
+    <Señores>Luis Noriega Valderrama</Señores>
+    <Contacto>Luis Noriega Valderrama</Contacto>
+    <Giro>Taller</Giro>
+    <Direccion>Lucho!</Direccion>
+    <Fono>27790449</Fono>
+  </Cliente>
+  <Productos>
+    <Elemento0>
+      <Descripcion>2 vista-A000000002</Descripcion>
+      <cantidad>12</cantidad>
+      <Precio>$125.000</Precio>
+      <valorTotal>$1.500.000</valorTotal>
+      <PlazoEntrega>
+      </PlazoEntrega>
+    </Elemento0>
+  </Productos>
+  <Condiciones>
+    <condiciones0>Orden de Compra a nombre de:VARELEC CHILE LTDA.</condiciones0>
+    <condiciones1>Condiciones de Pago:3 a 4 cheques</condiciones1>
+    <condiciones2>Lugar de entrega:Local de cliente</condiciones2>
+    <condiciones3>Validez de la Cotización:10 Dias</condiciones3>
+  </Condiciones>
+  <ID />2</cotizacion>

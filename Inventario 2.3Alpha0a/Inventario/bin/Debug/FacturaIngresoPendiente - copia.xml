@@ -1,0 +1,847 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FacturaIngreso>
+  <Datos>
+    <ingreso>luis(javier)</ingreso>
+    <proveedor>Varelec</proveedor>
+    <NumeroFactura>46321</NumeroFactura>
+    <Fecha>31/7/2015</Fecha>
+  </Datos>
+  <indicadores>
+    <Dolar>650</Dolar>
+    <Euro>720</Euro>
+    <Importe>0,95</Importe>
+  </indicadores><productos>
+    <producto1b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>920476017</NP>
+      <Descripcion>Interruptor columna de direccion 920476017</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,81</Kilos>
+      <CostoFTR>€205,26</CostoFTR>
+      <CostoEXT>228,69</CostoEXT>
+      <PVP>$215.440</PVP>
+      <flete>12</flete>
+      <tipo>Nuevo</tipo>
+    </producto1b>
+    <producto2b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Toyota</Grupo>
+      <NP>441023162171</NP>
+      <Descripcion>Llanta subconjunto trasero 441023162171</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>30</Kilos>
+      <CostoFTR>€267,3</CostoFTR>
+      <CostoEXT>643,47</CostoEXT>
+      <PVP>$593.738</PVP>
+      <flete>344</flete>
+      <tipo>Nuevo</tipo>
+    </producto2b>
+    <producto3b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0009646111</NP>
+      <Descripcion>Cojinete de desgaste 0009646111</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0</Kilos>
+      <CostoFTR>€5,5</CostoFTR>
+      <CostoEXT>5,79</CostoEXT>
+      <PVP>$6.032</PVP>
+      <flete>0</flete>
+      <tipo>Nuevo</tipo>
+    </producto3b>
+    <producto4b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>1864462531</NP>
+      <Descripcion>Soporte 4ta vía 1864462531</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0,77</Kilos>
+      <CostoFTR>€78,1</CostoFTR>
+      <CostoEXT>93,79</CostoEXT>
+      <PVP>$86.270</PVP>
+      <flete>11</flete>
+      <tipo>Nuevo</tipo>
+    </producto4b>
+    <producto5b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>9210311218</NP>
+      <Descripcion>Tuerca hexagonal 9210311218</Descripcion>
+      <Cantidad>10</Cantidad>
+      <Kilos>0,09</Kilos>
+      <CostoFTR>€2,2</CostoFTR>
+      <CostoEXT>3,37</CostoEXT>
+      <PVP>$3.948</PVP>
+      <flete>1</flete>
+      <tipo>Nuevo</tipo>
+    </producto5b>
+    <producto6b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0019362505</NP>
+      <Descripcion>Topearrastre 0019362505</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,05</Kilos>
+      <CostoFTR>€33</CostoFTR>
+      <CostoEXT>35,47</CostoEXT>
+      <PVP>$42.259</PVP>
+      <flete>0,7</flete>
+      <tipo>Nuevo</tipo>
+    </producto6b>
+    <producto7b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>vwn90521604</NP>
+      <Descripcion>Junta torica vwn90521604</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,02</Kilos>
+      <CostoFTR>€2,9</CostoFTR>
+      <CostoEXT>3,37</CostoEXT>
+      <PVP>$4.433</PVP>
+      <flete>0,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto7b>
+    <producto8b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>vw069131547D</NP>
+      <Descripcion>Junta vw069131547d</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,01</Kilos>
+      <CostoFTR>€2,75</CostoFTR>
+      <CostoEXT>3</CostoEXT>
+      <PVP>$3.196</PVP>
+      <flete>0,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto8b>
+    <producto9b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3944483500</NP>
+      <Descripcion>Tubo hidraulico 3944483500</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>1,44</Kilos>
+      <CostoFTR>€88</CostoFTR>
+      <CostoEXT>113,68</CostoEXT>
+      <PVP>$157.889</PVP>
+      <flete>20</flete>
+      <tipo>Nuevo</tipo>
+    </producto9b>
+    <producto10b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0009821002</NP>
+      <Descripcion>Pieza motor 0009821002</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,11</Kilos>
+      <CostoFTR>€18,7</CostoFTR>
+      <CostoEXT>21,37</CostoEXT>
+      <PVP>$21.277</PVP>
+      <flete>1,6</flete>
+      <tipo>Nuevo</tipo>
+    </producto10b>
+    <producto11b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3945741504</NP>
+      <Descripcion>Manguera 3945741504</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,1</Kilos>
+      <CostoFTR>€14,3</CostoFTR>
+      <CostoEXT>16,63</CostoEXT>
+      <PVP>$27.750</PVP>
+      <flete>1,5</flete>
+      <tipo>Nuevo</tipo>
+    </producto11b>
+    <producto12b>
+      <Familia>Linde</Familia>
+      <Grupo>Ottawa</Grupo>
+      <NP>90026536</NP>
+      <Descripcion>Pulmones suspensión 90026536</Descripcion>
+      <Cantidad>7</Cantidad>
+      <Kilos>1,37</Kilos>
+      <CostoFTR>€82,5</CostoFTR>
+      <CostoEXT>106,11</CostoEXT>
+      <PVP>$79.935</PVP>
+      <flete>18,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto12b>
+    <producto13b>
+      <Familia>Linde</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9234550014</NP>
+      <Descripcion>Chapa puerta derecha 9234550014</Descripcion>
+      <Cantidad>10</Cantidad>
+      <Kilos>0,41</Kilos>
+      <CostoFTR>€59,4</CostoFTR>
+      <CostoEXT>67,89</CostoEXT>
+      <PVP>$63.455</PVP>
+      <flete>5,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto13b>
+    <producto14b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9239760604</NP>
+      <Descripcion>Junta 9239760604</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0,01</Kilos>
+      <CostoFTR>€4,4</CostoFTR>
+      <CostoEXT>4,74</CostoEXT>
+      <PVP>$9.150</PVP>
+      <flete>0,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto14b>
+    <producto15b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9223150004</NP>
+      <Descripcion>Filtro hidraulico 9223150004</Descripcion>
+      <Cantidad>5</Cantidad>
+      <Kilos>0,92</Kilos>
+      <CostoFTR>€82,5</CostoFTR>
+      <CostoEXT>99,47</CostoEXT>
+      <PVP>$121.905</PVP>
+      <flete>12</flete>
+      <tipo>Nuevo</tipo>
+    </producto15b>
+    <producto16b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9230710001</NP>
+      <Descripcion>Filtro hidraulico freno 9230710001</Descripcion>
+      <Cantidad>12</Cantidad>
+      <Kilos>0,1</Kilos>
+      <CostoFTR>€1,1</CostoFTR>
+      <CostoEXT>2,63</CostoEXT>
+      <PVP>$22.810</PVP>
+      <flete>1,4</flete>
+      <tipo>Nuevo</tipo>
+    </producto16b>
+    <producto17b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9238551183</NP>
+      <Descripcion>Breth filtro 9238551183</Descripcion>
+      <Cantidad>5</Cantidad>
+      <Kilos>0,22</Kilos>
+      <CostoFTR>€24,2</CostoFTR>
+      <CostoEXT>28,63</CostoEXT>
+      <PVP>$39.789</PVP>
+      <flete>3</flete>
+      <tipo>Nuevo</tipo>
+    </producto17b>
+    <producto18b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>VW06A903315E</NP>
+      <Descripcion>Tensor correa vw06a903315e</Descripcion>
+      <Cantidad>8</Cantidad>
+      <Kilos>0,86</Kilos>
+      <CostoFTR>€55,63</CostoFTR>
+      <CostoEXT>70,14</CostoEXT>
+      <PVP>$57.935</PVP>
+      <flete>11</flete>
+      <tipo>Nuevo</tipo>
+    </producto18b>
+    <producto19b>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3940321204</NP>
+      <Descripcion>Corona de arranque 3940321204</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,7</Kilos>
+      <CostoFTR>€50,6</CostoFTR>
+      <CostoEXT>63,79</CostoEXT>
+      <PVP>$49.089</PVP>
+      <flete>10</flete>
+      <tipo>Nuevo</tipo>
+    </producto19b>
+    <producto20b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Capacity</Grupo>
+      <NP>112906</NP>
+      <Descripcion>Selenoide</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,25</Kilos>
+      <CostoFTR>€123,2</CostoFTR>
+      <CostoEXT>140,21</CostoEXT>
+      <PVP>$126.165</PVP>
+      <flete>10</flete>
+      <tipo>Nuevo</tipo>
+    </producto20b>
+    <producto21b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Dana</Grupo>
+      <NP>8100278</NP>
+      <Descripcion>Arnes sensor feddback 8100278</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,41</Kilos>
+      <CostoFTR>€594</CostoFTR>
+      <CostoEXT>631,58</CostoEXT>
+      <PVP>$570.090</PVP>
+      <flete>6</flete>
+      <tipo>Nuevo</tipo>
+    </producto21b>
+    <producto22b>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>65238844</NP>
+      <Descripcion>Sensor 65238844</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,29</Kilos>
+      <CostoFTR>€374</CostoFTR>
+      <CostoEXT>397,89</CostoEXT>
+      <PVP>$291.905</PVP>
+      <flete>4</flete>
+      <tipo>Nuevo</tipo>
+    </producto22b>
+    <producto1>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>920476017</NP>
+      <Descripcion>Interruptor columna de direccion 920476017</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,81</Kilos>
+      <CostoFTR>€205,26</CostoFTR>
+      <CostoEXT>228,69</CostoEXT>
+      <PVP>$215.440</PVP>
+      <flete>12</flete>
+      <tipo>Nuevo</tipo>
+    </producto1>
+    <producto2>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Toyota</Grupo>
+      <NP>441023162171</NP>
+      <Descripcion>Llanta subconjunto trasero 441023162171</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>30</Kilos>
+      <CostoFTR>€267,3</CostoFTR>
+      <CostoEXT>643,47</CostoEXT>
+      <PVP>$593.738</PVP>
+      <flete>344</flete>
+      <tipo>Nuevo</tipo>
+    </producto2>
+    <producto3>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0009646111</NP>
+      <Descripcion>Cojinete de desgaste 0009646111</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0</Kilos>
+      <CostoFTR>€5,5</CostoFTR>
+      <CostoEXT>5,79</CostoEXT>
+      <PVP>$6.032</PVP>
+      <flete>0</flete>
+      <tipo>Nuevo</tipo>
+    </producto3>
+    <producto4>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>1864462531</NP>
+      <Descripcion>Soporte 4ta vía 1864462531</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0,77</Kilos>
+      <CostoFTR>€78,1</CostoFTR>
+      <CostoEXT>93,79</CostoEXT>
+      <PVP>$86.270</PVP>
+      <flete>11</flete>
+      <tipo>Nuevo</tipo>
+    </producto4>
+    <producto5>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>9210311218</NP>
+      <Descripcion>Tuerca hexagonal 9210311218</Descripcion>
+      <Cantidad>10</Cantidad>
+      <Kilos>0,09</Kilos>
+      <CostoFTR>€2,2</CostoFTR>
+      <CostoEXT>3,37</CostoEXT>
+      <PVP>$3.948</PVP>
+      <flete>1</flete>
+      <tipo>Nuevo</tipo>
+    </producto5>
+    <producto6>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0019362505</NP>
+      <Descripcion>Topearrastre 0019362505</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,05</Kilos>
+      <CostoFTR>€33</CostoFTR>
+      <CostoEXT>35,47</CostoEXT>
+      <PVP>$42.259</PVP>
+      <flete>0,7</flete>
+      <tipo>Nuevo</tipo>
+    </producto6>
+    <producto7>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>vwn90521604</NP>
+      <Descripcion>Junta torica vwn90521604</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,02</Kilos>
+      <CostoFTR>€2,9</CostoFTR>
+      <CostoEXT>3,37</CostoEXT>
+      <PVP>$4.433</PVP>
+      <flete>0,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto7>
+    <producto8>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>vw069131547D</NP>
+      <Descripcion>Junta vw069131547d</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,01</Kilos>
+      <CostoFTR>€2,75</CostoFTR>
+      <CostoEXT>3</CostoEXT>
+      <PVP>$3.196</PVP>
+      <flete>0,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto8>
+    <producto9>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3944483500</NP>
+      <Descripcion>Tubo hidraulico 3944483500</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>1,44</Kilos>
+      <CostoFTR>€88</CostoFTR>
+      <CostoEXT>113,68</CostoEXT>
+      <PVP>$157.889</PVP>
+      <flete>20</flete>
+      <tipo>Nuevo</tipo>
+    </producto9>
+    <producto10>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0009821002</NP>
+      <Descripcion>Pieza motor 0009821002</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,11</Kilos>
+      <CostoFTR>€18,7</CostoFTR>
+      <CostoEXT>21,37</CostoEXT>
+      <PVP>$21.277</PVP>
+      <flete>1,6</flete>
+      <tipo>Nuevo</tipo>
+    </producto10>
+    <producto11>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3945741504</NP>
+      <Descripcion>Manguera 3945741504</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,1</Kilos>
+      <CostoFTR>€14,3</CostoFTR>
+      <CostoEXT>16,63</CostoEXT>
+      <PVP>$27.750</PVP>
+      <flete>1,5</flete>
+      <tipo>Nuevo</tipo>
+    </producto11>
+    <producto12>
+      <Familia>Linde</Familia>
+      <Grupo>Ottawa</Grupo>
+      <NP>90026536</NP>
+      <Descripcion>Pulmones suspensión 90026536</Descripcion>
+      <Cantidad>7</Cantidad>
+      <Kilos>1,37</Kilos>
+      <CostoFTR>€82,5</CostoFTR>
+      <CostoEXT>106,11</CostoEXT>
+      <PVP>$79.935</PVP>
+      <flete>18,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto12>
+    <producto13>
+      <Familia>Linde</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9234550014</NP>
+      <Descripcion>Chapa puerta derecha 9234550014</Descripcion>
+      <Cantidad>10</Cantidad>
+      <Kilos>0,41</Kilos>
+      <CostoFTR>€59,4</CostoFTR>
+      <CostoEXT>67,89</CostoEXT>
+      <PVP>$63.455</PVP>
+      <flete>5,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto13>
+    <producto14>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9239760604</NP>
+      <Descripcion>Junta 9239760604</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0,01</Kilos>
+      <CostoFTR>€4,4</CostoFTR>
+      <CostoEXT>4,74</CostoEXT>
+      <PVP>$9.150</PVP>
+      <flete>0,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto14>
+    <producto15>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9223150004</NP>
+      <Descripcion>Filtro hidraulico 9223150004</Descripcion>
+      <Cantidad>5</Cantidad>
+      <Kilos>0,92</Kilos>
+      <CostoFTR>€82,5</CostoFTR>
+      <CostoEXT>99,47</CostoEXT>
+      <PVP>$121.905</PVP>
+      <flete>12</flete>
+      <tipo>Nuevo</tipo>
+    </producto15>
+    <producto16>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9230710001</NP>
+      <Descripcion>Filtro hidraulico freno 9230710001</Descripcion>
+      <Cantidad>12</Cantidad>
+      <Kilos>0,1</Kilos>
+      <CostoFTR>€1,1</CostoFTR>
+      <CostoEXT>2,63</CostoEXT>
+      <PVP>$22.810</PVP>
+      <flete>1,4</flete>
+      <tipo>Nuevo</tipo>
+    </producto16>
+    <producto17>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9238551183</NP>
+      <Descripcion>Breth filtro 9238551183</Descripcion>
+      <Cantidad>5</Cantidad>
+      <Kilos>0,22</Kilos>
+      <CostoFTR>€24,2</CostoFTR>
+      <CostoEXT>28,63</CostoEXT>
+      <PVP>$39.789</PVP>
+      <flete>3</flete>
+      <tipo>Nuevo</tipo>
+    </producto17>
+    <producto18>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>VW06A903315E</NP>
+      <Descripcion>Tensor correa vw06a903315e</Descripcion>
+      <Cantidad>8</Cantidad>
+      <Kilos>0,86</Kilos>
+      <CostoFTR>€55,63</CostoFTR>
+      <CostoEXT>70,14</CostoEXT>
+      <PVP>$57.935</PVP>
+      <flete>11</flete>
+      <tipo>Nuevo</tipo>
+    </producto18>
+    <producto19>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3940321204</NP>
+      <Descripcion>Corona de arranque 3940321204</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,7</Kilos>
+      <CostoFTR>€50,6</CostoFTR>
+      <CostoEXT>63,79</CostoEXT>
+      <PVP>$49.089</PVP>
+      <flete>10</flete>
+      <tipo>Nuevo</tipo>
+    </producto19>
+    <producto20>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Capacity</Grupo>
+      <NP></NP>
+      <Descripcion>Selenoide 112906</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,25</Kilos>
+      <CostoFTR>€123,2</CostoFTR>
+      <CostoEXT>140,21</CostoEXT>
+      <PVP>$126.165</PVP>
+      <flete>10</flete>
+      <tipo>Nuevo</tipo>
+    </producto20>
+    <producto21>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Dana</Grupo>
+      <NP>8100278</NP>
+      <Descripcion>Arnes sensor feddback 8100278</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,41</Kilos>
+      <CostoFTR>€594</CostoFTR>
+      <CostoEXT>631,58</CostoEXT>
+      <PVP>$570.090</PVP>
+      <flete>6</flete>
+      <tipo>Nuevo</tipo>
+    </producto21>
+    <producto22>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>65238844</NP>
+      <Descripcion>Sensor 65238844</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,29</Kilos>
+      <CostoFTR>€374</CostoFTR>
+      <CostoEXT>397,89</CostoEXT>
+      <PVP>$291.905</PVP>
+      <flete>4</flete>
+      <tipo>Nuevo</tipo>
+    </producto22>
+    <producto1a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9231100578</NP>
+      <Descripcion>Filtro de aire 923110578</Descripcion>
+      <Cantidad>3</Cantidad>
+      <Kilos>0,92</Kilos>
+      <CostoFTR>€18,7</CostoFTR>
+      <CostoEXT>33,37</CostoEXT>
+      <PVP>$31.125</PVP>
+      <flete>13</flete>
+      <tipo>Nuevo</tipo>
+    </producto1a>
+    <producto2a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9238290686</NP>
+      <Descripcion>Filtro combustible 9238290686</Descripcion>
+      <Cantidad>3</Cantidad>
+      <Kilos>0,64</Kilos>
+      <CostoFTR>€24,75</CostoFTR>
+      <CostoEXT>35,53</CostoEXT>
+      <PVP>$57.207</PVP>
+      <flete>9</flete>
+      <tipo>Nuevo</tipo>
+    </producto2a>
+    <producto3a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9238290700</NP>
+      <Descripcion>Filtro decantador agua 9238290700</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,95</Kilos>
+      <CostoFTR>€30,8</CostoFTR>
+      <CostoEXT>47,16</CostoEXT>
+      <PVP>$27.578</PVP>
+      <flete>14</flete>
+      <tipo>Nuevo</tipo>
+    </producto3a>
+    <producto4a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>90007281</NP>
+      <Descripcion>Valvula freno 90007281</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,38</Kilos>
+      <CostoFTR>€49,5</CostoFTR>
+      <CostoEXT>57,37</CostoEXT>
+      <PVP>$48.990</PVP>
+      <flete>5</flete>
+      <tipo>Nuevo</tipo>
+    </producto4a>
+    <producto5a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>90030880</NP>
+      <Descripcion>Air spring 90030880</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,77</Kilos>
+      <CostoFTR>€72,6</CostoFTR>
+      <CostoEXT>88</CostoEXT>
+      <PVP>$79.645</PVP>
+      <flete>11</flete>
+      <tipo>Nuevo</tipo>
+    </producto5a>
+    <producto6a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9221430047</NP>
+      <Descripcion>Electrovalvula 9221430047</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,96</Kilos>
+      <CostoFTR>€192,5</CostoFTR>
+      <CostoEXT>214,21</CostoEXT>
+      <PVP>$207.750</PVP>
+      <flete>11</flete>
+      <tipo>Nuevo</tipo>
+    </producto6a>
+    <producto7a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9231200886</NP>
+      <Descripcion>Bobina electrovalvula 9231200886</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,14</Kilos>
+      <CostoFTR>€66</CostoFTR>
+      <CostoEXT>70,53</CostoEXT>
+      <PVP>$69.090</PVP>
+      <flete>1</flete>
+      <tipo>Nuevo</tipo>
+    </producto7a>
+    <producto8a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Kalmar</Grupo>
+      <NP>9205960029</NP>
+      <Descripcion>Aforador 9205960029</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,07</Kilos>
+      <CostoFTR>€27,5</CostoFTR>
+      <CostoEXT>28,95</CostoEXT>
+      <PVP>$51.355</PVP>
+      <flete>0</flete>
+      <tipo>Nuevo</tipo>
+    </producto8a>
+    <producto9a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3945800116</NP>
+      <Descripcion>Tubo escape 3945800116</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>1,3</Kilos>
+      <CostoFTR>€75,9</CostoFTR>
+      <CostoEXT>96,95</CostoEXT>
+      <PVP>$99.085</PVP>
+      <flete>16,2</flete>
+      <tipo>Nuevo</tipo>
+    </producto9a>
+    <producto10a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>9810000402</NP>
+      <Descripcion>Tapón 9810000402</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,06</Kilos>
+      <CostoFTR>€4,4</CostoFTR>
+      <CostoEXT>5,16</CostoEXT>
+      <PVP>$10.908</PVP>
+      <flete>0,5</flete>
+      <tipo>Nuevo</tipo>
+    </producto10a>
+    <producto11a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3944410805</NP>
+      <Descripcion>Manguito de goma 3944410805</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>1,15</Kilos>
+      <CostoFTR>€110</CostoFTR>
+      <CostoEXT>130,53</CostoEXT>
+      <PVP>$159.079</PVP>
+      <flete>14</flete>
+      <tipo>Nuevo</tipo>
+    </producto11a>
+    <producto12a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>1834465600</NP>
+      <Descripcion>Placa 1834465600</Descripcion>
+      <Cantidad>6</Cantidad>
+      <Kilos>0,04</Kilos>
+      <CostoFTR>€10,45</CostoFTR>
+      <CostoEXT>11,32</CostoEXT>
+      <PVP>$18.999</PVP>
+      <flete>0,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto12a>
+    <producto13a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3961731829</NP>
+      <Descripcion>Manguera 3961731829</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>2,4</Kilos>
+      <CostoFTR>€173,8</CostoFTR>
+      <CostoEXT>214,53</CostoEXT>
+      <PVP>$240.952</PVP>
+      <flete>30</flete>
+      <tipo>Nuevo</tipo>
+    </producto13a>
+    <producto14a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0009730418</NP>
+      <Descripcion>Llave contacto larga 0009730418</Descripcion>
+      <Cantidad>20</Cantidad>
+      <Kilos>0,03</Kilos>
+      <CostoFTR>€6,6</CostoFTR>
+      <CostoEXT>7,05</CostoEXT>
+      <PVP>$6.773</PVP>
+      <flete>0,1</flete>
+      <tipo>Nuevo</tipo>
+    </producto14a>
+    <producto15a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>vw038145215</NP>
+      <Descripcion>Junta vw038145215</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>0,04</Kilos>
+      <CostoFTR>€6,05</CostoFTR>
+      <CostoEXT>6,68</CostoEXT>
+      <PVP>$8.477</PVP>
+      <flete>0,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto15a>
+    <producto16a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>0009620437</NP>
+      <Descripcion>Reten 0009620437</Descripcion>
+      <Cantidad>10</Cantidad>
+      <Kilos>0,05</Kilos>
+      <CostoFTR>€1,1</CostoFTR>
+      <CostoEXT>1,47</CostoEXT>
+      <PVP>$1.178</PVP>
+      <flete>0,3</flete>
+      <tipo>Nuevo</tipo>
+    </producto16a>
+    <producto17a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3945421200</NP>
+      <Descripcion>Orbitrol 3945421200</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>5,67</Kilos>
+      <CostoFTR>€689,8</CostoFTR>
+      <CostoEXT>802,95</CostoEXT>
+      <PVP>$739.701</PVP>
+      <flete>73</flete>
+      <tipo>Nuevo</tipo>
+    </producto17a>
+    <producto18a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>9491000683</NP>
+      <Descripcion>Correa 9491000683</Descripcion>
+      <Cantidad>4</Cantidad>
+      <Kilos>0,12</Kilos>
+      <CostoFTR>€6,29</CostoFTR>
+      <CostoEXT>8,09</CostoEXT>
+      <PVP>$13.545</PVP>
+      <flete>1,4</flete>
+      <tipo>Nuevo</tipo>
+    </producto18a>
+    <producto19a>
+      <Familia>Linde</Familia>
+      <Grupo>Linde</Grupo>
+      <NP>3524331802</NP>
+      <Descripcion>Juego de guia asiento 3524331802</Descripcion>
+      <Cantidad>1</Cantidad>
+      <Kilos>0,71</Kilos>
+      <CostoFTR>€42,83</CostoFTR>
+      <CostoEXT>54,56</CostoEXT>
+      <PVP>$49.602</PVP>
+      <flete>9</flete>
+      <tipo>Nuevo</tipo>
+    </producto19a>
+    <producto20a>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Hyster</Grupo>
+      <NP>6996019</NP>
+      <Descripcion>Cojinete twislock 6996019</Descripcion>
+      <Cantidad>10</Cantidad>
+      <Kilos>0,2</Kilos>
+      <CostoFTR>€51,67</CostoFTR>
+      <CostoEXT>56,49</CostoEXT>
+      <PVP>$63.315</PVP>
+      <flete>2</flete>
+      <tipo>Nuevo</tipo>
+    </producto20a>
+  </productos>
+</FacturaIngreso>

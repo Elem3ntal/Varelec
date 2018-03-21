@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DBXML xmlns="">
+  <MetaData>
+    <CantidadColumnas>3</CantidadColumnas>
+    <ID>1</ID>
+    <NVersion>1</NVersion>
+  </MetaData>
+  <Data>
+    <DATA0>
+      <DATO0>javier</DATO0>
+      <DATO1>a4aae18cc453a4f9582d02c68f44aaf0</DATO1>
+      <DATO2>211111111</DATO2>
+    </DATA0>
+  </Data>
+</DBXML>

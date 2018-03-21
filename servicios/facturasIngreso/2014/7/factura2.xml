@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FacturaIngreso xmlns="">
+  <Datos>
+    <ingreso>javier</ingreso>
+    <proveedor>jj</proveedor>
+    <NumeroFactura>1234</NumeroFactura>
+    <Fecha>21/7/2014</Fecha>
+  </Datos>
+  <indicadores>
+    <Dolar>570</Dolar>
+    <Euro>800</Euro>
+    <Importe>0,95</Importe>
+  </indicadores>
+  <productos>
+    <producto1>
+      <Familia>Otras Marcas</Familia>
+      <Grupo>Javier</Grupo>
+      <NP>123456</NP>
+      <Descripcion>Una descrip</Descripcion>
+      <Cantidad>2</Cantidad>
+      <Kilos>1</Kilos>
+      <CostoFTR>€1</CostoFTR>
+      <CostoEXT>8,05</CostoEXT>
+      <PVP>$3</PVP>
+    </producto1>
+  </productos>
+</FacturaIngreso>

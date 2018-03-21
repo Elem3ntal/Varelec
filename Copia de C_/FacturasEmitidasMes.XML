@@ -1,0 +1,1415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<factura xmlns="">
+  <Factura1>
+    <MetaData>&lt;Fecha&gt;1/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.556.940-5</RUT>
+      <Señores>PROV. INTEGRALES PRISA S.A.</Señores>
+      <Giro>Distribuidor</Giro>
+      <Direccion>Las rosas 5757</Direccion>
+      <Fono>28206037</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Contactor dc 88/12v -K000000023</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>95.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Dcto -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>-22.800</Precio>
+      </Elemento1>
+    </productos>
+  </Factura1>
+  <Factura2>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>77.965.620-9</RUT>
+      <Señores>Food Service Limitada</Señores>
+      <Giro>Importacion y comercio mayorista de prod.alim</Giro>
+      <Direccion>Camino interior n° 9401</Direccion>
+      <Fono>24871800</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cargador zivan bc1 24v/30a -C000000010</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>310.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Conector fem 160a macho -B000000057</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>0</Precio>
+      </Elemento1>
+    </productos>
+  </Factura2>
+  <Factura3>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.718.890-0</RUT>
+      <Señores>Asa comercial limitada</Señores>
+      <Giro>Servicios y arriendos</Giro>
+      <Direccion>Lazo de la vega n° 4771</Direccion>
+      <Fono>7744177</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Contactor sw 200/36/48v -K000000013</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>231.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Dcto -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>-23.100</Precio>
+      </Elemento1>
+    </productos>
+  </Factura3>
+  <Factura4>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT></RUT>
+      <Señores></Señores>
+      <Giro></Giro>
+      <Direccion></Direccion>
+      <Fono></Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>macho macho -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>0</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>macho macho -</Descripcion>
+        <Cantidad>2,5</Cantidad>
+        <Precio>123</Precio>
+      </Elemento1>
+    </productos>
+  </Factura4>
+  <Factura5>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT></RUT>
+      <Señores></Señores>
+      <Giro></Giro>
+      <Direccion></Direccion>
+      <Fono></Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>macho -</Descripcion>
+        <Cantidad>2,5</Cantidad>
+        <Precio>100</Precio>
+      </Elemento0>
+    </productos>
+  </Factura5>
+  <Factura6>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.692.160-9</RUT>
+      <Señores>Importadora y Distribuidora KW S.A.</Señores>
+      <Giro>Importadora y distribuidora</Giro>
+      <Direccion>El rosal 45610</Direccion>
+      <Fono>28704300</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Lubricante -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>8.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Grasa -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.500</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Insumos -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>1.000</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Hora hombre -</Descripcion>
+        <Cantidad>2,5</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento4>
+    </productos>
+  </Factura6>
+  <Factura7>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.692.160-9</RUT>
+      <Señores>Importadora y Distribuidora KW S.A.</Señores>
+      <Giro>Importadora y distribuidora</Giro>
+      <Direccion>El rosal 45610</Direccion>
+      <Fono>28704300</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Lubricante -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>8.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Grasa -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.500</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Insumos -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>1.000</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Hora Hombre -</Descripcion>
+        <Cantidad>2,5</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento4>
+    </productos>
+  </Factura7>
+  <Factura8>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.800.040-3</RUT>
+      <Señores>Terminal Puerto Valparaiso S.A.</Señores>
+      <Giro>Deposito de contenedores y otros servicios</Giro>
+      <Direccion>Ruta 68 km 97,950</Direccion>
+      <Fono>32 / 2131800</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Valvula de retencion -9208420001</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>287.250</Precio>
+      </Elemento0>
+    </productos>
+  </Factura8>
+  <Factura9>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.566.940-K</RUT>
+      <Señores>AGENCIAS UNIVERSALES S.A.</Señores>
+      <Giro>Agencia de naves</Giro>
+      <Direccion>Urriola 87  - 1° piso</Direccion>
+      <Fono>2556200</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Bomba Hidraulica de Freno -9235720012</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>323.973</Precio>
+      </Elemento0>
+    </productos>
+  </Factura9>
+  <Factura10>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.566.940-K</RUT>
+      <Señores>AGENCIAS UNIVERSALES S.A.</Señores>
+      <Giro>Agencia de naves</Giro>
+      <Direccion>Urriola 87  - 1° piso</Direccion>
+      <Fono>2556200</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Bomba Hidraulica de Freno -9235720012</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>323.973</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Valvula 2 -9236360507</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.109.699</Precio>
+      </Elemento1>
+    </productos>
+  </Factura10>
+  <Factura11>
+    <MetaData>&lt;Fecha&gt;3/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.566.940-K</RUT>
+      <Señores>AGENCIAS UNIVERSALES S.A.</Señores>
+      <Giro>Agencia de naves</Giro>
+      <Direccion>Urriola 87  - 1° piso</Direccion>
+      <Fono>2556200</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Bomba Hidraulica de Freno -9235720012</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>323.973</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Valvula 1 -9234680524</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>201.809</Precio>
+      </Elemento1>
+    </productos>
+  </Factura11>
+  <Factura12>
+    <MetaData>&lt;Fecha&gt;4/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.908.930-0</RUT>
+      <Señores>San Vicente Terminal Internacional S.A.</Señores>
+      <Giro>Portuario, muellaje y almacenaje</Giro>
+      <Direccion>Avda. latorre n° 1590 </Direccion>
+      <Fono>41/ 2503732</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Bulon con cabeza hexagonal -9007311645</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>55.758</Precio>
+      </Elemento0>
+    </productos>
+  </Factura12>
+  <Factura13>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.545.450-0</RUT>
+      <Señores>DERCOMAQ S.A.</Señores>
+      <Giro>Comercializadora</Giro>
+      <Direccion>Americo vespucio 1838</Direccion>
+      <Fono>25602221</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Fusible 300a -F000000010</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>7.150</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Puente Conexion -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>8.000</Precio>
+      </Elemento1>
+    </productos>
+  </Factura13>
+  <Factura14>
+    <MetaData>&lt;Fecha&gt;4/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.908.970-K</RUT>
+      <Señores>San Antonio Terminal Internacional S.A.</Señores>
+      <Giro>Instalaciones portuarias</Giro>
+      <Direccion>Avda: ramon barros luco n°1613 tor.biocean.piso 13</Direccion>
+      <Fono>35/2201616</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cableado 357 -3573810415</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>1.921.449</Precio>
+      </Elemento0>
+    </productos>
+  </Factura14>
+  <Factura15>
+    <MetaData>&lt;Fecha&gt;4/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.056.400-5</RUT>
+      <Señores>Servicios Maritimos y Transportes Ltda.</Señores>
+      <Giro>Muellaje</Giro>
+      <Direccion>Avda. longitudinal n° 5500</Direccion>
+      <Fono>55 / 357000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Correa Alternador  -0009265599</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>26.510</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Cadena de Elevacion -9495100597</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>240.560</Precio>
+      </Elemento1>
+    </productos>
+  </Factura15>
+  <Factura16>
+    <MetaData>&lt;Fecha&gt;7/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>79.934.790-3</RUT>
+      <Señores>F.C.A.B. Embarcadores Ltda.</Señores>
+      <Giro>Serv.relacionados al transporte maritimo</Giro>
+      <Direccion>Simon bolivar n° 255</Direccion>
+      <Fono>55/2206840</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Patin (Wear Strip) -0009418021</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>7.974</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Patin (Wear Strip) 2 -0009418022</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>12.135</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Tornillo Avellanado -9062316069</Descripcion>
+        <Cantidad>10</Cantidad>
+        <Precio>1.062</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Mango (Window Latch) -0009310182</Descripcion>
+        <Cantidad>10</Cantidad>
+        <Precio>24.487</Precio>
+      </Elemento3>
+    </productos>
+  </Factura16>
+  <Factura17>
+    <MetaData>&lt;Fecha&gt;7/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.108.071-7</RUT>
+      <Señores>Importadora y Expor.Asland Ltda.</Señores>
+      <Giro>Importadora</Giro>
+      <Direccion>España n° 2501</Direccion>
+      <Fono>Cel 9208 2353</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cargador zivan cb ng5 80v/60a multi c -C000000013</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>1.200.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Conector fem 160a macho -B000000057</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>0</Precio>
+      </Elemento1>
+    </productos>
+  </Factura17>
+  <Factura18>
+    <MetaData>&lt;Fecha&gt;7/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.553.790-2</RUT>
+      <Señores>Standar Wood (Chile ) S.A.</Señores>
+      <Giro>Industria de cueros y lanas</Giro>
+      <Direccion>Km. 13.5 ruta 9 norte</Direccion>
+      <Fono>61 / 21 11 63</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Conector fem 320a macho -B000000059</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>34.430</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Conector fem 320a hembra -B000000060</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>38.720</Precio>
+      </Elemento1>
+    </productos>
+  </Factura18>
+  <Factura19>
+    <MetaData>&lt;Fecha&gt;7/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>79.921.700-7</RUT>
+      <Señores>Inversiones Collins &amp; Collins Limitada.</Señores>
+      <Giro>Inv.imp. y exp. de art. de metal-mecanica</Giro>
+      <Direccion>Romero 2969</Direccion>
+      <Fono>28217000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Hora Hombre -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento1>
+    </productos>
+  </Factura19>
+  <Factura20>
+    <MetaData>&lt;Fecha&gt;8/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.538.900-3</RUT>
+      <Señores>Comercial barbillon limitada</Señores>
+      <Giro>Venta y arriendo baterias</Giro>
+      <Direccion>Juan de la fuente n° 584 galpon c</Direccion>
+      <Fono>26500680</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Conector sb 175 gris -B000000071</Descripcion>
+        <Cantidad>15</Cantidad>
+        <Precio>8.883</Precio>
+      </Elemento0>
+    </productos>
+  </Factura20>
+  <Factura21>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.263.058-3</RUT>
+      <Señores>Comerc.e importadora batterytrac ltda.</Señores>
+      <Giro>Venta de baterias y cargadores</Giro>
+      <Direccion>Tegualda n° 1611</Direccion>
+      <Fono>98296859</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Conector sbx 350 gris -B000000053</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>26.290</Precio>
+      </Elemento0>
+    </productos>
+  </Factura21>
+  <Factura22>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.548.020-K</RUT>
+      <Señores>COM. E IND. PLASTICOS HOFFENS S.A.</Señores>
+      <Giro>Industria de plasticos</Giro>
+      <Direccion>Camino lonquen 10707</Direccion>
+      <Fono>27267600</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Aceite motor 5 Lt -</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Kit mantencion 391/2/3 3000 hrs -0009408079</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>486.780</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Kit gasificacion 39x -3525729003</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>76.280</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Tubo Grasa -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.800</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Lubricante cadena -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>6.990</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Fungibles -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>1.000</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Hora Hombre -</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento6>
+      <Elemento7>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento7>
+    </productos>
+  </Factura22>
+  <Factura23>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.548.020-K</RUT>
+      <Señores>COM. E IND. PLASTICOS HOFFENS S.A.</Señores>
+      <Giro>Industria de plasticos</Giro>
+      <Direccion>Camino lonquen 10707</Direccion>
+      <Fono>27267600</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Aceite motor 6,4 Lt -</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Kit mantencion 394 1000 hrs -0009408046</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>128.970</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Kit gasificacion 39x -3525729003</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>76.280</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Tubo grasa -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.800</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Lubricante cadena -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>6.990</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Fungibles -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>1.000</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Hora hombre -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento6>
+      <Elemento7>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento7>
+    </productos>
+  </Factura23>
+  <Factura24>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.756.680-2</RUT>
+      <Señores>Iron Mountain Chile S.A.</Señores>
+      <Giro>Custodia y administracion de archivos</Giro>
+      <Direccion>El taqueral n° 266</Direccion>
+      <Fono>23957000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Sensor RPM -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>52.700</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Rotor VW -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>51.500</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Tapa distribuidor -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>14.000</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Deposito de agua -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>42.700</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Switch -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>8.700</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Hora hombre -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento6>
+    </productos>
+  </Factura24>
+  <Factura25>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.662.540-6</RUT>
+      <Señores>Container Operators S.A.</Señores>
+      <Giro>Servicio de contenedores</Giro>
+      <Direccion>Avda.las factorias n° 8150</Direccion>
+      <Fono>35 / 2202700</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Indicador length -6043007</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>2.142.550</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Manguera succion -6027017</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>52.999</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Abrazadera manguera -6025005</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>9.160</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Bushing direction -20026201</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>87.190</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Shalf -20001801</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>176.156</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Locking nut -93171114</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>11.905</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Washer (arandelas) -20026101</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>29.100</Precio>
+      </Elemento6>
+    </productos>
+  </Factura25>
+  <Factura26>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.056.400-5</RUT>
+      <Señores>Servicios Maritimos y Transportes Ltda.</Señores>
+      <Giro>Muellaje</Giro>
+      <Direccion>Avda. longitudinal n° 5500</Direccion>
+      <Fono>55 / 357000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Bearing (cojinete de desgaste) -9240150573</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>6.428</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Key (chaveta) -9238550685</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>4.070</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Lever  -9240150562</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>197.430</Precio>
+      </Elemento2>
+    </productos>
+  </Factura26>
+  <Factura27>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.908.870-3</RUT>
+      <Señores>Terminal Pacifico Sur VAP S.A.</Señores>
+      <Giro>Explotacion frente atraque n°1pto.vlpo.</Giro>
+      <Direccion>Antonio varas 2 piso 3</Direccion>
+      <Fono>32 / 2275977</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Sensor spicer 4209752 -4209752</Descripcion>
+        <Cantidad>6</Cantidad>
+        <Precio>144.395</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Sensor spicer 4209750 -4209750</Descripcion>
+        <Cantidad>5</Cantidad>
+        <Precio>180.120</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Sensor spicer 4209751 -4209751</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>181.746</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Sensor spicer 4209784 -4209784</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>187.428</Precio>
+      </Elemento3>
+    </productos>
+  </Factura27>
+  <Factura28>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.528.000-6</RUT>
+      <Señores>COLADA CONTINUA CHILENA S.A.</Señores>
+      <Giro>Fca. alambre de cobre vtas. subproduc.</Giro>
+      <Direccion>Avda las esteras sur 2850</Direccion>
+      <Fono>26238668</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Hook -01200796012</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>140.480</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Soporte de rueda -15149934014</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>50.000</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Rodamiento lateral -0330400101</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>22.120</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Ejes -0190086501</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>17.150</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Pin elastico -8980050602</Descripcion>
+        <Cantidad>6</Cantidad>
+        <Precio>1.499</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Tornillo auto freno -9460160808</Descripcion>
+        <Cantidad>8</Cantidad>
+        <Precio>3.980</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Hora hombre -</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento6>
+      <Elemento7>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento7>
+    </productos>
+  </Factura28>
+  <Factura29>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.800.040-3</RUT>
+      <Señores>Terminal Puerto Valparaiso S.A.</Señores>
+      <Giro>Deposito de contenedores y otros servicios</Giro>
+      <Direccion>Ruta 68 km 97,950</Direccion>
+      <Fono>32 / 2131800</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Filter insert -9239762805</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>159.900</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Filtro hidraulico freno -9230710001</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>22.710</Precio>
+      </Elemento1>
+    </productos>
+  </Factura29>
+  <Factura30>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.056.400-5</RUT>
+      <Señores>Servicios Maritimos y Transportes Ltda.</Señores>
+      <Giro>Muellaje</Giro>
+      <Direccion>Avda. longitudinal n° 5500</Direccion>
+      <Fono>55 / 357000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Filter insert -9239762805</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>153.885</Precio>
+      </Elemento0>
+    </productos>
+  </Factura30>
+  <Factura31>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.056.400-5</RUT>
+      <Señores>Servicios Maritimos y Transportes Ltda.</Señores>
+      <Giro>Muellaje</Giro>
+      <Direccion>Avda. longitudinal n° 5500</Direccion>
+      <Fono>55 / 357000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Filtro estanque resp. hidraulico -9238551184</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>63.481</Precio>
+      </Elemento0>
+    </productos>
+  </Factura31>
+  <Factura32>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.662.540-6</RUT>
+      <Señores>Container Operators S.A.</Señores>
+      <Giro>Servicio de contenedores</Giro>
+      <Direccion>Avda.las factorias n° 8150</Direccion>
+      <Fono>35 / 2202700</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Steering asm (joystick) -m5511650</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>2.705.342</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Circuit card (targeta lógica) -K5206601</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>674.697</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Relay (relee) -652381060</Descripcion>
+        <Cantidad>17</Cantidad>
+        <Precio>8.775</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Contact plug (conector) -804702941</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>15.760</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Contact plug (conector 2) -804702940</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>6.909</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Valve compl (valcula hidraulica) -t0806093h</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>398.342</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Valve compl (electroventilador hidraulico) -t0804028h</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>229.146</Precio>
+      </Elemento6>
+      <Elemento7>
+        <Descripcion>Direction wachat (relee de intermitencia) -652338820</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>739.191</Precio>
+      </Elemento7>
+    </productos>
+  </Factura32>
+  <Factura33>
+    <MetaData>&lt;Fecha&gt;9/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.908.930-0</RUT>
+      <Señores>San Vicente Terminal Internacional S.A.</Señores>
+      <Giro>Portuario, muellaje y almacenaje</Giro>
+      <Direccion>Avda. latorre n° 1590 </Direccion>
+      <Fono>41/ 2503732</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Filter insert -9239762805</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>159.900</Precio>
+      </Elemento0>
+    </productos>
+  </Factura33>
+  <Factura34>
+    <MetaData>&lt;Fecha&gt;10/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.279.700-7</RUT>
+      <Señores>IMEIN S.A.</Señores>
+      <Giro>Arriendo maquinarias</Giro>
+      <Direccion>Berlioz 5559</Direccion>
+      <Fono>25253443</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Conector fem 160a hembra c/asa -B000000058</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>25.190</Precio>
+      </Elemento0>
+    </productos>
+  </Factura34>
+  <Factura35>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.168.859-6</RUT>
+      <Señores>Jormac eirl</Señores>
+      <Giro>Reparacion y mantencion maq.</Giro>
+      <Direccion>Hoevel n° 4890</Direccion>
+      <Fono>82915570</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Tarjeta Timon -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>200.000</Precio>
+      </Elemento0>
+    </productos>
+  </Factura35>
+  <Factura36>
+    <MetaData>&lt;Fecha&gt;10/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>79.913.320-2</RUT>
+      <Señores>GALLYAS TELECOM S.A.</Señores>
+      <Giro>Transp. de carga, pasajeros y telecomunic.</Giro>
+      <Direccion>Roger de flor 2736 of 81</Direccion>
+      <Fono>23368600</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cargador zivan ng1 12v/60a -C000000009</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>480.000</Precio>
+      </Elemento0>
+    </productos>
+  </Factura36>
+  <Factura37>
+    <MetaData>&lt;Fecha&gt;10/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.556.940-5</RUT>
+      <Señores>PROV. INTEGRALES PRISA S.A.</Señores>
+      <Giro>Distribuidor</Giro>
+      <Direccion>Las rosas 5757</Direccion>
+      <Fono>28206037</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cableado  -804436</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>90.000</Precio>
+      </Elemento0>
+    </productos>
+  </Factura37>
+  <Factura38>
+    <MetaData>&lt;Fecha&gt;10/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.509.990-0</RUT>
+      <Señores>Servicios Logisticos Integrales Servilog Limitada</Señores>
+      <Giro>Montaje,mant.reparacion de estanter metalicos</Giro>
+      <Direccion>Rio palena n° 9677 parque eneas</Direccion>
+      <Fono>2437 5170</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cargador zivan bc1 24v/30a -C000000010</Descripcion>
+        <Cantidad>5</Cantidad>
+        <Precio>223.000</Precio>
+      </Elemento0>
+    </productos>
+  </Factura38>
+  <Factura39>
+    <MetaData>&lt;Fecha&gt;10/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.509.990-0</RUT>
+      <Señores>Servicios Logisticos Integrales Servilog Limitada</Señores>
+      <Giro>Montaje,mant.reparacion de estanter metalicos</Giro>
+      <Direccion>Rio palena n° 9677 parque eneas</Direccion>
+      <Fono>2437 5170</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cargador zivan bc1 24v/30a -C000000010</Descripcion>
+        <Cantidad>5</Cantidad>
+        <Precio>223.000</Precio>
+      </Elemento0>
+    </productos>
+  </Factura39>
+  <Factura40>
+    <MetaData>&lt;Fecha&gt;11/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>6.143.277-9</RUT>
+      <Señores>Francisco Maureira</Señores>
+      <Giro>Transporte y arriendo de maquinarias</Giro>
+      <Direccion>Avda. adrian n° 365</Direccion>
+      <Fono>99596937</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Kit de Sellos -</Descripcion>
+        <Cantidad>3</Cantidad>
+        <Precio>34.200</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Ki de Sellos  -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>44.700</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Horas Hombre -</Descripcion>
+        <Cantidad>5</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento2>
+    </productos>
+  </Factura40>
+  <Factura41>
+    <MetaData>&lt;Fecha&gt;14/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>81.836.000-2</RUT>
+      <Señores>COPEFRUT S.A.</Señores>
+      <Giro>Export. y ventas pesticidas</Giro>
+      <Direccion>Longitudinal sur km185</Direccion>
+      <Fono>209100</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Mantenciones motores grua -</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>140.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Cambio carbones -</Descripcion>
+        <Cantidad>8</Cantidad>
+        <Precio>12.000</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Cambio porta carbones -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>208.000</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Horas mano de obra -</Descripcion>
+        <Cantidad>6</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento4>
+    </productos>
+  </Factura41>
+  <Factura42>
+    <MetaData>&lt;Fecha&gt;14/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>81.836.000-2</RUT>
+      <Señores>COPEFRUT S.A.</Señores>
+      <Giro>Export. y ventas pesticidas</Giro>
+      <Direccion>Longitudinal sur km185</Direccion>
+      <Fono>209100</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Piñon -3505274700</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>21.360</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Rueda dentada -3505274601</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>6.900</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Baliza reals e1021c 12/110v -A000000005</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>36.600</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Hora hombre -</Descripcion>
+        <Cantidad>2,5</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento4>
+    </productos>
+  </Factura42>
+  <Factura43>
+    <MetaData>&lt;Fecha&gt;14/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>93.776.000-0</RUT>
+      <Señores>ALGAS MARINAS S.A.</Señores>
+      <Giro>Etrac. compra y elaborac. de algas</Giro>
+      <Direccion>Fidel oteiza 1956 piso 14</Direccion>
+      <Fono>22055086</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Mantencion -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>140.200</Precio>
+      </Elemento0>
+    </productos>
+  </Factura43>
+  <Factura44>
+    <MetaData>&lt;Fecha&gt;15/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.044.638-6</RUT>
+      <Señores>Simmatrans s.a.</Señores>
+      <Giro>Exp.com.de cintas transp.maq.equi.y pro.</Giro>
+      <Direccion>Americo vespucio 1385 of.3</Direccion>
+      <Fono>26035050</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Aceite mobil super 2000 10w-40 -Mobil10W40</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>19.000</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Kit mantencion 394 1000 hrs -0009408046</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>99.970</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Kit gasificacion 39x -3525729003</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>76.280</Precio>
+      </Elemento2>
+      <Elemento3>
+        <Descripcion>Tubo grasa -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.800</Precio>
+      </Elemento3>
+      <Elemento4>
+        <Descripcion>Lubricante cadena -7326300602</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>6.990</Precio>
+      </Elemento4>
+      <Elemento5>
+        <Descripcion>Fungibles -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>1.000</Precio>
+      </Elemento5>
+      <Elemento6>
+        <Descripcion>Hora hombre -</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento6>
+      <Elemento7>
+        <Descripcion>Traslado -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>18.000</Precio>
+      </Elemento7>
+    </productos>
+  </Factura44>
+  <Factura45>
+    <MetaData>&lt;Fecha&gt;15/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.528.000-6</RUT>
+      <Señores>COLADA CONTINUA CHILENA S.A.</Señores>
+      <Giro>Fca. alambre de cobre vtas. subproduc.</Giro>
+      <Direccion>Avda las esteras sur 2850</Direccion>
+      <Fono>26238668</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Mantencion Prev.Grua Linde H-40  -H2X394B02089</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>387.684</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Mantencion Prev.Grua Linde H-60 -H2X396A00217</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>442.966</Precio>
+      </Elemento1>
+      <Elemento2>
+        <Descripcion>Mantencion Prev. Grua Linde H-60 -H2X396C00573</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>442.966</Precio>
+      </Elemento2>
+    </productos>
+  </Factura45>
+  <Factura46>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>99.511.240-K</RUT>
+      <Señores>Antofagasta Terminal Internacional S.A.</Señores>
+      <Giro>Desarrollo,mantencion y explotacion frente atraque n°2</Giro>
+      <Direccion>Avda. grecia s/n costado recinto portuario</Direccion>
+      <Fono>55/ 432301</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Juego de cable principal cabina -3573810522</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.675.216</Precio>
+      </Elemento0>
+    </productos>
+  </Factura46>
+  <Factura47>
+    <MetaData>&lt;Fecha&gt;15/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.908.870-3</RUT>
+      <Señores>Terminal Pacifico Sur VAP S.A.</Señores>
+      <Giro>Explotacion frente atraque n°1pto.vlpo.</Giro>
+      <Direccion>Antonio varas 2 piso 3</Direccion>
+      <Fono>32 / 2275977</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Cadena -A532470100</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>1.951.289</Precio>
+      </Elemento0>
+      <Elemento1>
+        <Descripcion>Cadena -A532470100</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>1.951.289</Precio>
+      </Elemento1>
+    </productos>
+  </Factura47>
+  <Factura48>
+    <MetaData>&lt;Fecha&gt;15/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>76.257.796-8</RUT>
+      <Señores>San francisco ingenieria y mantenimiento industrial ltda.</Señores>
+      <Giro>Mantenimiento industrial</Giro>
+      <Direccion>Eusebio lillo n° 477</Direccion>
+      <Fono>2545480</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Recambios Nissan -</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>2.765.548</Precio>
+      </Elemento0>
+    </productos>
+  </Factura48>
+  <Factura49>
+    <MetaData>&lt;Fecha&gt;17/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>78.517.500-K</RUT>
+      <Señores>Simsa S.A.</Señores>
+      <Giro>Equipos de seguridad</Giro>
+      <Direccion>El juncal n° 600 </Direccion>
+      <Fono>23765170</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Conector sb 350 gris -B000000049</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>18.535</Precio>
+      </Elemento0>
+    </productos>
+  </Factura49>
+  <Factura50>
+    <MetaData>&lt;Fecha&gt;18/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.279.700-7</RUT>
+      <Señores>IMEIN S.A.</Señores>
+      <Giro>Arriendo maquinarias</Giro>
+      <Direccion>Berlioz 5559</Direccion>
+      <Fono>25253443</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Conector fem 160a hembra c/asa -B000000058</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>25.190</Precio>
+      </Elemento0>
+    </productos>
+  </Factura50>
+  <Factura51>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>99.511.240-K</RUT>
+      <Señores>Antofagasta Terminal Internacional S.A.</Señores>
+      <Giro>Desarrollo,mantencion y explotacion frente atraque n°2</Giro>
+      <Direccion>Avda. grecia s/n costado recinto portuario</Direccion>
+      <Fono>55/ 432301</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Juego de cable principal cabina -3573810522</Descripcion>
+        <Cantidad>1</Cantidad>
+        <Precio>3.675.216</Precio>
+      </Elemento0>
+    </productos>
+  </Factura51>
+  <Factura52>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>96.908.930-0</RUT>
+      <Señores>San Vicente Terminal Internacional S.A.</Señores>
+      <Giro>Portuario, muellaje y almacenaje</Giro>
+      <Direccion>Avda. latorre n° 1590 </Direccion>
+      <Fono>41/ 2503732</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Filtro ciclónico -0019832015</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>157.070</Precio>
+      </Elemento0>
+    </productos>
+  </Factura52>
+  <Factura53>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.056.400-5</RUT>
+      <Señores>Servicios Maritimos y Transportes Ltda.</Señores>
+      <Giro>Muellaje</Giro>
+      <Direccion>Avda. longitudinal n° 5500</Direccion>
+      <Fono>55 / 357000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Tapa valvula -P6243639</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Precio>152.934</Precio>
+      </Elemento0>
+    </productos>
+  </Factura53>
+  <Factura54>
+    <MetaData>&lt;Fecha&gt;22/7/2014&lt;/Fecha&gt;</MetaData>
+    <Vendedor>Venta de meson</Vendedor>
+    <Cliente>
+      <RUT>88.056.400-5</RUT>
+      <Señores>Servicios Maritimos y Transportes Ltda.</Señores>
+      <Giro>Muellaje</Giro>
+      <Direccion>Avda. longitudinal n° 5500</Direccion>
+      <Fono>55 / 357000</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>Lifting pin -9240150561</Descripcion>
+        <Cantidad>4</Cantidad>
+        <Precio>380.752</Precio>
+      </Elemento0>
+    </productos>
+  </Factura54>
+</factura>

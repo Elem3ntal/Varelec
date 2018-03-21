@@ -1,0 +1,5273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tabla xmlns="">
+  <Fila0>
+    <RUT>99.597.940-3</RUT>
+    <Nombre>PB SOLUCIONES</Nombre>
+    <Giro>Construccion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Santiago</Direccion>
+    <Ciudad>Exposicion 1</Ciudad>
+    <Fono>26832866</Fono>
+    <Correo></Correo>
+  </Fila0>
+  <Fila1>
+    <RUT>4.756.340-2</RUT>
+    <Nombre>Luis Noriega Valderrama</Nombre>
+    <Giro>Taller</Giro>
+    <Contacto>Estación central</Contacto>
+    <Direccion>Sanz 73 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27790449</Fono>
+    <Correo></Correo>
+  </Fila1>
+  <Fila2>
+    <RUT>5.024.728-7</RUT>
+    <Nombre>Luis Fuenzalida Pedregal</Nombre>
+    <Giro>Ingenieria</Giro>
+    <Contacto>La reina</Contacto>
+    <Direccion>Jose caracci 235</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24552984</Fono>
+    <Correo></Correo>
+  </Fila2>
+  <Fila3>
+    <RUT>5.053.309-3</RUT>
+    <Nombre>Domingo Perez Diaz</Nombre>
+    <Giro>Contratista</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Avda mexico 2227 casa 82</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>91390775</Fono>
+    <Correo></Correo>
+  </Fila3>
+  <Fila4>
+    <RUT>5.472.965-0</RUT>
+    <Nombre>Ruben Aguilera Godoy</Nombre>
+    <Giro>Mantencion de maquinarias</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Bambu 2 - 425</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>93491206</Fono>
+    <Correo></Correo>
+  </Fila4>
+  <Fila5>
+    <RUT>5.795.753-0</RUT>
+    <Nombre>Jorge h. valenzuela reyes</Nombre>
+    <Giro>Arrend.de maquinarias y equipos</Giro>
+    <Contacto>San antonio</Contacto>
+    <Direccion>Rapa nui n° 955</Direccion>
+    <Ciudad>San antonio</Ciudad>
+    <Fono>94395484</Fono>
+    <Correo></Correo>
+  </Fila5>
+  <Fila6>
+    <RUT>5.932.797-6</RUT>
+    <Nombre>Vicente Bono Merino</Nombre>
+    <Giro>Servicios industriales</Giro>
+    <Contacto>El olivar</Contacto>
+    <Direccion>Avda bernando ohiggins 011</Direccion>
+    <Ciudad>Rancagua(72)</Ciudad>
+    <Fono>391202</Fono>
+    <Correo></Correo>
+  </Fila6>
+  <Fila7>
+    <RUT>6.027.697-8</RUT>
+    <Nombre>Luis Aranguiz Q.</Nombre>
+    <Giro>Serv de reparacion y mantenc</Giro>
+    <Contacto>Cruz del sur</Contacto>
+    <Direccion>Los lirios 4659</Direccion>
+    <Ciudad>Talcahuano(41)</Ciudad>
+    <Fono>2575928</Fono>
+    <Correo></Correo>
+  </Fila7>
+  <Fila8>
+    <RUT>6.143.277-9</RUT>
+    <Nombre>Francisco Maureira</Nombre>
+    <Giro>Transporte y arriendo de maquinarias</Giro>
+    <Contacto>La calera</Contacto>
+    <Direccion>Avda. adrian n° 365</Direccion>
+    <Ciudad>Valparaiso</Ciudad>
+    <Fono>99596937</Fono>
+    <Correo></Correo>
+  </Fila8>
+  <Fila9>
+    <RUT>6.159.347-0</RUT>
+    <Nombre>Benigna Jacinta Amache Castro</Nombre>
+    <Giro>Hipermercado</Giro>
+    <Contacto>Iquique</Contacto>
+    <Direccion>Avda progreso 2000 term. agrop. bod 4-9</Direccion>
+    <Ciudad>Iquique(57)</Ciudad>
+    <Fono>575360</Fono>
+    <Correo></Correo>
+  </Fila9>
+  <Fila10>
+    <RUT>6.536.117-5</RUT>
+    <Nombre>Jorge Berrios Moraga</Nombre>
+    <Giro>Repuestos</Giro>
+    <Contacto>Estacion central</Contacto>
+    <Direccion>Matucana 18 a-b</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26822328</Fono>
+    <Correo></Correo>
+  </Fila10>
+  <Fila11>
+    <RUT>6.621.893-7</RUT>
+    <Nombre>Jose Luis Martines Ferrada</Nombre>
+    <Giro>Mantenciones</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Pje el olivar 1640</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>82592648</Fono>
+    <Correo></Correo>
+  </Fila11>
+  <Fila12>
+    <RUT>6.659.956-6</RUT>
+    <Nombre>Patricio contreras villalon</Nombre>
+    <Giro>Contratista   </Giro>
+    <Contacto>Osorno</Contacto>
+    <Direccion>Ohiggins n° 580   -dpto. n° 43</Direccion>
+    <Ciudad>Osorno</Ciudad>
+    <Fono>96445939</Fono>
+    <Correo></Correo>
+  </Fila12>
+  <Fila13>
+    <RUT>7.490.094-1</RUT>
+    <Nombre>Jaime de la Cruz Ortega Muñoz</Nombre>
+    <Giro>Reparaciones</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Pedro leon ugalde 1475</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25512481</Fono>
+    <Correo></Correo>
+  </Fila13>
+  <Fila14>
+    <RUT>7.595.465-4</RUT>
+    <Nombre>Jorge Antonio Bravo Homar</Nombre>
+    <Giro>Importadora</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Salvador sanfuentes 2805</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>66181792</Fono>
+    <Correo></Correo>
+  </Fila14>
+  <Fila15>
+    <RUT>7.663.261-8</RUT>
+    <Nombre>Tomas Alejandro Castillo Muñoz</Nombre>
+    <Giro>Electronica</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Los manantiales 9840</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>88189973</Fono>
+    <Correo></Correo>
+  </Fila15>
+  <Fila16>
+    <RUT>7.663.261-8</RUT>
+    <Nombre>Tomas alejandro castillo muñoz</Nombre>
+    <Giro>Electronica</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Los manantiales n° 9840</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>88189973</Fono>
+    <Correo></Correo>
+  </Fila16>
+  <Fila17>
+    <RUT>7.716.344-1</RUT>
+    <Nombre>Juan antonio abasolo bononato</Nombre>
+    <Giro>Compra y vta articulos de ferreteria</Giro>
+    <Contacto>Talagante</Contacto>
+    <Direccion>Libertad nn° 1333</Direccion>
+    <Ciudad>Talagante</Ciudad>
+    <Fono>28152758</Fono>
+    <Correo></Correo>
+  </Fila17>
+  <Fila18>
+    <RUT>7.897.683-7</RUT>
+    <Nombre>Hector Sandoval Diaz</Nombre>
+    <Giro>Mantencion industrial</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>San daniel 9049</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26433871</Fono>
+    <Correo></Correo>
+  </Fila18>
+  <Fila19>
+    <RUT>7.901.731-0</RUT>
+    <Nombre>Alejandro rizik abuter</Nombre>
+    <Giro>Comercializadora</Giro>
+    <Contacto>Linares</Contacto>
+    <Direccion>San martin n° 58 pob. sta.cecilia</Direccion>
+    <Ciudad>Linares(73)</Ciudad>
+    <Fono>214902</Fono>
+    <Correo></Correo>
+  </Fila19>
+  <Fila20>
+    <RUT>8.349.082-9</RUT>
+    <Nombre>Alex H. Gubernatis Silvano</Nombre>
+    <Giro>Movimiento de tierra</Giro>
+    <Contacto>Tejas sur</Contacto>
+    <Direccion>Los manzanos 90</Direccion>
+    <Ciudad>Valdivia</Ciudad>
+    <Fono>7499746</Fono>
+    <Correo></Correo>
+  </Fila20>
+  <Fila21>
+    <RUT>8.440.311-3</RUT>
+    <Nombre>Manuel Aranguiz Villalobos</Nombre>
+    <Giro>Contratista</Giro>
+    <Contacto>Los angeles</Contacto>
+    <Direccion>Volcan planchon 216</Direccion>
+    <Ciudad>Los angeles(43)</Ciudad>
+    <Fono>314702</Fono>
+    <Correo></Correo>
+  </Fila21>
+  <Fila22>
+    <RUT>8.920.002-4</RUT>
+    <Nombre>Miguel Gallegos Vidal</Nombre>
+    <Giro>Taller de baterias y vta.de articulos electricos</Giro>
+    <Contacto>Pta.arenas</Contacto>
+    <Direccion>Avda. españa n° 75 c</Direccion>
+    <Ciudad>Punta arenas</Ciudad>
+    <Fono>61 / 2248549</Fono>
+    <Correo></Correo>
+  </Fila22>
+  <Fila23>
+    <RUT>9.215.710-5</RUT>
+    <Nombre>Adrian Nuñez Campos</Nombre>
+    <Giro>Mantencion de maquinarias</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Avda juanita 0249</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98734635</Fono>
+    <Correo></Correo>
+  </Fila23>
+  <Fila24>
+    <RUT>9.476.670-2</RUT>
+    <Nombre>Victor MIranda A.</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Buzeta 4028</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26830262</Fono>
+    <Correo></Correo>
+  </Fila24>
+  <Fila25>
+    <RUT>9.513.605-2</RUT>
+    <Nombre>Hector Osorio Medina</Nombre>
+    <Giro>Mant de equipos electricos</Giro>
+    <Contacto>Pob san luis</Contacto>
+    <Direccion>Hernando  de magallanes 134</Direccion>
+    <Ciudad>Rancagua(74)</Ciudad>
+    <Fono>2269639</Fono>
+    <Correo></Correo>
+  </Fila25>
+  <Fila26>
+    <RUT>9.577.964-6</RUT>
+    <Nombre>Claudio Escalona Zuñiga</Nombre>
+    <Giro>Arriendo maquinaria agricola</Giro>
+    <Contacto>Requinoa</Contacto>
+    <Direccion>Avda el abra 35</Direccion>
+    <Ciudad>Rancagua(74)</Ciudad>
+    <Fono>96982036</Fono>
+    <Correo></Correo>
+  </Fila26>
+  <Fila27>
+    <RUT>9.612.995-5</RUT>
+    <Nombre>Ramon Millanao Garrido</Nombre>
+    <Giro>Mantenimiento industrial</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Pje junta nacional 1654</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>77462775</Fono>
+    <Correo></Correo>
+  </Fila27>
+  <Fila28>
+    <RUT>9.685.935-K</RUT>
+    <Nombre>Jaqueline Caceres Canales</Nombre>
+    <Giro>Reparacines y servicios</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Astronomia 3338</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27911007</Fono>
+    <Correo></Correo>
+  </Fila28>
+  <Fila29>
+    <RUT>9.728.399-0</RUT>
+    <Nombre>Luis Jimenez Riadi</Nombre>
+    <Giro>Servicio tecnico</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda buzeta 3954</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26836035</Fono>
+    <Correo></Correo>
+  </Fila29>
+  <Fila30>
+    <RUT>10.092.943-0</RUT>
+    <Nombre>Juan sepulveda segura</Nombre>
+    <Giro>Agroindustria</Giro>
+    <Contacto>V. padre hurt.</Contacto>
+    <Direccion>Urbano dubosc 330</Direccion>
+    <Ciudad>Chillan</Ciudad>
+    <Fono>93217155</Fono>
+    <Correo></Correo>
+  </Fila30>
+  <Fila31>
+    <RUT>10.165.609-8</RUT>
+    <Nombre>Marco Vargas Lira</Nombre>
+    <Giro>Mantencion</Giro>
+    <Contacto>Estancion central</Contacto>
+    <Direccion>Butalcura 1374</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27412646</Fono>
+    <Correo></Correo>
+  </Fila31>
+  <Fila32>
+    <RUT>10.203.956-4</RUT>
+    <Nombre>Claudio Fuenzalida Muñoz</Nombre>
+    <Giro>Reparacion de maquinarias</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Santa teresa 0319</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25488015</Fono>
+    <Correo></Correo>
+  </Fila32>
+  <Fila33>
+    <RUT>10.225.156-3</RUT>
+    <Nombre>Francisco Gomez Erazo</Nombre>
+    <Giro>Reparacion y ventas</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Bascuñan guerrero 1924</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26842378</Fono>
+    <Correo></Correo>
+  </Fila33>
+  <Fila34>
+    <RUT>10.537.742-8</RUT>
+    <Nombre>Juvenal Poblete Gaete</Nombre>
+    <Giro>Electronica</Giro>
+    <Contacto>Peñalolen</Contacto>
+    <Direccion>Mar del sur 2264</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>92191928</Fono>
+    <Correo></Correo>
+  </Fila34>
+  <Fila35>
+    <RUT>10.546.762-1</RUT>
+    <Nombre>Marcelo Saenz Muñoz</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Pje marcela 3709</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98791369</Fono>
+    <Correo></Correo>
+  </Fila35>
+  <Fila36>
+    <RUT>10.649.560-2</RUT>
+    <Nombre>Claudio Pardo Lagos</Nombre>
+    <Giro>Electromecanico</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Pje sor leticia 0515</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>78490267</Fono>
+    <Correo></Correo>
+  </Fila36>
+  <Fila37>
+    <RUT>11.266.124-7</RUT>
+    <Nombre>Alejandro Arturo Diaz Lopez</Nombre>
+    <Giro>Serv. tecnico de maquinarias</Giro>
+    <Contacto>Estacion central</Contacto>
+    <Direccion>Concon 64</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>78978905</Fono>
+    <Correo></Correo>
+  </Fila37>
+  <Fila38>
+    <RUT>11.297.109-2</RUT>
+    <Nombre>Juan Carlos ñancucheo Rain</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Amazonas 3639</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28885425</Fono>
+    <Correo></Correo>
+  </Fila38>
+  <Fila39>
+    <RUT>11.348.636-8</RUT>
+    <Nombre>Malcon Silva Foster</Nombre>
+    <Giro>Torneria</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Camino a melipilla 17800</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25372822</Fono>
+    <Correo></Correo>
+  </Fila39>
+  <Fila40>
+    <RUT>11.475.953-8</RUT>
+    <Nombre>Marcos Vargas Nuñez</Nombre>
+    <Giro>Mantencion maquinarias</Giro>
+    <Contacto>Quinta normal</Contacto>
+    <Direccion>General barboza 1112</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>79471234</Fono>
+    <Correo></Correo>
+  </Fila40>
+  <Fila41>
+    <RUT>11.530.481-K</RUT>
+    <Nombre>Rosa Valdes Sanchez</Nombre>
+    <Giro>Taller electrico automotriz</Giro>
+    <Contacto>Calama</Contacto>
+    <Direccion>Hurtado de mendoza</Direccion>
+    <Ciudad>Calama</Ciudad>
+    <Fono>84359434</Fono>
+    <Correo></Correo>
+  </Fila41>
+  <Fila42>
+    <RUT>11.547.703-K</RUT>
+    <Nombre>Marta del Carmen Ramos Zamora</Nombre>
+    <Giro>Reparacion maquinas electricas</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Pje eleusis norte 16794</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>61925902</Fono>
+    <Correo></Correo>
+  </Fila42>
+  <Fila43>
+    <RUT>11.549.387-6</RUT>
+    <Nombre>Eglantinna Paola Marin Cordero</Nombre>
+    <Giro>Com. de rep. e ins. autom. y aeronautica</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Farellones 100</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98798256</Fono>
+    <Correo></Correo>
+  </Fila43>
+  <Fila44>
+    <RUT>11.660.083-8</RUT>
+    <Nombre>Robinson E. Flores sandoval</Nombre>
+    <Giro>Repar. elect. y electronicas</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Pasaje del topografo 2977</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>75010838</Fono>
+    <Correo></Correo>
+  </Fila44>
+  <Fila45>
+    <RUT>11.791.512-3</RUT>
+    <Nombre>Fresia Albina Trejo Matamala</Nombre>
+    <Giro>Reparacion y serv. automotrices</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Pje juan errazuriz 1213</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>77325782</Fono>
+    <Correo></Correo>
+  </Fila45>
+  <Fila46>
+    <RUT>11.851.756-3</RUT>
+    <Nombre>Gabriel P. Leiva Cisternas</Nombre>
+    <Giro>Servicios de maquinarias</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda cerrillos 397</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27910862</Fono>
+    <Correo></Correo>
+  </Fila46>
+  <Fila47>
+    <RUT>11.857.509-1</RUT>
+    <Nombre>Christian chamorro araneda</Nombre>
+    <Giro>Servicio tecnico</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Santa luisa n° 249</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>94991302</Fono>
+    <Correo></Correo>
+  </Fila47>
+  <Fila48>
+    <RUT>11.887.666-0</RUT>
+    <Nombre>Pedro lagos rojas</Nombre>
+    <Giro>Mantencion y servicios</Giro>
+    <Contacto>Talca</Contacto>
+    <Direccion>13 1/2 oriente 22 norte n°3263</Direccion>
+    <Ciudad>Talca</Ciudad>
+    <Fono>79963768</Fono>
+    <Correo></Correo>
+  </Fila48>
+  <Fila49>
+    <RUT>11.963.543-8</RUT>
+    <Nombre>Patricio l. gutierrez carrasco</Nombre>
+    <Giro>Mant.maquinas , herramientas</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Pje. bio - bio n° 2809</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>82118038</Fono>
+    <Correo></Correo>
+  </Fila49>
+  <Fila50>
+    <RUT>12.116.042-0</RUT>
+    <Nombre>Johnny ahumada</Nombre>
+    <Giro>Servicios varios</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Av. condell 1124</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6427295</Fono>
+    <Correo></Correo>
+  </Fila50>
+  <Fila51>
+    <RUT>12.332.945-7</RUT>
+    <Nombre>Eliana medina olave</Nombre>
+    <Giro>Transporte</Giro>
+    <Contacto>Quililcura</Contacto>
+    <Direccion>Bali n° 0286</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>65524562</Fono>
+    <Correo></Correo>
+  </Fila51>
+  <Fila52>
+    <RUT>12.827.802-8</RUT>
+    <Nombre>Cristian cerda inostroza</Nombre>
+    <Giro>Servicios de mantencion</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Quilpue n° 4265</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6699037</Fono>
+    <Correo></Correo>
+  </Fila52>
+  <Fila53>
+    <RUT>12.852.439-8</RUT>
+    <Nombre>Edwin robert muena valdes</Nombre>
+    <Giro>Reparacion y mantencion maq.</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Pje. huinca n° 1361 villa el abrazo</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>93210019</Fono>
+    <Correo></Correo>
+  </Fila53>
+  <Fila54>
+    <RUT>12.853.231-5</RUT>
+    <Nombre>Felipe a. hoffman pascual</Nombre>
+    <Giro>Manten.de equipos industriales</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Pasaje ulmo n° 02402</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6342222</Fono>
+    <Correo></Correo>
+  </Fila54>
+  <Fila55>
+    <RUT>13.299.010-7</RUT>
+    <Nombre>Claudio a. fuentes carpio</Nombre>
+    <Giro>Reparaciones y mantencion</Giro>
+    <Contacto>La pintana</Contacto>
+    <Direccion>Pasaje las violetas n° 10603</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>85485085</Fono>
+    <Correo></Correo>
+  </Fila55>
+  <Fila56>
+    <RUT>13.473.673-9</RUT>
+    <Nombre>Manuel calquin gutierrez</Nombre>
+    <Giro>Mant.de maquinarias indust.</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>G. de la fuente n° 3268 d.1802-a</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8845501</Fono>
+    <Correo></Correo>
+  </Fila56>
+  <Fila57>
+    <RUT>13.828.892-7</RUT>
+    <Nombre>Daniela passalacqua castellaro</Nombre>
+    <Giro>Fruticola</Giro>
+    <Contacto>Chacabuco</Contacto>
+    <Direccion>Parcela n° 46 y 47 el colorado</Direccion>
+    <Ciudad>Colina</Ciudad>
+    <Fono>92335235</Fono>
+    <Correo></Correo>
+  </Fila57>
+  <Fila58>
+    <RUT>13.838.408-K</RUT>
+    <Nombre>Rodolfo d. alegria gallardo</Nombre>
+    <Giro>Mantencion de maquinarias</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. suiza n° 175    modulo 17</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6830575</Fono>
+    <Correo></Correo>
+  </Fila58>
+  <Fila59>
+    <RUT>13.909.128-0</RUT>
+    <Nombre>Monica muñoz santander</Nombre>
+    <Giro>Serv.de maquinarias electricas</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Pasaje  tirteo n° 2786</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7716962</Fono>
+    <Correo></Correo>
+  </Fila59>
+  <Fila60>
+    <RUT>13.925.299-3</RUT>
+    <Nombre>Richard d. rildaranzon</Nombre>
+    <Giro>Reparacion y mantencion maq.</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>La nunciatura n° 402</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9182081</Fono>
+    <Correo></Correo>
+  </Fila60>
+  <Fila61>
+    <RUT>14.179.670-4</RUT>
+    <Nombre>Jose aladino cea cardenas</Nombre>
+    <Giro>Reparacion</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Topocalma n° 6661</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6416687</Fono>
+    <Correo></Correo>
+  </Fila61>
+  <Fila62>
+    <RUT>14.276.267-6</RUT>
+    <Nombre>Daniel santibañez astorga</Nombre>
+    <Giro>Servicios de mantencion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Enrique cofre n° 02005</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9334855</Fono>
+    <Correo></Correo>
+  </Fila62>
+  <Fila63>
+    <RUT>14.407.175-1</RUT>
+    <Nombre>Sergio recabarren recabarren</Nombre>
+    <Giro>Reparacion maquinas electricas</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Pje. eleusis norte n° 16794</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>61925902</Fono>
+    <Correo></Correo>
+  </Fila63>
+  <Fila64>
+    <RUT>14.619.291-2</RUT>
+    <Nombre>Claudio d. casanova cabrera</Nombre>
+    <Giro>Venta, mantencion y reparac.</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. españa n° 2241 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6896103</Fono>
+    <Correo></Correo>
+  </Fila64>
+  <Fila65>
+    <RUT>14.725.206-4</RUT>
+    <Nombre>Dennis gutierrez rodriguez</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>P.aguirre c.</Contacto>
+    <Direccion>Huelquehue n° 2801</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>89724012</Fono>
+    <Correo></Correo>
+  </Fila65>
+  <Fila66>
+    <RUT>15.132.374-K</RUT>
+    <Nombre>Mirella gonzalez garrido</Nombre>
+    <Giro>Mantencion de maquinarias</Giro>
+    <Contacto>Teno</Contacto>
+    <Direccion>Elquelmen s/n</Direccion>
+    <Ciudad>Curico</Ciudad>
+    <Fono>65713558</Fono>
+    <Correo></Correo>
+  </Fila66>
+  <Fila67>
+    <RUT>15.243.286-0</RUT>
+    <Nombre>Ana maria millar curihual</Nombre>
+    <Giro>Fab. y mantención de equipos</Giro>
+    <Contacto>Pto. montt</Contacto>
+    <Direccion>Presidente ibañez n° 936</Direccion>
+    <Ciudad>Pto. montt(65)</Ciudad>
+    <Fono>262560</Fono>
+    <Correo></Correo>
+  </Fila67>
+  <Fila68>
+    <RUT>15.316.640-4</RUT>
+    <Nombre>Jose daniel diaz meneses</Nombre>
+    <Giro>Reparacion de maquinarias y electri.</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Juan de dios malebran n° 2329</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>74533350</Fono>
+    <Correo></Correo>
+  </Fila68>
+  <Fila69>
+    <RUT>15.341.449-1</RUT>
+    <Nombre>Mariano salinas salinas</Nombre>
+    <Giro>Reparacion de equipos</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Abraham lincon n° 5358</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>79331933</Fono>
+    <Correo></Correo>
+  </Fila69>
+  <Fila70>
+    <RUT>15.347.191-6</RUT>
+    <Nombre>Gino hernan caiozzi c.</Nombre>
+    <Giro>Arriendo de maquinaria industrial</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Avda.grecia n° 2541 dpto n° 211</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>77489558</Fono>
+    <Correo></Correo>
+  </Fila70>
+  <Fila71>
+    <RUT>15.375.161-7</RUT>
+    <Nombre>Cristian gonzalo ureta ulloa</Nombre>
+    <Giro>Transportes   </Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Bernardo ohiggins n° 0425</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>92395692</Fono>
+    <Correo></Correo>
+  </Fila71>
+  <Fila72>
+    <RUT>15.423.971-5</RUT>
+    <Nombre>Gerardo jimenez s.</Nombre>
+    <Giro>Mantencion de vehiculos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Pje algarrobo n° 1022</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>85364683</Fono>
+    <Correo></Correo>
+  </Fila72>
+  <Fila73>
+    <RUT>15.735.378-0</RUT>
+    <Nombre>Alicia valentina diaz pinilla</Nombre>
+    <Giro>Compra vta.rptos.ind.</Giro>
+    <Contacto>Lo prado</Contacto>
+    <Direccion>Chicama n°607</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27644618</Fono>
+    <Correo></Correo>
+  </Fila73>
+  <Fila74>
+    <RUT>15.822.089-K</RUT>
+    <Nombre>Paulina valenzuela fox</Nombre>
+    <Giro>Ventas de partes de vehiculos</Giro>
+    <Contacto>Est.central</Contacto>
+    <Direccion>Los gladiolos n° 4795</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>54185411</Fono>
+    <Correo></Correo>
+  </Fila74>
+  <Fila75>
+    <RUT>16.058.638-9</RUT>
+    <Nombre>Miguel angel codoceo salas</Nombre>
+    <Giro>Reparacion de maquinarias</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Las guaitecas n° 1807</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>66792028</Fono>
+    <Correo></Correo>
+  </Fila75>
+  <Fila76>
+    <RUT>16.367.646-K</RUT>
+    <Nombre>Natalia marjolaine campos miranda</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. buzeta n° 4087</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26830262</Fono>
+    <Correo></Correo>
+  </Fila76>
+  <Fila77>
+    <RUT>53.320.390-6</RUT>
+    <Nombre>Jose vicente correa gonzalez y otro</Nombre>
+    <Giro>Electricidad</Giro>
+    <Contacto>Qta. normal</Contacto>
+    <Direccion>Consul poinset n° 4714</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23571098</Fono>
+    <Correo></Correo>
+  </Fila77>
+  <Fila78>
+    <RUT>59.111.330-5</RUT>
+    <Nombre>Farmacias de similares chile s.a.</Nombre>
+    <Giro>Farmacia</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Avda. el retiro n°1350 pque.los maitenes</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23673500</Fono>
+    <Correo></Correo>
+  </Fila78>
+  <Fila79>
+    <RUT>60.503.000-9</RUT>
+    <Nombre>Correos de chile</Nombre>
+    <Giro>Servicios postales</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Plaza de armas n° 989 (catedral)</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9565024</Fono>
+    <Correo></Correo>
+  </Fila79>
+  <Fila80>
+    <RUT>61.703.000-4</RUT>
+    <Nombre>Empresa nacional  de mineria</Nombre>
+    <Giro>Fab.prod.primarios de met.preciosos y ot.</Giro>
+    <Contacto>La serena</Contacto>
+    <Direccion>Eduardo de la barra n° 205</Direccion>
+    <Ciudad>La serena(51)</Ciudad>
+    <Fono>2547500</Fono>
+    <Correo></Correo>
+  </Fila80>
+  <Fila81>
+    <RUT>61.704.000-K</RUT>
+    <Nombre>Corp. nac. del cobre de chile</Nombre>
+    <Giro>Gran mineria del cobre</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Huerfanos n° 1270</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6903000</Fono>
+    <Correo></Correo>
+  </Fila81>
+  <Fila82>
+    <RUT>76.000.715-3</RUT>
+    <Nombre>Imp.exp.ruta andina limitada</Nombre>
+    <Giro>Importadora y exportadora</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Avda. central n° 390</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5178560</Fono>
+    <Correo></Correo>
+  </Fila82>
+  <Fila83>
+    <RUT>76.002.920-3</RUT>
+    <Nombre>Ing.y desarrollo sist. limitada</Nombre>
+    <Giro>Servicios industriales</Giro>
+    <Contacto>Peñalolen</Contacto>
+    <Direccion>Peatones 3  n°6004</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8729 2562</Fono>
+    <Correo></Correo>
+  </Fila83>
+  <Fila84>
+    <RUT>76.006.472-6</RUT>
+    <Nombre>Serv.de gruas ind.limitada</Nombre>
+    <Giro>Mantencion</Giro>
+    <Contacto>Villa el sol</Contacto>
+    <Direccion>Pacheco altamirano n° 2562</Direccion>
+    <Ciudad>Rancagua</Ciudad>
+    <Fono>97423971</Fono>
+    <Correo></Correo>
+  </Fila84>
+  <Fila85>
+    <RUT>76.008.162-0</RUT>
+    <Nombre>Servicio Integ. Maquinarias Ltda.</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. suiza n° 175 bodega 17</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>224010010</Fono>
+    <Correo></Correo>
+  </Fila85>
+  <Fila86>
+    <RUT>76.008.508-1</RUT>
+    <Nombre>Mecelec Ltda.</Nombre>
+    <Giro>Mantención industrial</Giro>
+    <Contacto>Yungay</Contacto>
+    <Direccion>Cholguán norte s/n </Direccion>
+    <Ciudad>Yungay</Ciudad>
+    <Fono>432542345</Fono>
+    <Correo></Correo>
+  </Fila86>
+  <Fila87>
+    <RUT>76.008.959-1</RUT>
+    <Nombre>Puerto columbo s.a.</Nombre>
+    <Giro>Almacenaje y bodegaje</Giro>
+    <Contacto>San antonio</Contacto>
+    <Direccion>Ruta nacional 78 n° 2375</Direccion>
+    <Ciudad>San antonio</Ciudad>
+    <Fono>35203701</Fono>
+    <Correo></Correo>
+  </Fila87>
+  <Fila88>
+    <RUT>76.009.303-3</RUT>
+    <Nombre>Servicio automot.yerhani limitada</Nombre>
+    <Giro>Servicio automotriz</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Pje. barraza n° 714</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29858557</Fono>
+    <Correo></Correo>
+  </Fila88>
+  <Fila89>
+    <RUT>76.010.667-4</RUT>
+    <Nombre>Maquer ing.y proyec.limitada</Nombre>
+    <Giro>Ingenieria   </Giro>
+    <Contacto>Lo espejo</Contacto>
+    <Direccion>Rosas n° 9374-a</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>3108289</Fono>
+    <Correo></Correo>
+  </Fila89>
+  <Fila90>
+    <RUT>76.011.958-K</RUT>
+    <Nombre>Horquillasa eirl</Nombre>
+    <Giro>Maquinarias</Giro>
+    <Contacto>Rosario</Contacto>
+    <Direccion>Las delicias norte n° 134</Direccion>
+    <Ciudad>Rengo</Ciudad>
+    <Fono>93395026</Fono>
+    <Correo></Correo>
+  </Fila90>
+  <Fila91>
+    <RUT>76.012.833-3</RUT>
+    <Nombre>Super 10 s.a.</Nombre>
+    <Giro>Supermercados</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda.del valle n° 819 - piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8188000</Fono>
+    <Correo></Correo>
+  </Fila91>
+  <Fila92>
+    <RUT>76.013.800-2</RUT>
+    <Nombre>Soc.comerc.nls nutraline sup.ltda</Nombre>
+    <Giro>Impor.y dist.suplem.alimenticios</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. del valle n° 577 of.704</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26593100</Fono>
+    <Correo></Correo>
+  </Fila92>
+  <Fila93>
+    <RUT>76.016.748-7</RUT>
+    <Nombre>Maquicenter limitada</Nombre>
+    <Giro>Maquinarias</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Pdte.edo. frei montalva n° 5291</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6233000</Fono>
+    <Correo></Correo>
+  </Fila93>
+  <Fila94>
+    <RUT>76.019.216-3</RUT>
+    <Nombre>Serv.int.gladys urzua g.e.i.r.l.</Nombre>
+    <Giro>Mantencion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Huerfanos n° 1160   of. 1208</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7257849</Fono>
+    <Correo></Correo>
+  </Fila94>
+  <Fila95>
+    <RUT>76.025.445-2</RUT>
+    <Nombre>Const. lago riñihue y cia. ltda.</Nombre>
+    <Giro>Construccion</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Luis pasteur n° 6025 23</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22185520</Fono>
+    <Correo></Correo>
+  </Fila95>
+  <Fila96>
+    <RUT>76.026.081-9</RUT>
+    <Nombre>Thenoux logistica limitada</Nombre>
+    <Giro>Transporte</Giro>
+    <Contacto>Viña del mar</Contacto>
+    <Direccion>22 norte 1949 of. b  - santa inés</Direccion>
+    <Ciudad>Viña del mar(32)</Ciudad>
+    <Fono>2336132</Fono>
+    <Correo></Correo>
+  </Fila96>
+  <Fila97>
+    <RUT>76.027.291-4</RUT>
+    <Nombre>Supermercados del sur ltda.</Nombre>
+    <Giro>Supermercados</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. del valle n° 765 piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9271522</Fono>
+    <Correo></Correo>
+  </Fila97>
+  <Fila98>
+    <RUT>76.029.735-6</RUT>
+    <Nombre>Comercial cfu limitada</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Avda. pdte.ed.frei montalva 6001</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9521000</Fono>
+    <Correo></Correo>
+  </Fila98>
+  <Fila99>
+    <RUT>76.031.167-7</RUT>
+    <Nombre>Automecanica limitada</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Arturo prat n° 998</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2222885</Fono>
+    <Correo></Correo>
+  </Fila99>
+  <Fila100>
+    <RUT>76.031.594-K</RUT>
+    <Nombre>Central fruticola san clemente s.a.</Nombre>
+    <Giro>Frigorifico y packing</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Avda. los conquistadores 1700 piso 27</Direccion>
+    <Ciudad>Santiago(71)</Ciudad>
+    <Fono>631096</Fono>
+    <Correo></Correo>
+  </Fila100>
+  <Fila101>
+    <RUT>76.034.149-5</RUT>
+    <Nombre>Enersystem chile limitada</Nombre>
+    <Giro>Fabricacion de baterias</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Ricardo lyon n° 222 of. 703</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2701046</Fono>
+    <Correo></Correo>
+  </Fila101>
+  <Fila102>
+    <RUT>76.034.332-3</RUT>
+    <Nombre>Arri.de maqu, y trans. de carga</Nombre>
+    <Giro>Arriendo de maquinarias</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Barros arana n° 1354</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8413845</Fono>
+    <Correo></Correo>
+  </Fila102>
+  <Fila103>
+    <RUT>76.035.827-4</RUT>
+    <Nombre>Soc. contreras y cia. limitada</Nombre>
+    <Giro>Mantencion y montaje industrial</Giro>
+    <Contacto>Rancagua</Contacto>
+    <Direccion>Sta. maria n° 50</Direccion>
+    <Ciudad>Rancagua(72)</Ciudad>
+    <Fono>221403</Fono>
+    <Correo></Correo>
+  </Fila103>
+  <Fila104>
+    <RUT>76.037.092-4</RUT>
+    <Nombre>Multitecnica s.a.</Nombre>
+    <Giro>Dist.de repuestos y maquinarias</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Alcalde guzman n° 1391</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4848100</Fono>
+    <Correo></Correo>
+  </Fila104>
+  <Fila105>
+    <RUT>76.037.378-8</RUT>
+    <Nombre>Inv.oscar pavez madariaga eirl</Nombre>
+    <Giro>Arriendo</Giro>
+    <Contacto>Padre hurtado </Contacto>
+    <Direccion>Pje. lincoyan n° 474</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8111549</Fono>
+    <Correo></Correo>
+  </Fila105>
+  <Fila106>
+    <RUT>76.038.539-5</RUT>
+    <Nombre>VCD Servicios Ltda.</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Pirque</Contacto>
+    <Direccion>San vicente sitio 26 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2854 9252</Fono>
+    <Correo></Correo>
+  </Fila106>
+  <Fila107>
+    <RUT>76.039.194-8</RUT>
+    <Nombre>Com.serv.sun rental chile s.a.</Nombre>
+    <Giro>Arriendo de maquinarias</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Los pinos n° 03499 parc.32 galpon 8</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25151891</Fono>
+    <Correo></Correo>
+  </Fila107>
+  <Fila108>
+    <RUT>76.040.223-0</RUT>
+    <Nombre>Global fresh foods chile ltda.</Nombre>
+    <Giro>Industria</Giro>
+    <Contacto>Talcahuano</Contacto>
+    <Direccion>Jaime rupullo n° 1794</Direccion>
+    <Ciudad>Talcahuano(41)</Ciudad>
+    <Fono>3785353</Fono>
+    <Correo></Correo>
+  </Fila108>
+  <Fila109>
+    <RUT>76.043.122-2</RUT>
+    <Nombre>Comercial ateuro limitada</Nombre>
+    <Giro>Serv.agricolas e industriales</Giro>
+    <Contacto>Rancagua</Contacto>
+    <Direccion>San martin n° 541  of. n° 31</Direccion>
+    <Ciudad>Rancagua</Ciudad>
+    <Fono>245620</Fono>
+    <Correo></Correo>
+  </Fila109>
+  <Fila110>
+    <RUT>76.044.178-3</RUT>
+    <Nombre>Elabor.y comerc.clean air ltda.</Nombre>
+    <Giro>Elaboracion y comercializacion de filtros</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>M.valenzuela puelma n° 2667</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28943283</Fono>
+    <Correo></Correo>
+  </Fila110>
+  <Fila111>
+    <RUT>76.044.638-6</RUT>
+    <Nombre>Simmatrans s.a.</Nombre>
+    <Giro>Exp.com.de cintas transp.maq.equi.y pro.</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Americo vespucio 1385 of.3</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26035050</Fono>
+    <Correo></Correo>
+  </Fila111>
+  <Fila112>
+    <RUT>76.050.739-3</RUT>
+    <Nombre>Oot logistic limitada</Nombre>
+    <Giro>Logistica</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Cueto n° 138</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7875000</Fono>
+    <Correo></Correo>
+  </Fila112>
+  <Fila113>
+    <RUT>76.054.293-8</RUT>
+    <Nombre>Maquicar limitada</Nombre>
+    <Giro>Importacion</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Ciencia n° 322</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>79594480</Fono>
+    <Correo></Correo>
+  </Fila113>
+  <Fila114>
+    <RUT>76.058.053-8</RUT>
+    <Nombre>Maest.dionisio pino limitada</Nombre>
+    <Giro>Maestranza</Giro>
+    <Contacto>Renca </Contacto>
+    <Direccion>Avda. jorge hirmasa n°3193</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6419551</Fono>
+    <Correo></Correo>
+  </Fila114>
+  <Fila115>
+    <RUT>76.061.328-2</RUT>
+    <Nombre>Maquinarias nortrack ltda.</Nombre>
+    <Giro>Impor. arriendo y exportacion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Miraflores n° 169 dpto.n°32</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8545667</Fono>
+    <Correo></Correo>
+  </Fila115>
+  <Fila116>
+    <RUT>76.066.438-3</RUT>
+    <Nombre>Ingenieria y productos industriales ltda.</Nombre>
+    <Giro>Com.vta.arri.repar.imp.y expo.maq.y eq.</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Makoi n° 533</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2910720</Fono>
+    <Correo></Correo>
+  </Fila116>
+  <Fila117>
+    <RUT>76.067.893-7</RUT>
+    <Nombre>S.v.l. logistic s.a.</Nombre>
+    <Giro>Servicios logisticos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Avda. rio palena n° 9677</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24375170</Fono>
+    <Correo></Correo>
+  </Fila117>
+  <Fila118>
+    <RUT>76.068.832-0</RUT>
+    <Nombre>Comercial Agrolatina Ltda.</Nombre>
+    <Giro>Comercializacion de frutas</Giro>
+    <Contacto>Los angeles</Contacto>
+    <Direccion>Lote 3 fundo rarinco km 504</Direccion>
+    <Ciudad>Los angeles</Ciudad>
+    <Fono>43 / 22970449</Fono>
+    <Correo></Correo>
+  </Fila118>
+  <Fila119>
+    <RUT>76.070.589-6</RUT>
+    <Nombre>Globalrental limitada</Nombre>
+    <Giro>Arriendo de maquinarias</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Napoleon n° 3565 of.202</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2730826</Fono>
+    <Correo></Correo>
+  </Fila119>
+  <Fila120>
+    <RUT>76.078.769-8</RUT>
+    <Nombre>Pj chile s.a.</Nombre>
+    <Giro>Prod.elab.distrib.comercializacion y vta.pizzas</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Exequiel fernandez n° 3685,  d1</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2238 0000</Fono>
+    <Correo></Correo>
+  </Fila120>
+  <Fila121>
+    <RUT>76.078.831-7</RUT>
+    <Nombre>Nazar S.A.</Nombre>
+    <Giro>Logistica</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Lago riñihue n° 02319</Direccion>
+    <Ciudad>santiago</Ciudad>
+    <Fono>2 2230 5300</Fono>
+    <Correo></Correo>
+  </Fila121>
+  <Fila122>
+    <RUT>76.079.170-9</RUT>
+    <Nombre>Andrade y perez limitada</Nombre>
+    <Giro>Mantencion industrial</Giro>
+    <Contacto>Jardin del mar</Contacto>
+    <Direccion>Halimeda n° 1050</Direccion>
+    <Ciudad>Viña del mar(32)</Ciudad>
+    <Fono>2832358</Fono>
+    <Correo></Correo>
+  </Fila122>
+  <Fila123>
+    <RUT>76.080.047-3</RUT>
+    <Nombre>Cool technology limitada</Nombre>
+    <Giro>Vta,proy, rep.refrigeracion</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Americo vespucio n°2680 of 82</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6231989</Fono>
+    <Correo></Correo>
+  </Fila123>
+  <Fila124>
+    <RUT>76.081.002-9</RUT>
+    <Nombre>Mi grua limitada</Nombre>
+    <Giro>Mantenciones</Giro>
+    <Contacto>San ramon</Contacto>
+    <Direccion>Santa rosa n° 6435</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5111494</Fono>
+    <Correo></Correo>
+  </Fila124>
+  <Fila125>
+    <RUT>76.083.201-4</RUT>
+    <Nombre>Aviac 1 spa</Nombre>
+    <Giro>Vta.vehiculos ecologicos y ser.ing.</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Parinacota n° 239</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9493481</Fono>
+    <Correo></Correo>
+  </Fila125>
+  <Fila126>
+    <RUT>76.084.114-5</RUT>
+    <Nombre>Comercializadora Itamarket EIRL</Nombre>
+    <Giro>Comercializadora</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Andes n°2374</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24958568</Fono>
+    <Correo></Correo>
+  </Fila126>
+  <Fila127>
+    <RUT>76.085.335-6</RUT>
+    <Nombre>Avícola la herradura ltda.</Nombre>
+    <Giro>Avícola</Giro>
+    <Contacto>-</Contacto>
+    <Direccion>Altos la herradura s/n</Direccion>
+    <Ciudad>Coquimbo(51)</Ciudad>
+    <Fono>2265095</Fono>
+    <Correo></Correo>
+  </Fila127>
+  <Fila128>
+    <RUT>76.085.791-2</RUT>
+    <Nombre>Transco s.a</Nombre>
+    <Giro>Arriendo de equipos</Giro>
+    <Contacto>El olivar</Contacto>
+    <Direccion>Ruta 5 sur,km. 92.5</Direccion>
+    <Ciudad>Rancagua(72)</Ciudad>
+    <Fono>583660</Fono>
+    <Correo></Correo>
+  </Fila128>
+  <Fila129>
+    <RUT>76.090.823-1</RUT>
+    <Nombre>Centro de investigacion jri s.a.</Nombre>
+    <Giro>Centro investigacion</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Luis uribe n° 2343</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>3618200</Fono>
+    <Correo></Correo>
+  </Fila129>
+  <Fila130>
+    <RUT>76.090.844-4</RUT>
+    <Nombre>Comercial vicmar limitada</Nombre>
+    <Giro>Comercialización y elim.desehechos indust.</Giro>
+    <Contacto>Viña del mar</Contacto>
+    <Direccion>Las maravillas n° 280</Direccion>
+    <Ciudad>Viña del mar(32)</Ciudad>
+    <Fono>2865199</Fono>
+    <Correo></Correo>
+  </Fila130>
+  <Fila131>
+    <RUT>76.091.705-2</RUT>
+    <Nombre>Rentservices s.a.</Nombre>
+    <Giro>Imp. y rta maquinaria aseo indus.</Giro>
+    <Contacto>Quinta normal</Contacto>
+    <Direccion>Mapocho n° 5091</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2092030</Fono>
+    <Correo></Correo>
+  </Fila131>
+  <Fila132>
+    <RUT>76.096.849-8</RUT>
+    <Nombre>Bestmaint limitada</Nombre>
+    <Giro>Mantención  </Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Santa rosa n° 3699 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9840482</Fono>
+    <Correo></Correo>
+  </Fila132>
+  <Fila133>
+    <RUT>76.098.576-7</RUT>
+    <Nombre>Asistencia tecnica karcher eirl</Nombre>
+    <Giro>Servicio tecnico</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>San eugenio n° 22</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5203270</Fono>
+    <Correo></Correo>
+  </Fila133>
+  <Fila134>
+    <RUT>76.106.001-5</RUT>
+    <Nombre>Aba y Rojas Limitada</Nombre>
+    <Giro>Compra, venta, arriendo y rep. de maquinarias</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Avda.fermin vivaceta n° 728 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2732 9507</Fono>
+    <Correo></Correo>
+  </Fila134>
+  <Fila135>
+    <RUT>76.106.956-K</RUT>
+    <Nombre>Gam s.a.</Nombre>
+    <Giro>Arriendo y venta de maquinar.</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Panamericana norte km 23.5</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>82099177</Fono>
+    <Correo></Correo>
+  </Fila135>
+  <Fila136>
+    <RUT>76.108.071-7</RUT>
+    <Nombre>Importadora y Expor.Asland Ltda.</Nombre>
+    <Giro>Importadora</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>España n° 2501</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel 9208 2353</Fono>
+    <Correo></Correo>
+  </Fila136>
+  <Fila137>
+    <RUT>76.110.359-8</RUT>
+    <Nombre>Com. suttpro chile limitada</Nombre>
+    <Giro>Imp.exp.y com.de prod.quimicos</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Avda. sta. maria n°2670 of 404</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9575800</Fono>
+    <Correo></Correo>
+  </Fila137>
+  <Fila138>
+    <RUT>76.116.701-4</RUT>
+    <Nombre>Com.alo parts limitada</Nombre>
+    <Giro>Com.exp.e import.de repuestos</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Carmen silva n° 2623</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7335664</Fono>
+    <Correo></Correo>
+  </Fila138>
+  <Fila139>
+    <RUT>76.119.152-7</RUT>
+    <Nombre>Dlc soluciones en packaging spa</Nombre>
+    <Giro>Comercialización y producción</Giro>
+    <Contacto>Pto. montt</Contacto>
+    <Direccion>Ruta v 505 km 3,5 sector la vara</Direccion>
+    <Ciudad>Pto. montt(65)</Ciudad>
+    <Fono>230616</Fono>
+    <Correo></Correo>
+  </Fila139>
+  <Fila140>
+    <RUT>76.134.412-9</RUT>
+    <Nombre>Comercial salcom limitada</Nombre>
+    <Giro>Comercial</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Rafael sotomayor n° 840</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6823073</Fono>
+    <Correo></Correo>
+  </Fila140>
+  <Fila141>
+    <RUT>76.134.941-4</RUT>
+    <Nombre>Adm.de supermercados hiper ltda.</Nombre>
+    <Giro>Hipermercado</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. eduardo frei m. n° 8301</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22005000</Fono>
+    <Correo></Correo>
+  </Fila141>
+  <Fila142>
+    <RUT>76.136.166-K</RUT>
+    <Nombre>Servitec f.g.reparac. y vtas ltda.</Nombre>
+    <Giro>Reparacion y ventas</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Bascuñan guerrero n° 1924</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6842378</Fono>
+    <Correo></Correo>
+  </Fila142>
+  <Fila143>
+    <RUT>76.136.210-0</RUT>
+    <Nombre>Servicios agroindustriales subsole s.a.</Nombre>
+    <Giro>Frigorifico</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Avda. luis pasteur n° 5661</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29406400</Fono>
+    <Correo></Correo>
+  </Fila143>
+  <Fila144>
+    <RUT>76.137.929-1</RUT>
+    <Nombre>Comercial mi camion limitada</Nombre>
+    <Giro>Importadora</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Camino lonquen n° 13040</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25356403</Fono>
+    <Correo></Correo>
+  </Fila144>
+  <Fila145>
+    <RUT>76.138.141-5</RUT>
+    <Nombre>Enadhe chemical spa</Nombre>
+    <Giro>Import. distrib. y comercializacion</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Volcan lascar poniente 839</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4430140</Fono>
+    <Correo></Correo>
+  </Fila145>
+  <Fila146>
+    <RUT>76.141.593-K</RUT>
+    <Nombre>Logistica industrial eirl</Nombre>
+    <Giro>Venta, arriendo y reparacion</Giro>
+    <Contacto>Quinta normal</Contacto>
+    <Direccion>Padre tadeo 4381</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4552984</Fono>
+    <Correo></Correo>
+  </Fila146>
+  <Fila147>
+    <RUT>76.145.118-9</RUT>
+    <Nombre>Transp.de maquinarias y equipos ltda.</Nombre>
+    <Giro>Transporte carga</Giro>
+    <Contacto>Osorno</Contacto>
+    <Direccion>Ecuador n° 779</Direccion>
+    <Ciudad>Osorno</Ciudad>
+    <Fono>96445939</Fono>
+    <Correo></Correo>
+  </Fila147>
+  <Fila148>
+    <RUT>76.154.253-2</RUT>
+    <Nombre>G y a limitada</Nombre>
+    <Giro>Obras de ingenieria</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Avda. angol n° 1651</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>78540683</Fono>
+    <Correo></Correo>
+  </Fila148>
+  <Fila149>
+    <RUT>76.155.166-3</RUT>
+    <Nombre>Servicios automotrices pamela pinto lippi eirl</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Lia aguirre n° 155</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>92382446</Fono>
+    <Correo></Correo>
+  </Fila149>
+  <Fila150>
+    <RUT>76.155.567-7</RUT>
+    <Nombre>Soc. navarrete&amp;navarrete ltda.</Nombre>
+    <Giro>Manten. y reparacion maquinaria</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Americo vespucio n° 766</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24012808</Fono>
+    <Correo></Correo>
+  </Fila150>
+  <Fila151>
+    <RUT>76.157.302-0</RUT>
+    <Nombre>Maquinarias amadeus limitada</Nombre>
+    <Giro>Maquinarias</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. buzeta n° 4028</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6830262</Fono>
+    <Correo></Correo>
+  </Fila151>
+  <Fila152>
+    <RUT>76.159.154-1</RUT>
+    <Nombre>Procesadora  baika s.p.a.</Nombre>
+    <Giro>Servicio de embalaje y packing</Giro>
+    <Contacto>San felipe</Contacto>
+    <Direccion>Avda. jose manso de velasco n° 28</Direccion>
+    <Ciudad>San felipe(34)</Ciudad>
+    <Fono>512116</Fono>
+    <Correo></Correo>
+  </Fila152>
+  <Fila153>
+    <RUT>76.162.492-K</RUT>
+    <Nombre>Ypf chile s.a.</Nombre>
+    <Giro>Vta. combus.liq.lubrican.ext.de petroleo</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Villarrica n°322   modulo c9</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27390524</Fono>
+    <Correo></Correo>
+  </Fila153>
+  <Fila154>
+    <RUT>76.168.859-6</RUT>
+    <Nombre>Jormac eirl</Nombre>
+    <Giro>Reparacion y mantencion maq.</Giro>
+    <Contacto>Qta. normal</Contacto>
+    <Direccion>Hoevel n° 4890</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>82915570</Fono>
+    <Correo></Correo>
+  </Fila154>
+  <Fila155>
+    <RUT>76.171.450-3</RUT>
+    <Nombre>Tecnica hidraulica limitada</Nombre>
+    <Giro>Ventas y reparacion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Diagonal paraguay n° 48166</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7645666</Fono>
+    <Correo></Correo>
+  </Fila155>
+  <Fila156>
+    <RUT>76.183.888-1</RUT>
+    <Nombre>Comercial rovitec spa</Nombre>
+    <Giro>Com.y serv.tecn.de maquinarias</Giro>
+    <Contacto>Quinta normal</Contacto>
+    <Direccion>Spech n° 1751</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27725038</Fono>
+    <Correo></Correo>
+  </Fila156>
+  <Fila157>
+    <RUT>76.183.975-6</RUT>
+    <Nombre>Serv.y rep.de maq.y her.ramon ovando eirl</Nombre>
+    <Giro>Reparaciones de maquinas</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Jose miguel carrera n° 13694 local k-14</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>94771240</Fono>
+    <Correo></Correo>
+  </Fila157>
+  <Fila158>
+    <RUT>76.188.883-8</RUT>
+    <Nombre>Alimentos frios y deliciosos s.a.</Nombre>
+    <Giro>Elab.com.y distr.propia o aj.de alimentos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Faro cabo de hornos n° 171 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27979100</Fono>
+    <Correo></Correo>
+  </Fila158>
+  <Fila159>
+    <RUT>76.189.740-3</RUT>
+    <Nombre>Austral freezer loginsa s.a.</Nombre>
+    <Giro>Almacenaje y bodegaje</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Antillanca n° 451</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4134000</Fono>
+    <Correo></Correo>
+  </Fila159>
+  <Fila160>
+    <RUT>76.196.282-5</RUT>
+    <Nombre>Nihusa service limitada</Nombre>
+    <Giro>Obras menores y mantencion</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Jardin alto n° 8981</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>88154422</Fono>
+    <Correo></Correo>
+  </Fila160>
+  <Fila161>
+    <RUT>76.199.082-9</RUT>
+    <Nombre>Procesadora del maipo s.a.</Nombre>
+    <Giro>Procesadora de frutas</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Bajos de matte 3346</Direccion>
+    <Ciudad>Buin</Ciudad>
+    <Fono>28296000</Fono>
+    <Correo></Correo>
+  </Fila161>
+  <Fila162>
+    <RUT>76.200.162-4</RUT>
+    <Nombre>Vicorp s.a.</Nombre>
+    <Giro>Import.articulos de ferreteria</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>San francisco n° 144</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>3890000</Fono>
+    <Correo></Correo>
+  </Fila162>
+  <Fila163>
+    <RUT>76.219.493-7</RUT>
+    <Nombre>Inmetal S.A.</Nombre>
+    <Giro>Fabrica de estructuras metalicas</Giro>
+    <Contacto>providencia</Contacto>
+    <Direccion>La concepcion n° 81 of.608</Direccion>
+    <Ciudad>santiago</Ciudad>
+    <Fono>98406835</Fono>
+    <Correo></Correo>
+  </Fila163>
+  <Fila164>
+    <RUT>76.221.370-2</RUT>
+    <Nombre>Bombas grundfos chile limitada</Nombre>
+    <Giro>Imp.yexpor.maq.y equipos bombas agua</Giro>
+    <Contacto>Colina</Contacto>
+    <Direccion>Hnos.carrera pinto n°137 bod.a-c.sn martin alt.16500</Direccion>
+    <Ciudad>Colina</Ciudad>
+    <Fono>6780000</Fono>
+    <Correo></Correo>
+  </Fila164>
+  <Fila165>
+    <RUT>76.223.751-2</RUT>
+    <Nombre>Cristian thenoux v.comer.y serv. eirl</Nombre>
+    <Giro>Comercio electronico e importaciones</Giro>
+    <Contacto>Viña del mar</Contacto>
+    <Direccion>El palto 3001 , edificio quillay , dpto 402</Direccion>
+    <Ciudad>Viña del mar</Ciudad>
+    <Fono>98720124</Fono>
+    <Correo></Correo>
+  </Fila165>
+  <Fila166>
+    <RUT>76.232.440-7</RUT>
+    <Nombre>Prosol chile spa</Nombre>
+    <Giro>Venta y arriendo de equipos</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Gamero n° 1623</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27899577</Fono>
+    <Correo></Correo>
+  </Fila166>
+  <Fila167>
+    <RUT>76.241.480-K</RUT>
+    <Nombre>Link limitada</Nombre>
+    <Giro>Muebles</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Cam.los pinos-parc.32-galpon 18</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5617371</Fono>
+    <Correo></Correo>
+  </Fila167>
+  <Fila168>
+    <RUT>76.242.085-6</RUT>
+    <Nombre>Todo espacio s.a.</Nombre>
+    <Giro>Logistica y bodegaje</Giro>
+    <Contacto>Colina</Contacto>
+    <Direccion>La montaña n°40 p.indust.los libertadores</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29488110</Fono>
+    <Correo></Correo>
+  </Fila168>
+  <Fila169>
+    <RUT>76.248.962-7</RUT>
+    <Nombre>Ocean spray chile spa</Nombre>
+    <Giro>Indus. y comercializacion de productos de cranberry</Giro>
+    <Contacto>Lanco</Contacto>
+    <Direccion>Ruta 5 sur kilometro 771</Direccion>
+    <Ciudad>Lanco(63)</Ciudad>
+    <Fono>272727</Fono>
+    <Correo></Correo>
+  </Fila169>
+  <Fila170>
+    <RUT>76.257.796-8</RUT>
+    <Nombre>San francisco ingenieria y mantenimiento industrial ltda.</Nombre>
+    <Giro>Mantenimiento industrial</Giro>
+    <Contacto>Casablanca</Contacto>
+    <Direccion>Lote a 17-6, fundo el refugio, sector lo valle</Direccion>
+    <Ciudad>Valparaiso</Ciudad>
+    <Fono>32 / 215 1200</Fono>
+    <Correo></Correo>
+  </Fila170>
+  <Fila171>
+    <RUT>76.263.058-3</RUT>
+    <Nombre>Comerc.e importadora batterytrac ltda.</Nombre>
+    <Giro>Venta de baterias y cargadores</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Tegualda n° 1611</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98296859</Fono>
+    <Correo></Correo>
+  </Fila171>
+  <Fila172>
+    <RUT>76.265.740-6</RUT>
+    <Nombre>Inmob.y construct. lapco limitada</Nombre>
+    <Giro>Inmobiliaria y constructora</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Avda. francisco de aguirre n° 3727</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23639801</Fono>
+    <Correo></Correo>
+  </Fila172>
+  <Fila173>
+    <RUT>76.267.689-3</RUT>
+    <Nombre>Leet service limitada</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Con-con</Contacto>
+    <Direccion>Del sol n° 55 of.62</Direccion>
+    <Ciudad>Viña del mar</Ciudad>
+    <Fono>62720469</Fono>
+    <Correo></Correo>
+  </Fila173>
+  <Fila174>
+    <RUT>76.267.689-3</RUT>
+    <Nombre>Letelier Limitada</Nombre>
+    <Giro>Mantencion de maquinarias</Giro>
+    <Contacto>Concon</Contacto>
+    <Direccion>El sol n° 562</Direccion>
+    <Ciudad>Concon</Ciudad>
+    <Fono>93426204</Fono>
+    <Correo></Correo>
+  </Fila174>
+  <Fila175>
+    <RUT>76.267.959-0</RUT>
+    <Nombre>Tecsemaq spa</Nombre>
+    <Giro>Servicios de mantencion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Moneda n° 812 of.1006</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26014535</Fono>
+    <Correo></Correo>
+  </Fila175>
+  <Fila176>
+    <RUT>76.270.092-1</RUT>
+    <Nombre>Emasa Logistica Spa.</Nombre>
+    <Giro>Operador logistico</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Vicente reyes n° 595</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2520 3488</Fono>
+    <Correo></Correo>
+  </Fila176>
+  <Fila177>
+    <RUT>76.294.096-5</RUT>
+    <Nombre>Delfos limitada</Nombre>
+    <Giro>Mantencion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Bandera n°566 of n°94</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>90870878</Fono>
+    <Correo></Correo>
+  </Fila177>
+  <Fila178>
+    <RUT>76.300.170-9</RUT>
+    <Nombre>Sedgman s.a. (chile)</Nombre>
+    <Giro>Ejecucion y const.obras civiles</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Apoquindo n° 4501 - piso 17</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>3656100</Fono>
+    <Correo></Correo>
+  </Fila178>
+  <Fila179>
+    <RUT>76.307.626-1</RUT>
+    <Nombre>Transportes Via Futuro EIRL</Nombre>
+    <Giro>Transporte</Giro>
+    <Contacto>Coquimbo</Contacto>
+    <Direccion>Serrano 280</Direccion>
+    <Ciudad>Coquimbo</Ciudad>
+    <Fono>0</Fono>
+    <Correo></Correo>
+  </Fila179>
+  <Fila180>
+    <RUT>76.309.387-5</RUT>
+    <Nombre>Battery service spa</Nombre>
+    <Giro>Arriendo y mant.de baterias</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Camino de la caridad n° 6793</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>82099573</Fono>
+    <Correo></Correo>
+  </Fila180>
+  <Fila181>
+    <RUT>76.315.404-1</RUT>
+    <Nombre>Man.y rep.de vehic. auto.fabian tudela b.eirl</Nombre>
+    <Giro>Mantenimiento y reparacion  de motores</Giro>
+    <Contacto>Qta. normal</Contacto>
+    <Direccion>Psaje san gerardo n° 4999</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>74076363</Fono>
+    <Correo></Correo>
+  </Fila181>
+  <Fila182>
+    <RUT>76.326.063-1</RUT>
+    <Nombre>Soc.comercial y de servicios limitada</Nombre>
+    <Giro>Mantencion</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Rivas n° 1012 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28918036</Fono>
+    <Correo></Correo>
+  </Fila182>
+  <Fila183>
+    <RUT>76.340.030-1</RUT>
+    <Nombre>Fullpal s.a.</Nombre>
+    <Giro>Com.y vta. produc.  agricolas</Giro>
+    <Contacto>La calera</Contacto>
+    <Direccion>Fdo. bellavista s/n cam.el olivo</Direccion>
+    <Ciudad>La calera(33)</Ciudad>
+    <Fono>221913</Fono>
+    <Correo></Correo>
+  </Fila183>
+  <Fila184>
+    <RUT>76.347.890-4</RUT>
+    <Nombre>Serv.elec.autom.y maq. bastias y alfaro ltda.</Nombre>
+    <Giro>Servicio de maquinaria</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Avenida el parron n° 0862</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25480952</Fono>
+    <Correo></Correo>
+  </Fila184>
+  <Fila185>
+    <RUT>76.349.700-3</RUT>
+    <Nombre>Importadora bzz limitada</Nombre>
+    <Giro>Importadora</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Roberto del rio n° 1742</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27735754</Fono>
+    <Correo></Correo>
+  </Fila185>
+  <Fila186>
+    <RUT>76.354.552-0</RUT>
+    <Nombre>Productos y mantenciones Ind.Ltda.</Nombre>
+    <Giro>Compra y venta de insumos industriales</Giro>
+    <Contacto>Maipu </Contacto>
+    <Direccion>Concierto n° 311</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98025820</Fono>
+    <Correo></Correo>
+  </Fila186>
+  <Fila187>
+    <RUT>76.355.360-4</RUT>
+    <Nombre>Canada chemicals s.a.</Nombre>
+    <Giro>Distribuidora</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Volcan lascar poniente 839</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25622550</Fono>
+    <Correo></Correo>
+  </Fila187>
+  <Fila188>
+    <RUT>76.359.535-8</RUT>
+    <Nombre>Forestal Pino Sur Ltda.</Nombre>
+    <Giro>Servicios forestales</Giro>
+    <Contacto>Los angeles</Contacto>
+    <Direccion>Parcela la piña km 8 , camino a sta. fe</Direccion>
+    <Ciudad>Los angeles</Ciudad>
+    <Fono>5149 0495</Fono>
+    <Correo></Correo>
+  </Fila188>
+  <Fila189>
+    <RUT>76.384.946-5</RUT>
+    <Nombre>Transgener Limitada</Nombre>
+    <Giro>Ingenieria y servicios</Giro>
+    <Contacto>Talca</Contacto>
+    <Direccion>6 1/2 poniente c n° 0960</Direccion>
+    <Ciudad>Talca</Ciudad>
+    <Fono>9372 8489</Fono>
+    <Correo></Correo>
+  </Fila189>
+  <Fila190>
+    <RUT>76.406.480-1</RUT>
+    <Nombre>Constructora puchi limitada</Nombre>
+    <Giro>Constructora</Giro>
+    <Contacto>Talca</Contacto>
+    <Direccion>4 norte n° 1537</Direccion>
+    <Ciudad>Talca(71)</Ciudad>
+    <Fono>688323</Fono>
+    <Correo></Correo>
+  </Fila190>
+  <Fila191>
+    <RUT>76.454.250-9</RUT>
+    <Nombre>Maq. pedro undurraga e. eirl</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Corte de apelaciones n° 1183</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7645000</Fono>
+    <Correo></Correo>
+  </Fila191>
+  <Fila192>
+    <RUT>76.457.550-4</RUT>
+    <Nombre>Tecnimaq limitada</Nombre>
+    <Giro>Rep.y vtas.maquinarias</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Santa teresa n° 0319</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5488015</Fono>
+    <Correo></Correo>
+  </Fila192>
+  <Fila193>
+    <RUT>76.478.060-4</RUT>
+    <Nombre>Maqimport limitada</Nombre>
+    <Giro>Servicios  </Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. buzeta n° 4083</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6830262</Fono>
+    <Correo></Correo>
+  </Fila193>
+  <Fila194>
+    <RUT>76.480.760-K</RUT>
+    <Nombre>Transportes atenas limitada</Nombre>
+    <Giro>Transporte de carga</Giro>
+    <Contacto>Lo espejo</Contacto>
+    <Direccion>Av.lo espejo n° 01565 p-11 / g-1106</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5489081</Fono>
+    <Correo></Correo>
+  </Fila194>
+  <Fila195>
+    <RUT>76.492.400-2</RUT>
+    <Nombre>Komatsu reman cente.chile s.a.</Nombre>
+    <Giro>Repar. de motores generadores</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Americo vespucio n° 0631</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6557253</Fono>
+    <Correo></Correo>
+  </Fila195>
+  <Fila196>
+    <RUT>76.497.940-0</RUT>
+    <Nombre>Assbien chile limitada</Nombre>
+    <Giro>Servicios industriales</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>San jose n° 5956 b</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27276508</Fono>
+    <Correo></Correo>
+  </Fila196>
+  <Fila197>
+    <RUT>76.500.360-1</RUT>
+    <Nombre>Movicarga limitada</Nombre>
+    <Giro>Servicios y reparaciones</Giro>
+    <Contacto>Est.central</Contacto>
+    <Direccion>Fernando yungue n°1393</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>84855263</Fono>
+    <Correo></Correo>
+  </Fila197>
+  <Fila198>
+    <RUT>76.509.990-0</RUT>
+    <Nombre>Servicios Logisticos Integrales Servilog Limitada</Nombre>
+    <Giro>Montaje,mant.reparacion de estanter metalicos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Rio palena n° 9677 parque eneas</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2437 5170</Fono>
+    <Correo></Correo>
+  </Fila198>
+  <Fila199>
+    <RUT>76.522.680-5</RUT>
+    <Nombre>Juan araos y cia. limitada</Nombre>
+    <Giro>Metalmecanica</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Vista hermosa n° 9790</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5380677</Fono>
+    <Correo></Correo>
+  </Fila199>
+  <Fila200>
+    <RUT>76.528.110-5</RUT>
+    <Nombre>Ald logistica limitada</Nombre>
+    <Giro>Logistica</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Puerto madero n° 9710 bodega e7</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5448620</Fono>
+    <Correo></Correo>
+  </Fila200>
+  <Fila201>
+    <RUT>76.529.300-6</RUT>
+    <Nombre>Morteros transex limitada</Nombre>
+    <Giro>Morteros y hormigones</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. del valle n°850</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>3926102</Fono>
+    <Correo></Correo>
+  </Fila201>
+  <Fila202>
+    <RUT>76.538.900-3</RUT>
+    <Nombre>Comercial barbillon limitada</Nombre>
+    <Giro>Venta y arriendo baterias</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Juan de la fuente n° 584 galpon c</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26500680</Fono>
+    <Correo></Correo>
+  </Fila202>
+  <Fila203>
+    <RUT>76.541.630-2</RUT>
+    <Nombre>K + s chile s.a.</Nombre>
+    <Giro>Extraccion y venta de sal</Giro>
+    <Contacto>San antonio</Contacto>
+    <Direccion>Angamos n° 1681</Direccion>
+    <Ciudad>San antonio(35)</Ciudad>
+    <Fono>2353300</Fono>
+    <Correo></Correo>
+  </Fila203>
+  <Fila204>
+    <RUT>76.586.560-3</RUT>
+    <Nombre>Importadora inter-wheels s.a.</Nombre>
+    <Giro>Imp.exp.com.de maquinarias neum.y rep.</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Fresia n° 9321 - c</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4435898</Fono>
+    <Correo></Correo>
+  </Fila204>
+  <Fila205>
+    <RUT>76.587.770-9</RUT>
+    <Nombre>Aerolinea principal chile s.a </Nombre>
+    <Giro>Trtasporte aereo de pasajeros</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Carmencita n° 25 local 1</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>72616663</Fono>
+    <Correo></Correo>
+  </Fila205>
+  <Fila206>
+    <RUT>76.613.360-6</RUT>
+    <Nombre>Transportes guacarhue limitada</Nombre>
+    <Giro>Transporte</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Santiago concha n° 2192</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>77482709</Fono>
+    <Correo></Correo>
+  </Fila206>
+  <Fila207>
+    <RUT>76.628.760-3</RUT>
+    <Nombre>Spitec renta lift limitada</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Puerto madero n° 9691</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4997100</Fono>
+    <Correo></Correo>
+  </Fila207>
+  <Fila208>
+    <RUT>76.648.630-4</RUT>
+    <Nombre>C.n.c. service limitada</Nombre>
+    <Giro>Servicio tecnico</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Gral freire n° 780 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4436822</Fono>
+    <Correo></Correo>
+  </Fila208>
+  <Fila209>
+    <RUT>76.657.030-5</RUT>
+    <Nombre>Cesmar chile s.a.</Nombre>
+    <Giro>Comercial</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Rivas n° 1012 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>35944747</Fono>
+    <Correo></Correo>
+  </Fila209>
+  <Fila210>
+    <RUT>76.669.430-6</RUT>
+    <Nombre>Agric. y comercial lampa s.a.</Nombre>
+    <Giro>Comp.vtas.de frutas y verduras</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Fdo.rancho esmeralda s/n</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8422403</Fono>
+    <Correo></Correo>
+  </Fila210>
+  <Fila211>
+    <RUT>76.694.190-7</RUT>
+    <Nombre>Ilemaq e.i.r.l.</Nombre>
+    <Giro>Mantencion y const.de maquinarias indus</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Isabel  riquelme n° 711</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>81984328</Fono>
+    <Correo></Correo>
+  </Fila211>
+  <Fila212>
+    <RUT>76.718.890-0</RUT>
+    <Nombre>Asa comercial limitada</Nombre>
+    <Giro>Servicios y arriendos</Giro>
+    <Contacto>Quinta normal</Contacto>
+    <Direccion>Lazo de la vega n° 4771</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7744177</Fono>
+    <Correo></Correo>
+  </Fila212>
+  <Fila213>
+    <RUT>76.759.090-3</RUT>
+    <Nombre>Agricola agrosen limitada</Nombre>
+    <Giro>Agricola</Giro>
+    <Contacto>Pelequen</Contacto>
+    <Direccion>Avda. sta. rosa n° 165</Direccion>
+    <Ciudad>Malloa(72)</Ciudad>
+    <Fono>384338</Fono>
+    <Correo></Correo>
+  </Fila213>
+  <Fila214>
+    <RUT>76.807.250-7</RUT>
+    <Nombre>Dimer limitada</Nombre>
+    <Giro>Distribuidora</Giro>
+    <Contacto>El salto</Contacto>
+    <Direccion>Calle limache at.5001 pje.n°6 n° 2324</Direccion>
+    <Ciudad>Viña del mar(32)</Ciudad>
+    <Fono>2675797</Fono>
+    <Correo></Correo>
+  </Fila214>
+  <Fila215>
+    <RUT>76.820.780-1</RUT>
+    <Nombre>Soc. com. maktub y cia. limitada</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Juan de la fuente n° 584 local e</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7471628</Fono>
+    <Correo></Correo>
+  </Fila215>
+  <Fila216>
+    <RUT>76.835.240-2</RUT>
+    <Nombre>Operadora logist.family express ltda.</Nombre>
+    <Giro>Transporte de carga </Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Santa elena de huechuraba 1145</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28964700</Fono>
+    <Correo></Correo>
+  </Fila216>
+  <Fila217>
+    <RUT>76.872.560-8</RUT>
+    <Nombre>Cobra chile servicios s.a.</Nombre>
+    <Giro>Contratista obras civiles</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Avda. jose p.alessandri n° 2323</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6774921</Fono>
+    <Correo></Correo>
+  </Fila217>
+  <Fila218>
+    <RUT>76.923.400-4</RUT>
+    <Nombre>Aldana y aldana</Nombre>
+    <Giro>Com.y mantecion de maquinar.</Giro>
+    <Contacto>San joaquin</Contacto>
+    <Direccion>Pureo n° 272</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8911550</Fono>
+    <Correo></Correo>
+  </Fila218>
+  <Fila219>
+    <RUT>76.928.620-9</RUT>
+    <Nombre>Luis alvarez villegas eirl</Nombre>
+    <Giro>Mantencion y reparacion</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Cabo de hornos n°14087</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>82207684</Fono>
+    <Correo></Correo>
+  </Fila219>
+  <Fila220>
+    <RUT>76.929.590-9</RUT>
+    <Nombre>Com.maqdepot s.a.</Nombre>
+    <Giro>Arrend.y com.de maquinarias</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>San ignacio n° 080-l</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7385883</Fono>
+    <Correo></Correo>
+  </Fila220>
+  <Fila221>
+    <RUT>76.976.380-5</RUT>
+    <Nombre>Serv.de mantencion limitada</Nombre>
+    <Giro>Electromecanica</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Departamental n° 750</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>93384994</Fono>
+    <Correo></Correo>
+  </Fila221>
+  <Fila222>
+    <RUT>77.115.180-9</RUT>
+    <Nombre>Octavio navarrete e hijo ltda.</Nombre>
+    <Giro>Serv.  baterias industriales</Giro>
+    <Contacto>Chimbarongo</Contacto>
+    <Direccion>Longitudinal sur km 153</Direccion>
+    <Ciudad>Chimbarongo(72)</Ciudad>
+    <Fono>781294</Fono>
+    <Correo></Correo>
+  </Fila222>
+  <Fila223>
+    <RUT>77.124.500-5</RUT>
+    <Nombre>Soc.manufac. de plasticos ltda</Nombre>
+    <Giro>Manufacturera de plasticos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda.el colorado n° 621 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24299500</Fono>
+    <Correo></Correo>
+  </Fila223>
+  <Fila224>
+    <RUT>77.154.120-8</RUT>
+    <Nombre>Arr.de maquinarias lift serv.ltda</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Corte de apelaciones n° 1183</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7645000</Fono>
+    <Correo></Correo>
+  </Fila224>
+  <Fila225>
+    <RUT>77.177.950-6</RUT>
+    <Nombre>Gruas thenoux limitada</Nombre>
+    <Giro>Arriendo, mant.repa.y vta gruas</Giro>
+    <Contacto>Viña del mar</Contacto>
+    <Direccion>22 norte 1949 of.c   sta ines</Direccion>
+    <Ciudad>Viña del mar(32)</Ciudad>
+    <Fono>2336133</Fono>
+    <Correo></Correo>
+  </Fila225>
+  <Fila226>
+    <RUT>77.184.830-3</RUT>
+    <Nombre>Emp.invers.pedro rivera ramos eirl</Nombre>
+    <Giro>Inversiones</Giro>
+    <Contacto>Calama</Contacto>
+    <Direccion>Aconcagua n° 2692</Direccion>
+    <Ciudad>Calama(55)</Ciudad>
+    <Fono>363217</Fono>
+    <Correo></Correo>
+  </Fila226>
+  <Fila227>
+    <RUT>77.188.140-8</RUT>
+    <Nombre>Importadora tulipan limitada</Nombre>
+    <Giro>Impor.y dist.articulos de vestir</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Sta.elena de huechuraba n°1145 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8964700</Fono>
+    <Correo></Correo>
+  </Fila227>
+  <Fila228>
+    <RUT>77.190.880-2</RUT>
+    <Nombre>Soc.import.optivision ltda.</Nombre>
+    <Giro>Importadora</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Abelardo pizarro n° 481</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22226000</Fono>
+    <Correo></Correo>
+  </Fila228>
+  <Fila229>
+    <RUT>77.234.900-9</RUT>
+    <Nombre>Logistica tepual limitada</Nombre>
+    <Giro>Serv.de logistica y distribución de merca.</Giro>
+    <Contacto>Pto. montt</Contacto>
+    <Direccion>Urmeneta n° 715, 7° piso of. 701</Direccion>
+    <Ciudad>Pto. montt(65)</Ciudad>
+    <Fono>292770</Fono>
+    <Correo></Correo>
+  </Fila229>
+  <Fila230>
+    <RUT>77.238.060-7</RUT>
+    <Nombre>Rosenberger sudamerica ltda.</Nombre>
+    <Giro>Comp.vta.equipos y mater.para telecom.</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Aldunate n° 1961</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23671170</Fono>
+    <Correo></Correo>
+  </Fila230>
+  <Fila231>
+    <RUT>77.273.120-5</RUT>
+    <Nombre>Emerson electric chile limitada</Nombre>
+    <Giro>Importaciones e instalaciones</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda.del valle n° 601 piso 4 c.emp.</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9234232</Fono>
+    <Correo></Correo>
+  </Fila231>
+  <Fila232>
+    <RUT>77.286.460-4</RUT>
+    <Nombre>Soc.com.taprod limitada</Nombre>
+    <Giro>Maquinarias</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Avda.independencia n° 2857</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7344156</Fono>
+    <Correo></Correo>
+  </Fila232>
+  <Fila233>
+    <RUT>77.300.300-9</RUT>
+    <Nombre>Pearson educacion de chile limitada</Nombre>
+    <Giro>Editorial asesorias de educacion</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>José ananias n° 505</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7199700</Fono>
+    <Correo></Correo>
+  </Fila233>
+  <Fila234>
+    <RUT>77.302.440-5</RUT>
+    <Nombre>Tecnored s.a.</Nombre>
+    <Giro>Prestacion de serv. electricos</Giro>
+    <Contacto>Placilla</Contacto>
+    <Direccion>Cerro el plomo n° 3819</Direccion>
+    <Ciudad>Valparaiso(32)</Ciudad>
+    <Fono>2265394</Fono>
+    <Correo></Correo>
+  </Fila234>
+  <Fila235>
+    <RUT>77.305.910-1</RUT>
+    <Nombre>Gms productos graficos limitada</Nombre>
+    <Giro>Distribuidora de productos graficos</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Santa filomena n° 66</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7300000</Fono>
+    <Correo></Correo>
+  </Fila235>
+  <Fila236>
+    <RUT>77.307.310-4</RUT>
+    <Nombre>Agricola com.vivero rancagua s.a.</Nombre>
+    <Giro>Servicios de empaque</Giro>
+    <Contacto>Rancagua</Contacto>
+    <Direccion>Ruta 5 sur n° 04000</Direccion>
+    <Ciudad>Rancagua</Ciudad>
+    <Fono>62366574</Fono>
+    <Correo></Correo>
+  </Fila236>
+  <Fila237>
+    <RUT>77.324.900-8</RUT>
+    <Nombre>Maquinarias Sur Limitada</Nombre>
+    <Giro>Arriendo de maquinarias</Giro>
+    <Contacto>Pto. varas</Contacto>
+    <Direccion>Ruta 5 sur km. 1009 parcelacion la laja s/n</Direccion>
+    <Ciudad>Puerto varas</Ciudad>
+    <Fono>65 / 226 3601</Fono>
+    <Correo></Correo>
+  </Fila237>
+  <Fila238>
+    <RUT>77.349.320-0</RUT>
+    <Nombre>Comercial Amar Hnos.y Cia. Ltda.</Nombre>
+    <Giro>Supermercado</Giro>
+    <Contacto>Temuco</Contacto>
+    <Direccion>Avda.recabarren n° 01515</Direccion>
+    <Ciudad>Temuco</Ciudad>
+    <Fono>452992581</Fono>
+    <Correo></Correo>
+  </Fila238>
+  <Fila239>
+    <RUT>77.395.150-0</RUT>
+    <Nombre>Martha correa y cia. limitada</Nombre>
+    <Giro>Prod. eventos</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Mexico n° 720</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26223639</Fono>
+    <Correo></Correo>
+  </Fila239>
+  <Fila240>
+    <RUT>77.417.960-7</RUT>
+    <Nombre>Manuel mondaca y cia. ltda.</Nombre>
+    <Giro>Contratista</Giro>
+    <Contacto>Valparaiso</Contacto>
+    <Direccion>Central 950</Direccion>
+    <Ciudad>Valparaiso(32)</Ciudad>
+    <Fono>2292975</Fono>
+    <Correo></Correo>
+  </Fila240>
+  <Fila241>
+    <RUT>77.419.370-7</RUT>
+    <Nombre>Nicomaq limitada</Nombre>
+    <Giro>Arriendo de maquinarias</Giro>
+    <Contacto>Los angeles</Contacto>
+    <Direccion>Avda.  alcazar n°636</Direccion>
+    <Ciudad>Los angeles</Ciudad>
+    <Fono>95254825</Fono>
+    <Correo></Correo>
+  </Fila241>
+  <Fila242>
+    <RUT>77.442.850-K</RUT>
+    <Nombre>Agricola gonzalez limitada</Nombre>
+    <Giro>Explotacion y serv. agricolas</Giro>
+    <Contacto>Curico</Contacto>
+    <Direccion>Longitudinal sur km. 189</Direccion>
+    <Ciudad>Curico(75)</Ciudad>
+    <Fono>543320</Fono>
+    <Correo></Correo>
+  </Fila242>
+  <Fila243>
+    <RUT>77.482.540-1</RUT>
+    <Nombre>Ingeniería y logística aplicada ltda.</Nombre>
+    <Giro>Servicio de ingenieria logistica</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Avda.puerto madero n° 9620 p.ind.pto.stgo</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24117266</Fono>
+    <Correo></Correo>
+  </Fila243>
+  <Fila244>
+    <RUT>77.503.130-1</RUT>
+    <Nombre>Administracion y transp.agurto</Nombre>
+    <Giro>Administracion y transporte</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Bruselas n° 2583</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25548604</Fono>
+    <Correo></Correo>
+  </Fila244>
+  <Fila245>
+    <RUT>77.505.400-K</RUT>
+    <Nombre>Mallas protekta ltda.</Nombre>
+    <Giro>Importadora de mallas</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>La cordillera n° 21</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29527966</Fono>
+    <Correo></Correo>
+  </Fila245>
+  <Fila246>
+    <RUT>77.523.180-7</RUT>
+    <Nombre>Pulmahue limitada</Nombre>
+    <Giro>Fab.de productos metalicos</Giro>
+    <Contacto>Qta. normal</Contacto>
+    <Direccion>Mapocho n° 5555</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7862479</Fono>
+    <Correo></Correo>
+  </Fila246>
+  <Fila247>
+    <RUT>77.526.480-2</RUT>
+    <Nombre>Comercializadora novaverde limitada</Nombre>
+    <Giro>Agroindustria</Giro>
+    <Contacto>Colina</Contacto>
+    <Direccion>Gral.sn martin km.16.5 simon bolivar 19</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4110150</Fono>
+    <Correo></Correo>
+  </Fila247>
+  <Fila248>
+    <RUT>77.541.040-K</RUT>
+    <Nombre>Vitivinicola perez cruz limitada</Nombre>
+    <Giro>Elaboracion, comerc.y distrib.</Giro>
+    <Contacto>Huelquen</Contacto>
+    <Direccion>Fundo liguai s/n </Direccion>
+    <Ciudad>Paine</Ciudad>
+    <Fono>8242405</Fono>
+    <Correo></Correo>
+  </Fila248>
+  <Fila249>
+    <RUT>77.563.130-9</RUT>
+    <Nombre>Soc.comerci.new trade limitada</Nombre>
+    <Giro>Com.mayorista de prod.plasticos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Avda. juan de la fuente n° 684</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27954900</Fono>
+    <Correo></Correo>
+  </Fila249>
+  <Fila250>
+    <RUT>77.568.780-0</RUT>
+    <Nombre>Agroindustria new agra limitada</Nombre>
+    <Giro>Agroindustria</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Don carlos n° 2939 of. 506</Direccion>
+    <Ciudad>Santiago(34)</Ciudad>
+    <Fono>531270</Fono>
+    <Correo></Correo>
+  </Fila250>
+  <Fila251>
+    <RUT>77.588.320-0</RUT>
+    <Nombre>Inmob.y serv. alarcon limitada</Nombre>
+    <Giro>Construccion</Giro>
+    <Contacto>Colina</Contacto>
+    <Direccion>Avda. las aguilas n° 42</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26019703</Fono>
+    <Correo></Correo>
+  </Fila251>
+  <Fila252>
+    <RUT>77.618.100-5</RUT>
+    <Nombre>Comercial de Productos industriales S.A.</Nombre>
+    <Giro>Centro dist.y repres.de adhesivos ind.y otros quimicos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Parinacota n° 381  modulo 7</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2739 2195</Fono>
+    <Correo></Correo>
+  </Fila252>
+  <Fila253>
+    <RUT>77.620.870-1</RUT>
+    <Nombre>Ingenieria y construccion titan ltda.</Nombre>
+    <Giro>Ingenieria y construccion</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Luis beltran n° 1647</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2253515</Fono>
+    <Correo></Correo>
+  </Fila253>
+  <Fila254>
+    <RUT>77.647.040-6</RUT>
+    <Nombre>Unisur alimentos limitada</Nombre>
+    <Giro>Industria de alimentos</Giro>
+    <Contacto>Llanquihue</Contacto>
+    <Direccion>Avda. jorge alessandri s/n</Direccion>
+    <Ciudad>Llanquihue(65)</Ciudad>
+    <Fono>241100</Fono>
+    <Correo></Correo>
+  </Fila254>
+  <Fila255>
+    <RUT>77.690.710-3</RUT>
+    <Nombre>Knauf de chile limitada</Nombre>
+    <Giro>Impor. y dist.de mater.de construccion</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>San ignacio n° 0181</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25849400</Fono>
+    <Correo></Correo>
+  </Fila255>
+  <Fila256>
+    <RUT>77.762.180-7</RUT>
+    <Nombre>Inversiones perilogistics s.a.</Nombre>
+    <Giro>Logistica</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Avda.rodrigo de araya n° 1151</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24807800</Fono>
+    <Correo></Correo>
+  </Fila256>
+  <Fila257>
+    <RUT>77.779.910-K</RUT>
+    <Nombre>Licman chile s.a.</Nombre>
+    <Giro>Servicios hidraulicos</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Caupolican n° 1381</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6416600</Fono>
+    <Correo></Correo>
+  </Fila257>
+  <Fila258>
+    <RUT>77.806.690-4</RUT>
+    <Nombre>Hc logistica chile limitada</Nombre>
+    <Giro>Comercializadora</Giro>
+    <Contacto>San fernando</Contacto>
+    <Direccion>Ruta 5 sur km. 131,5</Direccion>
+    <Ciudad>San fernando(72)</Ciudad>
+    <Fono>720939</Fono>
+    <Correo></Correo>
+  </Fila258>
+  <Fila259>
+    <RUT>77.815.330-0</RUT>
+    <Nombre>Varelec chile limitada</Nombre>
+    <Giro>Compra y venta  equipos electr.</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Duque de kent n° 0931</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6222375</Fono>
+    <Correo></Correo>
+  </Fila259>
+  <Fila260>
+    <RUT>77.863.660-3</RUT>
+    <Nombre>Aerospray y cia. limitada</Nombre>
+    <Giro>Quimicos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>El taqueral lote 1, sitio c-2</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8427022</Fono>
+    <Correo></Correo>
+  </Fila260>
+  <Fila261>
+    <RUT>77.880.840-4</RUT>
+    <Nombre>Comercial sandoval e hijos ltda.</Nombre>
+    <Giro>Material de construccion</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Independencia n° 4747</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27346000</Fono>
+    <Correo></Correo>
+  </Fila261>
+  <Fila262>
+    <RUT>77.924.090-8</RUT>
+    <Nombre>Flex equipos de descanso chile ltda.</Nombre>
+    <Giro>Fab.y comercia.de colchones y muebles</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>General velasquez n° 10000</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29593500</Fono>
+    <Correo></Correo>
+  </Fila262>
+  <Fila263>
+    <RUT>77.924.230-7</RUT>
+    <Nombre>Comercializadora industrial w &amp; l limitada</Nombre>
+    <Giro>Comercializadora</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Pdte.eduardo frei montalva n° 6001  l 82</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29521000</Fono>
+    <Correo></Correo>
+  </Fila263>
+  <Fila264>
+    <RUT>77.934.110-0</RUT>
+    <Nombre>Comercial alca limitada</Nombre>
+    <Giro>Distribuidora</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Bezanilla n° 1302</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26569999</Fono>
+    <Correo></Correo>
+  </Fila264>
+  <Fila265>
+    <RUT>77.965.620-9</RUT>
+    <Nombre>Icb food service ltda.</Nombre>
+    <Giro>Imp.y com.mayorista de alimentos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Calle caupolican n°9401</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24871800</Fono>
+    <Correo></Correo>
+  </Fila265>
+  <Fila266>
+    <RUT>77.965.620-9</RUT>
+    <Nombre>Food Service Limitada</Nombre>
+    <Giro>Importacion y comercio mayorista de prod.alim</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Camino interior n° 9401</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24871800</Fono>
+    <Correo></Correo>
+  </Fila266>
+  <Fila267>
+    <RUT>77.983.730-0</RUT>
+    <Nombre>Ergo ingenieria limitada</Nombre>
+    <Giro>Vta. y arriendo  de equipos</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Seminario n° 997</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4583475</Fono>
+    <Correo></Correo>
+  </Fila267>
+  <Fila268>
+    <RUT>77.991.140-3</RUT>
+    <Nombre>Simta limitada</Nombre>
+    <Giro>Ingenieria</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Avda. portugal n° 1567</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5566993</Fono>
+    <Correo></Correo>
+  </Fila268>
+  <Fila269>
+    <RUT>78.015.370-9</RUT>
+    <Nombre>Agricola sucesión juan moura</Nombre>
+    <Giro>Agricola</Giro>
+    <Contacto>Qta.de tilcoco</Contacto>
+    <Direccion>San juan de cayllona s/n</Direccion>
+    <Ciudad>Rancagua(72)</Ciudad>
+    <Fono>541056</Fono>
+    <Correo></Correo>
+  </Fila269>
+  <Fila270>
+    <RUT>78.030.690-4</RUT>
+    <Nombre>Prodea s.a.</Nombre>
+    <Giro>Abastec.y produccion.product.alim.</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>El roble  n° 160</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9135000</Fono>
+    <Correo></Correo>
+  </Fila270>
+  <Fila271>
+    <RUT>78.034.470-9</RUT>
+    <Nombre>Linde high lift chile s.a.</Nombre>
+    <Giro>Arrend.comerc. y expor.de maquinarias</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Pdte.edo. frei montalva n° 6135</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4398100</Fono>
+    <Correo></Correo>
+  </Fila271>
+  <Fila272>
+    <RUT>78.037.250-8</RUT>
+    <Nombre>Hortifruticola del rosario s.a.</Nombre>
+    <Giro>Frutales, hortalizas , legumbres</Giro>
+    <Contacto>Colina</Contacto>
+    <Direccion>Marcos goycolea s/n</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>84415505</Fono>
+    <Correo></Correo>
+  </Fila272>
+  <Fila273>
+    <RUT>78.049.100-0</RUT>
+    <Nombre>Serv. de montacargas ltda</Nombre>
+    <Giro>Venta y servicios</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>José manuel borgoño n° 2811</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26418138</Fono>
+    <Correo></Correo>
+  </Fila273>
+  <Fila274>
+    <RUT>78.105.320-1</RUT>
+    <Nombre>Renta gruas santiago limitada</Nombre>
+    <Giro>Arriendo de vehiculos y maquin</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Moneda n° 920  of n° 806</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>94796830</Fono>
+    <Correo></Correo>
+  </Fila274>
+  <Fila275>
+    <RUT>78.123.470-2</RUT>
+    <Nombre>Alonso y cia. limitada</Nombre>
+    <Giro>Mantención de maquinarias</Giro>
+    <Contacto>Puente alto</Contacto>
+    <Direccion>Gustavo rojas pinilla n° 0263</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98265671</Fono>
+    <Correo></Correo>
+  </Fila275>
+  <Fila276>
+    <RUT>78.133.760-9</RUT>
+    <Nombre>Importadora yardas limitada</Nombre>
+    <Giro>Importadora y exportadora</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda. central n° 550</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5800600</Fono>
+    <Correo></Correo>
+  </Fila276>
+  <Fila277>
+    <RUT>78.137.000-2</RUT>
+    <Nombre>Ingram micro chile s.a.</Nombre>
+    <Giro>Computación</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. el rosal n° 4765</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27309100</Fono>
+    <Correo></Correo>
+  </Fila277>
+  <Fila278>
+    <RUT>78.201.820-5</RUT>
+    <Nombre>Agricola cran chile limitada</Nombre>
+    <Giro>Agricola industrial</Giro>
+    <Contacto>Lanco</Contacto>
+    <Direccion>Ruta 5 sur kilometro 771</Direccion>
+    <Ciudad>Lanco(63)</Ciudad>
+    <Fono>444444</Fono>
+    <Correo></Correo>
+  </Fila278>
+  <Fila279>
+    <RUT>78.272.700-1</RUT>
+    <Nombre>Hidroservices Ltda.</Nombre>
+    <Giro>Fabricacion y reparacion de componentes hidraulicos</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Santa monica n° 03530</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2871 6501</Fono>
+    <Correo></Correo>
+  </Fila279>
+  <Fila280>
+    <RUT>78.329.500-8</RUT>
+    <Nombre>Comercial gami limitada</Nombre>
+    <Giro>Com.de baterias y accesorios</Giro>
+    <Contacto>Pto. montt</Contacto>
+    <Direccion>Avda. presidente ibañez n° 936</Direccion>
+    <Ciudad>Pto. montt(65)</Ciudad>
+    <Fono>262560</Fono>
+    <Correo></Correo>
+  </Fila280>
+  <Fila281>
+    <RUT>78.343.030-4</RUT>
+    <Nombre>Spitec limitada</Nombre>
+    <Giro>Representaciones industriales</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Puerto madero n° 9691</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>4997100</Fono>
+    <Correo></Correo>
+  </Fila281>
+  <Fila282>
+    <RUT>78.367.940-K</RUT>
+    <Nombre>Impresos Industriales S.A.</Nombre>
+    <Giro>Diseño y produccion de envases flexibles</Giro>
+    <Contacto>San joaquin</Contacto>
+    <Direccion>Matta vial n° 624</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2411 0500</Fono>
+    <Correo></Correo>
+  </Fila282>
+  <Fila283>
+    <RUT>78.382.590-2</RUT>
+    <Nombre>Valck y cia s.a.</Nombre>
+    <Giro>Metalurgica</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Ingeniero budge n° 656</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5520260</Fono>
+    <Correo></Correo>
+  </Fila283>
+  <Fila284>
+    <RUT>78.415.390-8</RUT>
+    <Nombre>Paradiso Soc.Comercial Ltda.</Nombre>
+    <Giro>Com.materiales para la construccion</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Camino el taqueral s/n parcela 18</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28426442</Fono>
+    <Correo></Correo>
+  </Fila284>
+  <Fila285>
+    <RUT>78.471.670-8</RUT>
+    <Nombre>Pino y cia. limitada</Nombre>
+    <Giro>Serv.tec.maquin.pesada, vta reptos</Giro>
+    <Contacto>La pintana</Contacto>
+    <Direccion>Los duraznos n° 084</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>94351991</Fono>
+    <Correo></Correo>
+  </Fila285>
+  <Fila286>
+    <RUT>78.485.270-9</RUT>
+    <Nombre>Ditron limitada</Nombre>
+    <Giro>Distribuidores de congelados</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Camino del medio n° 36</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5350917</Fono>
+    <Correo></Correo>
+  </Fila286>
+  <Fila287>
+    <RUT>78.517.500-K</RUT>
+    <Nombre>Drager-Simsa S.A.</Nombre>
+    <Giro>Equipos de seguridad</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>El juncal n° 600 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23765170</Fono>
+    <Correo></Correo>
+  </Fila287>
+  <Fila288>
+    <RUT>78.522.500-7</RUT>
+    <Nombre>Embalajes y mudanzas salazar limitada</Nombre>
+    <Giro>Embalajes y mudanzas</Giro>
+    <Contacto>Peñalolen</Contacto>
+    <Direccion>Los guindos n° 6264</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22718051</Fono>
+    <Correo></Correo>
+  </Fila288>
+  <Fila289>
+    <RUT>78.708.490-7</RUT>
+    <Nombre>Hagen chile s.a.</Nombre>
+    <Giro>Imp.y distr.de acces.y alimentos para mascotas</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Parinacota n° 381 bodega 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27392320</Fono>
+    <Correo></Correo>
+  </Fila289>
+  <Fila290>
+    <RUT>78.732.230-1</RUT>
+    <Nombre>Soc.plaspack maquinarias ltda</Nombre>
+    <Giro>Maquinarias</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Cam.longitudinal-r.5 sur n°0681</Direccion>
+    <Ciudad>Buin</Ciudad>
+    <Fono>8368100</Fono>
+    <Correo></Correo>
+  </Fila290>
+  <Fila291>
+    <RUT>78.732.240-9</RUT>
+    <Nombre>Soc.Envasadora Plaspack  Ltda.</Nombre>
+    <Giro>Envasadora</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Camino la obra 0680</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28368100</Fono>
+    <Correo></Correo>
+  </Fila291>
+  <Fila292>
+    <RUT>78.788.780-5</RUT>
+    <Nombre>Com. sauber limitada</Nombre>
+    <Giro>Importaciones</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Carlos condell n° 322</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9453700</Fono>
+    <Correo></Correo>
+  </Fila292>
+  <Fila293>
+    <RUT>78.793.360-2</RUT>
+    <Nombre>Casino express limitada</Nombre>
+    <Giro>Sociedad de alimentacion</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>El rosal n° 4864</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24656000</Fono>
+    <Correo></Correo>
+  </Fila293>
+  <Fila294>
+    <RUT>78.799.620-5</RUT>
+    <Nombre>San francisco empresa de muellaje sa</Nombre>
+    <Giro>Empresa de muellaje</Giro>
+    <Contacto>Valparaiso</Contacto>
+    <Direccion>Cochrane n° 667, of. n° 301</Direccion>
+    <Ciudad>Valparaiso(32)</Ciudad>
+    <Fono>2151200</Fono>
+    <Correo></Correo>
+  </Fila294>
+  <Fila295>
+    <RUT>78.800.360-9</RUT>
+    <Nombre>B y a energia s.a.</Nombre>
+    <Giro>Importaciones</Giro>
+    <Contacto>Colina</Contacto>
+    <Direccion>Carretera san martin n° 7000</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>7952800</Fono>
+    <Correo></Correo>
+  </Fila295>
+  <Fila296>
+    <RUT>78.861.790-9</RUT>
+    <Nombre>Transp.andina refrescos limitada</Nombre>
+    <Giro>Transporte de carga por carretera</Giro>
+    <Contacto>San joaquin</Contacto>
+    <Direccion>Carlos valdovinos n° 462</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5509445</Fono>
+    <Correo></Correo>
+  </Fila296>
+  <Fila297>
+    <RUT>78.924.030-2</RUT>
+    <Nombre>Implementos S.A.</Nombre>
+    <Giro>Repuestos e insumos para el transporte</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Avda. general velazquez n° 10701</Direccion>
+    <Ciudad>santiago</Ciudad>
+    <Fono>26241051</Fono>
+    <Correo></Correo>
+  </Fila297>
+  <Fila298>
+    <RUT>78.927.560-2</RUT>
+    <Nombre>Polex chile s.a.</Nombre>
+    <Giro>Ingenieria e instalaciones</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Avda. sta. clara n° 301 of. 20830</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8920400</Fono>
+    <Correo></Correo>
+  </Fila298>
+  <Fila299>
+    <RUT>78.977.700-4</RUT>
+    <Nombre>Westfire sudamerica spa</Nombre>
+    <Giro>Sistemas contra riesgos de incendio</Giro>
+    <Contacto>Antofagasta</Contacto>
+    <Direccion>El salitre n° 7735 barrio industrial</Direccion>
+    <Ciudad>Antofagasta(55)</Ciudad>
+    <Fono>2592961</Fono>
+    <Correo></Correo>
+  </Fila299>
+  <Fila300>
+    <RUT>78.979.690-4</RUT>
+    <Nombre>Carnes kar limitada</Nombre>
+    <Giro>Carniceria</Giro>
+    <Contacto>Antofagasta</Contacto>
+    <Direccion>Avda. perez zujovic n° 4754</Direccion>
+    <Ciudad>Antofagasta</Ciudad>
+    <Fono>55 / 259 0178</Fono>
+    <Correo></Correo>
+  </Fila300>
+  <Fila301>
+    <RUT>79.508.190-9</RUT>
+    <Nombre>Instalaciones y serv.elevair service s.a.</Nombre>
+    <Giro>Instalaciones y servicios</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Avda. general bustamante n° 596</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27530900</Fono>
+    <Correo></Correo>
+  </Fila301>
+  <Fila302>
+    <RUT>79.646.350-3</RUT>
+    <Nombre>Soc. agricola la hornilla limitada</Nombre>
+    <Giro>Agricola frutales</Giro>
+    <Contacto>Melipilla</Contacto>
+    <Direccion>Fundo la hornilla s/n </Direccion>
+    <Ciudad>Melipilla</Ciudad>
+    <Fono>28212362</Fono>
+    <Correo></Correo>
+  </Fila302>
+  <Fila303>
+    <RUT>79.649.140-K</RUT>
+    <Nombre>Automotores gildemeister s.a.</Nombre>
+    <Giro>Import. distribuidor. y servicios</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Avda. americo vespucio n° 570</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5964453</Fono>
+    <Correo></Correo>
+  </Fila303>
+  <Fila304>
+    <RUT>79.670.700-3</RUT>
+    <Nombre>Dipac s.a.</Nombre>
+    <Giro>Distribuidor del pacifico</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Camino melipilla n° 8455</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5850276</Fono>
+    <Correo></Correo>
+  </Fila304>
+  <Fila305>
+    <RUT>79.728.730-K</RUT>
+    <Nombre>Acuvid limitada</Nombre>
+    <Giro>Proyectos electromecanicos</Giro>
+    <Contacto>Lo barnechea</Contacto>
+    <Direccion>Paseo del cena n° 2350 - 32</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>95327481</Fono>
+    <Correo></Correo>
+  </Fila305>
+  <Fila306>
+    <RUT>79.768.410-4</RUT>
+    <Nombre>Mendoza y cia ltda.</Nombre>
+    <Giro>Fabricacion de productos plasticos</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Portales oriente 1703</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8572703</Fono>
+    <Correo></Correo>
+  </Fila306>
+  <Fila307>
+    <RUT>79.769.000-7</RUT>
+    <Nombre>Ind.y com.selhex chile limitada</Nombre>
+    <Giro>Industria</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Camino lonquen n° 10611</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5386001</Fono>
+    <Correo></Correo>
+  </Fila307>
+  <Fila308>
+    <RUT>79.789.140-1</RUT>
+    <Nombre>Soc.de Serv.y Asesorias Swan Chile S.A.</Nombre>
+    <Giro>Aseo industrial</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Vicuña mackenna n°1947</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25560856</Fono>
+    <Correo></Correo>
+  </Fila308>
+  <Fila309>
+    <RUT>79.811.720-3</RUT>
+    <Nombre>Dole thomsen s.a.</Nombre>
+    <Giro>Com.mayor.productos aliment.</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Arturo gordon n° 11701-km16 ps</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2708800</Fono>
+    <Correo></Correo>
+  </Fila309>
+  <Fila310>
+    <RUT>79.831.880-2</RUT>
+    <Nombre>Com.scanavini limitada</Nombre>
+    <Giro>Com.art.metalicos y plasticos</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Almiran.blanco encalada n°2545</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8290100</Fono>
+    <Correo></Correo>
+  </Fila310>
+  <Fila311>
+    <RUT>79.888.610-K</RUT>
+    <Nombre>Molinera del Rey Limitada</Nombre>
+    <Giro>Elaboracion de harina</Giro>
+    <Contacto>Melipilla</Contacto>
+    <Direccion>Avda. jose massoud 101</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98956514</Fono>
+    <Correo></Correo>
+  </Fila311>
+  <Fila312>
+    <RUT>79.906.370-0</RUT>
+    <Nombre>Agric. y Comercial CABILFRUT S.A.</Nombre>
+    <Giro>Corretale agriola</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Vespucio norte 229</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22065133</Fono>
+    <Correo></Correo>
+  </Fila312>
+  <Fila313>
+    <RUT>79.909.150-K</RUT>
+    <Nombre>Metalurgica SILCOSIL</Nombre>
+    <Giro>Metalurgica</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Santa josefina 11700</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23638200</Fono>
+    <Correo></Correo>
+  </Fila313>
+  <Fila314>
+    <RUT>79.913.320-2</RUT>
+    <Nombre>GALLYAS TELECOM S.A.</Nombre>
+    <Giro>Transp. de carga, pasajeros y telecomunic.</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Roger de flor 2736 of 81</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23368600</Fono>
+    <Correo></Correo>
+  </Fila314>
+  <Fila315>
+    <RUT>79.921.700-7</RUT>
+    <Nombre>Inversiones Collins &amp; Collins Limitada.</Nombre>
+    <Giro>Inv.imp. y exp. de art. de metal-mecanica</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Romero 2969</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28217000</Fono>
+    <Correo></Correo>
+  </Fila315>
+  <Fila316>
+    <RUT>79.934.790-3</RUT>
+    <Nombre>F.C.A.B. Embarcadores Ltda.</Nombre>
+    <Giro>Serv.relacionados al transporte maritimo</Giro>
+    <Contacto>Antofagasta</Contacto>
+    <Direccion>Simon bolivar n° 255</Direccion>
+    <Ciudad>Antofagasta</Ciudad>
+    <Fono>55/2206840</Fono>
+    <Correo></Correo>
+  </Fila316>
+  <Fila317>
+    <RUT>79.966.770-3</RUT>
+    <Nombre>ROMINET LTDA.</Nombre>
+    <Giro>Maestranza</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Avda. einstein 799</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26290173</Fono>
+    <Correo></Correo>
+  </Fila317>
+  <Fila318>
+    <RUT>79.971.660-7</RUT>
+    <Nombre>Soc. Comercial Bustamante y Cia. Ltda.</Nombre>
+    <Giro>Alimentos</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Bezanilla 1585</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27771669</Fono>
+    <Correo></Correo>
+  </Fila318>
+  <Fila319>
+    <RUT>79.976.920-4</RUT>
+    <Nombre>SILVA MONTECINOS Y CIA. LTDA.</Nombre>
+    <Giro>Fabrica de articulos de papel</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Los jazmines 456</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25576984</Fono>
+    <Correo></Correo>
+  </Fila319>
+  <Fila320>
+    <RUT>80.043.900-0</RUT>
+    <Nombre>ANSALDO S.A.</Nombre>
+    <Giro>Importaciones</Giro>
+    <Contacto>Placilla</Contacto>
+    <Direccion>Avda. novena 1325</Direccion>
+    <Ciudad>Valparaiso(32)</Ciudad>
+    <Fono>2291320</Fono>
+    <Correo></Correo>
+  </Fila320>
+  <Fila321>
+    <RUT>80.404.100-1</RUT>
+    <Nombre>MANUFACTURAS CANNON S.A.</Nombre>
+    <Giro>Venta e importacion de alfombras</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Cerro san cristobal 9560</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27386041</Fono>
+    <Correo></Correo>
+  </Fila321>
+  <Fila322>
+    <RUT>80.478.200-1</RUT>
+    <Nombre>ILOP S.A.</Nombre>
+    <Giro>Articulos oficina</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. americo vespucio  norte n° 727</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2620 5000</Fono>
+    <Correo></Correo>
+  </Fila322>
+  <Fila323>
+    <RUT>80.571.500-6</RUT>
+    <Nombre>ISS SERVICIOS GENERALES</Nombre>
+    <Giro>Servicios generales</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. las torres 1385</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27266500</Fono>
+    <Correo></Correo>
+  </Fila323>
+  <Fila324>
+    <RUT>81.187.800-6</RUT>
+    <Nombre>COSMOPLAS S.A.</Nombre>
+    <Giro>Distribuidora de plasticos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Rio refugio 9652 nucleo empr. enea</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25987000</Fono>
+    <Correo></Correo>
+  </Fila324>
+  <Fila325>
+    <RUT>81.198.100-1</RUT>
+    <Nombre>JANSSEN S.A.</Nombre>
+    <Giro>Impor. repre. y expor de maquin.</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Panamericana norte 5353</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23399560</Fono>
+    <Correo></Correo>
+  </Fila325>
+  <Fila326>
+    <RUT>81.201.000-K</RUT>
+    <Nombre>CENCOSUD RETAIL S.A.</Nombre>
+    <Giro>Retail</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. kennedy 9001 piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29590555</Fono>
+    <Correo></Correo>
+  </Fila326>
+  <Fila327>
+    <RUT>81.220.300-2</RUT>
+    <Nombre>CONSTRUCTURA FV LIMITADA</Nombre>
+    <Giro>Construccion</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Apoquindo 4775 of 2002</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27335514</Fono>
+    <Correo></Correo>
+  </Fila327>
+  <Fila328>
+    <RUT>81.537.600-5</RUT>
+    <Nombre>RENDIC HERMANOS S.A.</Nombre>
+    <Giro>Supermercados</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. del valle 819 piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28188137</Fono>
+    <Correo></Correo>
+  </Fila328>
+  <Fila329>
+    <RUT>81.788.500-4</RUT>
+    <Nombre>RABIE S.A.</Nombre>
+    <Giro>Distribuidora</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Camino a melipilla 15000</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25356015</Fono>
+    <Correo></Correo>
+  </Fila329>
+  <Fila330>
+    <RUT>81.836.000-2</RUT>
+    <Nombre>COPEFRUT S.A.</Nombre>
+    <Giro>Export. y ventas pesticidas</Giro>
+    <Contacto>Romeral</Contacto>
+    <Direccion>Longitudinal sur km185</Direccion>
+    <Ciudad>Curico(75)</Ciudad>
+    <Fono>209100</Fono>
+    <Correo></Correo>
+  </Fila330>
+  <Fila331>
+    <RUT>82.366.700-0</RUT>
+    <Nombre>SOPRAVAL S.A.</Nombre>
+    <Giro>Aves de corr. para prod. carnes</Giro>
+    <Contacto>Artificio</Contacto>
+    <Direccion>J.j. godoy s/n</Direccion>
+    <Ciudad>Calera(33)</Ciudad>
+    <Fono>299173</Fono>
+    <Correo></Correo>
+  </Fila331>
+  <Fila332>
+    <RUT>82.940.300-5</RUT>
+    <Nombre>MANIPULACION MATERIALES S.A.</Nombre>
+    <Giro>Representaciones y servicios</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Gral. velasquez 10400</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23450600</Fono>
+    <Correo></Correo>
+  </Fila332>
+  <Fila333>
+    <RUT>83.007.600-K</RUT>
+    <Nombre>PLASTIQUIMICA SIC LIMITADA</Nombre>
+    <Giro>Impor. y com. mater. primas para plasticos</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Ñuble 324</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24952400</Fono>
+    <Correo></Correo>
+  </Fila333>
+  <Fila334>
+    <RUT>83.017.600-4</RUT>
+    <Nombre>NIBSA S.A.</Nombre>
+    <Giro>Fundicion y elab. prod. de bronce serv.</Giro>
+    <Contacto>San joaquin</Contacto>
+    <Direccion>Juan griego 4429</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24898000</Fono>
+    <Correo></Correo>
+  </Fila334>
+  <Fila335>
+    <RUT>83.102.900-5</RUT>
+    <Nombre>COMERCIAL CHACAO S.A.</Nombre>
+    <Giro>Comercial</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Avda. marathon 2499</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24624100</Fono>
+    <Correo></Correo>
+  </Fila335>
+  <Fila336>
+    <RUT>83.279.200-4</RUT>
+    <Nombre>DUCASSE INDUSTRIAL S.A.</Nombre>
+    <Giro>Importaciones</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda. nueva industrial 201</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24773200</Fono>
+    <Correo></Correo>
+  </Fila336>
+  <Fila337>
+    <RUT>83.472.500-2</RUT>
+    <Nombre>TATTERSALL MAQUINARIAS S.A.</Nombre>
+    <Giro>Representaciones</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Americo vespucio 1365</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27998000</Fono>
+    <Correo></Correo>
+  </Fila337>
+  <Fila338>
+    <RUT>83.568.200-5</RUT>
+    <Nombre>SIMMA S.A.</Nombre>
+    <Giro>Impor. expor. y com. maquinas y repuestos</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>San eugenio 463</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23462700</Fono>
+    <Correo></Correo>
+  </Fila338>
+  <Fila339>
+    <RUT>83.574.800-6</RUT>
+    <Nombre>PATRICIO LIOI Y CIA. LIMITADA</Nombre>
+    <Giro>Fab. imp. exp. y vtas. prod. estampados met.</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Santa marta 2100</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25992000</Fono>
+    <Correo></Correo>
+  </Fila339>
+  <Fila340>
+    <RUT>84.569.900-3</RUT>
+    <Nombre>Lecherias Loncomilla Ltda.</Nombre>
+    <Giro>Fabrica de postres a base de leche</Giro>
+    <Contacto>San javier</Contacto>
+    <Direccion>Km 14 camino a constitucion</Direccion>
+    <Ciudad>San javier</Ciudad>
+    <Fono>224 474 344 Stgo</Fono>
+    <Correo></Correo>
+  </Fila340>
+  <Fila341>
+    <RUT>84.974.300-7</RUT>
+    <Nombre>MACKENNA Y MACKENNA S.A.</Nombre>
+    <Giro>Fabrica de envases</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Las araucarias 2801</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26230102</Fono>
+    <Correo></Correo>
+  </Fila341>
+  <Fila342>
+    <RUT>85.040.900-5</RUT>
+    <Nombre>BRENNTAG CHILE COM.E IND.LTDA.</Nombre>
+    <Giro>Distribucion de quimicos</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Camino lo cierrra 02966</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24402400</Fono>
+    <Correo></Correo>
+  </Fila342>
+  <Fila343>
+    <RUT>85.208.700-5</RUT>
+    <Nombre>RENTAEQUIPOS LEASING S.A.</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Las hortencias 501</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26803537</Fono>
+    <Correo></Correo>
+  </Fila343>
+  <Fila344>
+    <RUT>85.275.700-0</RUT>
+    <Nombre>ARRIMAQ S.A.</Nombre>
+    <Giro>Arriendo de maquinarias</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Sta. margarita 01870</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23829700</Fono>
+    <Correo></Correo>
+  </Fila344>
+  <Fila345>
+    <RUT>86.486.100-8</RUT>
+    <Nombre>CECINAS BAVARIA LIMITADA</Nombre>
+    <Giro>Frabrica de cecinas</Giro>
+    <Contacto>Paine</Contacto>
+    <Direccion>Parcela 76</Direccion>
+    <Ciudad>Buin</Ciudad>
+    <Fono>28214019</Fono>
+    <Correo></Correo>
+  </Fila345>
+  <Fila346>
+    <RUT>86.510.400-6</RUT>
+    <Nombre>CENTROVET LIMITADA</Nombre>
+    <Giro>Prod. farmacologicos, biolog. y drogeria</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Salomon sack 255</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25837700</Fono>
+    <Correo></Correo>
+  </Fila346>
+  <Fila347>
+    <RUT>86.821.000-1</RUT>
+    <Nombre>A.BRIL Y CIA. LIMITADA</Nombre>
+    <Giro>Import. representaciones</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. las torres 1424</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29403000</Fono>
+    <Correo></Correo>
+  </Fila347>
+  <Fila348>
+    <RUT>87.867.400-6</RUT>
+    <Nombre>CONSTRUCTORA BRICEÑO Y CIA. LTDA.</Nombre>
+    <Giro>Construccion</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Macul 2340</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22723770</Fono>
+    <Correo></Correo>
+  </Fila348>
+  <Fila349>
+    <RUT>87.949.500-8</RUT>
+    <Nombre>GLASSTECH S.A.</Nombre>
+    <Giro>Cristales y aluminios</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Jorge hirmas 2592</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28929000</Fono>
+    <Correo></Correo>
+  </Fila349>
+  <Fila350>
+    <RUT>88.005.900-9</RUT>
+    <Nombre>BARASUR S.A.</Nombre>
+    <Giro>Comercio</Giro>
+    <Contacto>Indepencia</Contacto>
+    <Direccion>Maruri 639</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27377152</Fono>
+    <Correo></Correo>
+  </Fila350>
+  <Fila351>
+    <RUT>88.056.400-5</RUT>
+    <Nombre>Servicios Maritimos y Transportes Ltda.</Nombre>
+    <Giro>Muellaje</Giro>
+    <Contacto>Mejillones</Contacto>
+    <Direccion>Avda. longitudinal n° 5500</Direccion>
+    <Ciudad>Mejillones</Ciudad>
+    <Fono>55 / 2357000</Fono>
+    <Correo></Correo>
+  </Fila351>
+  <Fila352>
+    <RUT>88.279.700-7</RUT>
+    <Nombre>IMEIN S.A.</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Berlioz 5559</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25253443</Fono>
+    <Correo></Correo>
+  </Fila352>
+  <Fila353>
+    <RUT>88.502.900-0</RUT>
+    <Nombre>BAT CHILE S.A.</Nombre>
+    <Giro>Com. mayor. cigarrillos tabaco</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. suiza 244</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24646129</Fono>
+    <Correo></Correo>
+  </Fila353>
+  <Fila354>
+    <RUT>88.896.400-2</RUT>
+    <Nombre>LABORATORIOS KADUS S.A.</Nombre>
+    <Giro>Laboratorios cosmeticos</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Avda. pdte. eduardo frei m. 2932</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23652600</Fono>
+    <Correo></Correo>
+  </Fila354>
+  <Fila355>
+    <RUT>89.137.600-6</RUT>
+    <Nombre>INGENIERIA H. WALLEM Y CIA. LTDA.</Nombre>
+    <Giro>Ingenieria electrica</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Teniente bisson 610</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27777974</Fono>
+    <Correo></Correo>
+  </Fila355>
+  <Fila356>
+    <RUT>89.389.400-4</RUT>
+    <Nombre>Producto quimicos y Alimenticios Osku S.A.</Nombre>
+    <Giro>Productos quimicos</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. el guanaco n° 5212</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29795317</Fono>
+    <Correo></Correo>
+  </Fila356>
+  <Fila357>
+    <RUT>89.458.100-K</RUT>
+    <Nombre>Viña Errazuriz S.A.</Nombre>
+    <Giro>Prod.elaboracion, com.y exportacion de vinos</Giro>
+    <Contacto>Las condes </Contacto>
+    <Direccion>Avda. nueva tajamar n° 481 of.503 torre sur</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23399100</Fono>
+    <Correo></Correo>
+  </Fila357>
+  <Fila358>
+    <RUT>89.489.700-7</RUT>
+    <Nombre>OLIVOS S.A.</Nombre>
+    <Giro>Proyectos e instalac. de equipos de riego</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>San eugenio 12262</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24209080</Fono>
+    <Correo></Correo>
+  </Fila358>
+  <Fila359>
+    <RUT>89.862.200-2</RUT>
+    <Nombre>Latam Airlines Group S.A.</Nombre>
+    <Giro>Linea aerea</Giro>
+    <Contacto>Santiago </Contacto>
+    <Direccion>Estado n° 10 piso 11</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25652525</Fono>
+    <Correo></Correo>
+  </Fila359>
+  <Fila360>
+    <RUT>89.928.700-2</RUT>
+    <Nombre>PERMANZ LIMITADA</Nombre>
+    <Giro>Agricola y comercial</Giro>
+    <Contacto>Olivar</Contacto>
+    <Direccion>Longitudinal sur km 92</Direccion>
+    <Ciudad>Rancagua(72)</Ciudad>
+    <Fono>237912</Fono>
+    <Correo></Correo>
+  </Fila360>
+  <Fila361>
+    <RUT>89.996.200-1</RUT>
+    <Nombre>ENVASES DEL PACIFICO S.A.</Nombre>
+    <Giro>Envases flexibles</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Camino melipilla 13320</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23854504</Fono>
+    <Correo></Correo>
+  </Fila361>
+  <Fila362>
+    <RUT>90.060.000-3</RUT>
+    <Nombre>Cia. Molinera San Cristobal S.A.</Nombre>
+    <Giro>Molino de trigo</Giro>
+    <Contacto>Estación central</Contacto>
+    <Direccion>Exposicion 1657</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23763000</Fono>
+    <Correo></Correo>
+  </Fila362>
+  <Fila363>
+    <RUT>90.073.000-4</RUT>
+    <Nombre>INSTITUTO SANITAS S.A.</Nombre>
+    <Giro>Quimico farmaceutico</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda. amercio vespucio 01260</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24446600</Fono>
+    <Correo></Correo>
+  </Fila363>
+  <Fila364>
+    <RUT>90.193.000-7</RUT>
+    <Nombre>EMPRESA EL MERCURIO S.A.P.</Nombre>
+    <Giro>Periodistico</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Avda. santa maria 5542</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23301111</Fono>
+    <Correo></Correo>
+  </Fila364>
+  <Fila365>
+    <RUT>90.703.000-8</RUT>
+    <Nombre>NESTLE CHILE S.A.</Nombre>
+    <Giro>Alimentos</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. las condes 11278</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23384000</Fono>
+    <Correo></Correo>
+  </Fila365>
+  <Fila366>
+    <RUT>90.844.000-5</RUT>
+    <Nombre>KUPFER HERMANOS S.A.</Nombre>
+    <Giro>Dist, fabric, representantes mayorista</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Libertad 54</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23515000</Fono>
+    <Correo></Correo>
+  </Fila366>
+  <Fila367>
+    <RUT>91.335.000-6</RUT>
+    <Nombre>Indura S.A.</Nombre>
+    <Giro>Fabrica de gases, electrodos, equipos y otros</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Las americas n° 585</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2530 3000</Fono>
+    <Correo></Correo>
+  </Fila367>
+  <Fila368>
+    <RUT>91.336.000-1</RUT>
+    <Nombre>FERROSTAAL CHILE S.A.</Nombre>
+    <Giro>Representaciones</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Avda. santa maria 2810</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23887808</Fono>
+    <Correo></Correo>
+  </Fila368>
+  <Fila369>
+    <RUT>91.337.000-7</RUT>
+    <Nombre>CEMENTO POLPAICO S.A.</Nombre>
+    <Giro>Fabrica de cemento</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. el bosque norte 0177-p 5</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23376458</Fono>
+    <Correo></Correo>
+  </Fila369>
+  <Fila370>
+    <RUT>91.806.000-6</RUT>
+    <Nombre>Abastible S.A.</Nombre>
+    <Giro>Dist. y transp. de combustible</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Avda. vicuña makenna 55</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26939000</Fono>
+    <Correo></Correo>
+  </Fila370>
+  <Fila371>
+    <RUT>91.974.000-0</RUT>
+    <Nombre>Alfa Chilena S.A.</Nombre>
+    <Giro>Industria de alimentos</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Avda. las americas n°700</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28899000</Fono>
+    <Correo></Correo>
+  </Fila371>
+  <Fila372>
+    <RUT>92.606.000-7</RUT>
+    <Nombre>SERVICIOS LUCAS BLANDFORD S.A.</Nombre>
+    <Giro>Importacion y ventas</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Panamericana norte 5305</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25809000</Fono>
+    <Correo></Correo>
+  </Fila372>
+  <Fila373>
+    <RUT>92.744.000-8</RUT>
+    <Nombre>CECINAS WINTER S.A.</Nombre>
+    <Giro>Industria de cecinas</Giro>
+    <Contacto>San miguel</Contacto>
+    <Direccion>Montreal 4561</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25845500</Fono>
+    <Correo></Correo>
+  </Fila373>
+  <Fila374>
+    <RUT>92.745.000-3</RUT>
+    <Nombre>BUDNIK HERMANOS S.A.</Nombre>
+    <Giro>Fabrica de pavimentos y revestimientos</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Presidente riesco 6007</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23980100</Fono>
+    <Correo></Correo>
+  </Fila374>
+  <Fila375>
+    <RUT>92.845.000-7</RUT>
+    <Nombre>Carlos Cramer Prod. Aromaticos S.A.C.I.</Nombre>
+    <Giro>Fca. de esencias para prod. alim. y de perfu.</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Lucerna 4925</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27573700</Fono>
+    <Correo></Correo>
+  </Fila375>
+  <Fila376>
+    <RUT>92.846.000-2</RUT>
+    <Nombre>HARTING S.A.</Nombre>
+    <Giro>Industria quimica</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda. presidente eduardo frei m. 6000</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24433500</Fono>
+    <Correo></Correo>
+  </Fila376>
+  <Fila377>
+    <RUT>92.893.000-9</RUT>
+    <Nombre>PROD. QUIMICOS TANAX S.A.C.E.I.</Nombre>
+    <Giro>Productos quimicos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Americo vespucio 01220</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27391442</Fono>
+    <Correo></Correo>
+  </Fila377>
+  <Fila378>
+    <RUT>93.178.000-K</RUT>
+    <Nombre>Importadora Cafe Do Brasil S.A.</Nombre>
+    <Giro>Import.fab.export.distrib.de prod.alimenticios</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Caupolican 9401 (camino interior )</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2487 1800</Fono>
+    <Correo></Correo>
+  </Fila378>
+  <Fila379>
+    <RUT>93.183.000-7</RUT>
+    <Nombre>Santillama del Pacifico S.A. de Ediciones</Nombre>
+    <Giro>Editorial</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Avda. andres bello n° 2299 of.1001 - 1002</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23843000</Fono>
+    <Correo></Correo>
+  </Fila379>
+  <Fila380>
+    <RUT>93.313.000-2</RUT>
+    <Nombre>VERSACHEM CHILE S.A.</Nombre>
+    <Giro>Elab. imp. exp. prod. env. dis. y com. pro. l. automotriz</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Industriales  n° 639</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2625 3487</Fono>
+    <Correo></Correo>
+  </Fila380>
+  <Fila381>
+    <RUT>93.329.000-K</RUT>
+    <Nombre>DAVID DEL CURTO S.A.</Nombre>
+    <Giro>Exportaciones agropecuarias</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Avda. vitacura 5250 of 502</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23622701</Fono>
+    <Correo></Correo>
+  </Fila381>
+  <Fila382>
+    <RUT>93.383.000-4</RUT>
+    <Nombre>LAN CARGO S.A.</Nombre>
+    <Giro>Transporte aereo</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Estado 10 piso 10</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26947874</Fono>
+    <Correo></Correo>
+  </Fila382>
+  <Fila383>
+    <RUT>93.776.000-0</RUT>
+    <Nombre>ALGAS MARINAS S.A.</Nombre>
+    <Giro>Extrac. compra y elaborac. de algas</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Fidel oteiza 1956 piso 14</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22055086</Fono>
+    <Correo></Correo>
+  </Fila383>
+  <Fila384>
+    <RUT>94.555.000-7</RUT>
+    <Nombre>Frigorifico de Los Andes S.A.</Nombre>
+    <Giro>Almacenamiento frutas secas</Giro>
+    <Contacto>San esteban</Contacto>
+    <Direccion>Tocornal 30</Direccion>
+    <Ciudad>Los andes(34)</Ciudad>
+    <Fono>482700</Fono>
+    <Correo></Correo>
+  </Fila384>
+  <Fila385>
+    <RUT>95.089.000-2</RUT>
+    <Nombre>Del Monte Fresh Produce Chile S.A.</Nombre>
+    <Giro>Exportacion</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Avda: santa maria n° 6300</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23614600</Fono>
+    <Correo></Correo>
+  </Fila385>
+  <Fila386>
+    <RUT>95.304.000-K</RUT>
+    <Nombre>CMPC MADERAS S.A.</Nombre>
+    <Giro>Produccion, elabor. comerc de maderas.</Giro>
+    <Contacto>Los angeles</Contacto>
+    <Direccion>Avda. alemania 751</Direccion>
+    <Ciudad>Los angeles(43)</Ciudad>
+    <Fono>636516</Fono>
+    <Correo></Correo>
+  </Fila386>
+  <Fila387>
+    <RUT>96.025.000-1</RUT>
+    <Nombre>BIOTEC CHILE S.A.</Nombre>
+    <Giro>Detergentes industriales</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Calle renca 2203</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29634500</Fono>
+    <Correo></Correo>
+  </Fila387>
+  <Fila388>
+    <RUT>96.500.950-7</RUT>
+    <Nombre>Sitrans Serv.Int.Ttes Limitada</Nombre>
+    <Giro>Servicios relacionados c/import.y export.de merc.</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Avda: jorge alessandri r. n° 10.700</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25402100</Fono>
+    <Correo></Correo>
+  </Fila388>
+  <Fila389>
+    <RUT>96.502.540-5</RUT>
+    <Nombre>STUDEMANN S.A.</Nombre>
+    <Giro>Ventas insumos</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Lota 2305</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28104700</Fono>
+    <Correo></Correo>
+  </Fila389>
+  <Fila390>
+    <RUT>96.511.460-2</RUT>
+    <Nombre>CONSTRUMART S.A.</Nombre>
+    <Giro>Comp. y vta. mat. construccion</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Panamericana norte 9275</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24276000</Fono>
+    <Correo></Correo>
+  </Fila390>
+  <Fila391>
+    <RUT>96.514.950-3</RUT>
+    <Nombre>ENVASES TERMOAISLANTES S.A.</Nombre>
+    <Giro>Fabricacion de env. termoaislantes</Giro>
+    <Contacto>La reina</Contacto>
+    <Direccion>Los hilanderos 8724 / parq. indust.</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22733510</Fono>
+    <Correo></Correo>
+  </Fila391>
+  <Fila392>
+    <RUT>96.516.180-5</RUT>
+    <Nombre>SEPCO S.A.</Nombre>
+    <Giro>Importaciones</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Bascuñan guerrero 1168</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26833631</Fono>
+    <Correo></Correo>
+  </Fila392>
+  <Fila393>
+    <RUT>96.518.750-2</RUT>
+    <Nombre>Exportadora Frutexport Limitada</Nombre>
+    <Giro>Expo. impor. y comerc. de productos agric.</Giro>
+    <Contacto>Providenia</Contacto>
+    <Direccion>Lota 2359</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24616700</Fono>
+    <Correo></Correo>
+  </Fila393>
+  <Fila394>
+    <RUT>96.528.000-6</RUT>
+    <Nombre>COLADA CONTINUA CHILENA S.A.</Nombre>
+    <Giro>Fca. alambre de cobre vtas. subproduc.</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda las esteras sur 2850</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26238668</Fono>
+    <Correo></Correo>
+  </Fila394>
+  <Fila395>
+    <RUT>96.545.450-0</RUT>
+    <Nombre>DERCOMAQ S.A.</Nombre>
+    <Giro>Comercializadora</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Americo vespucio 1838</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25602221</Fono>
+    <Correo></Correo>
+  </Fila395>
+  <Fila396>
+    <RUT>96.548.020-K</RUT>
+    <Nombre>COM. E IND. PLASTICOS HOFFENS S.A.</Nombre>
+    <Giro>Industria de plasticos</Giro>
+    <Contacto>Maipu</Contacto>
+    <Direccion>Camino lonquen 10707</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27267600</Fono>
+    <Correo></Correo>
+  </Fila396>
+  <Fila397>
+    <RUT>96.553.790-2</RUT>
+    <Nombre>Standar Wood (Chile ) S.A.</Nombre>
+    <Giro>Industria de cueros y lanas</Giro>
+    <Contacto>Pta.arenas</Contacto>
+    <Direccion>Km. 13.5 ruta 9 norte</Direccion>
+    <Ciudad>Punta arenas </Ciudad>
+    <Fono>61 / 21 11 63</Fono>
+    <Correo></Correo>
+  </Fila397>
+  <Fila398>
+    <RUT>96.556.940-5</RUT>
+    <Nombre>PROV. INTEGRALES PRISA S.A.</Nombre>
+    <Giro>Distribuidor</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Las rosas 5757</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28206007</Fono>
+    <Correo></Correo>
+  </Fila398>
+  <Fila399>
+    <RUT>96.563.450-9</RUT>
+    <Nombre>YOVEL S.A.</Nombre>
+    <Giro>Fca. prod. tocador, perfumes y cosmeticos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Los coigues 750 parq. ind. aeropuerto</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27391062</Fono>
+    <Correo></Correo>
+  </Fila399>
+  <Fila400>
+    <RUT>96.566.940-K</RUT>
+    <Nombre>AGENCIAS UNIVERSALES S.A.</Nombre>
+    <Giro>Agencia de naves</Giro>
+    <Contacto>Valparaiso</Contacto>
+    <Direccion>Urriola 87  - 1° piso</Direccion>
+    <Ciudad>Valparaiso(32)</Ciudad>
+    <Fono>32 / 255 6200</Fono>
+    <Correo></Correo>
+  </Fila400>
+  <Fila401>
+    <RUT>96.577.310-K</RUT>
+    <Nombre>ANDES AIRPORT SERVICES S.A.</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Aviador david fuentes 2201</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26774945</Fono>
+    <Correo></Correo>
+  </Fila401>
+  <Fila402>
+    <RUT>96.587.380-5</RUT>
+    <Nombre>VIGATEC S.A.</Nombre>
+    <Giro>Repres. y distrib. de equipos para oficina</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>José ananias 441</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23507000</Fono>
+    <Correo></Correo>
+  </Fila402>
+  <Fila403>
+    <RUT>96.592.740-9</RUT>
+    <Nombre>SCHNEIRDER ELECTERIC CHILE S.A.</Nombre>
+    <Giro>Fab. comerc. de productos elect. y electron.</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Avda. pdte. edo. frei montalva 6001-31</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24657000</Fono>
+    <Correo></Correo>
+  </Fila403>
+  <Fila404>
+    <RUT>96.599.510-2</RUT>
+    <Nombre>PROD. FARMA. MEDIPHARM LIMITADA</Nombre>
+    <Giro>Fab. de produc. farmaceuticos</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>San eugenio 820</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22378290</Fono>
+    <Correo></Correo>
+  </Fila404>
+  <Fila405>
+    <RUT>96.599.730-K</RUT>
+    <Nombre>AGRICOLA GILDEMEISTER S.A.</Nombre>
+    <Giro>Imp. y vtas. de maquin. agriola</Giro>
+    <Contacto>Calera de tango</Contacto>
+    <Direccion>Long. sur km 24 cruce</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25982100</Fono>
+    <Correo></Correo>
+  </Fila405>
+  <Fila406>
+    <RUT>96.605.880-3</RUT>
+    <Nombre>GOLDENFOST S.A.</Nombre>
+    <Giro>Almacenaje, transpor. y distrib.</Giro>
+    <Contacto>Renca</Contacto>
+    <Direccion>Americo vespucio 1955</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24860000</Fono>
+    <Correo></Correo>
+  </Fila406>
+  <Fila407>
+    <RUT>96.618.540-6</RUT>
+    <Nombre>ALVI SUPERMERCADO MAYORIS. S.A.</Nombre>
+    <Giro>Distribuidora y comercializadora</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Avda. recoleta 1750</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>8188640</Fono>
+    <Correo></Correo>
+  </Fila407>
+  <Fila408>
+    <RUT>96.624.170-5</RUT>
+    <Nombre>COMERCIAL PROSOL SAIC</Nombre>
+    <Giro>Vtas. y arriendo maquinarias</Giro>
+    <Contacto>Independencia</Contacto>
+    <Direccion>Gamero 1623</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27774518</Fono>
+    <Correo></Correo>
+  </Fila408>
+  <Fila409>
+    <RUT>96.625.950-7</RUT>
+    <Nombre>TECNIKA S.A.</Nombre>
+    <Giro>Imp. y com. productos medicos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Salas ascotan 1305</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29404400</Fono>
+    <Correo></Correo>
+  </Fila409>
+  <Fila410>
+    <RUT>96.640.940-1</RUT>
+    <Nombre>GENERAL TRADE S.A.</Nombre>
+    <Giro>Importacion, exportacion</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Las esteras sur 2820</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29409000</Fono>
+    <Correo></Correo>
+  </Fila410>
+  <Fila411>
+    <RUT>96.649.100-0</RUT>
+    <Nombre>Agricola y Comercial Santa Camila S.A.</Nombre>
+    <Giro>Agricola</Giro>
+    <Contacto>San clemente</Contacto>
+    <Direccion>Fundo santa camila s/n lote b</Direccion>
+    <Ciudad>Talca(71)</Ciudad>
+    <Fono>231800</Fono>
+    <Correo></Correo>
+  </Fila411>
+  <Fila412>
+    <RUT>96.655.550-5</RUT>
+    <Nombre>LIPO CHILE S.A.</Nombre>
+    <Giro>Vta de productos quimicos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Cordillera 331 mod d-11</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27391402</Fono>
+    <Correo></Correo>
+  </Fila412>
+  <Fila413>
+    <RUT>96.659.260-5</RUT>
+    <Nombre>TRANSPORTES DARTEL S.A.</Nombre>
+    <Giro>Transporte</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Pedro leon ugalde 1173</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25518966</Fono>
+    <Correo></Correo>
+  </Fila413>
+  <Fila414>
+    <RUT>96.662.540-6</RUT>
+    <Nombre>Container Operators S.A.</Nombre>
+    <Giro>Servicio de contenedores</Giro>
+    <Contacto>Malvilla </Contacto>
+    <Direccion>Avda.las factorias n° 8150</Direccion>
+    <Ciudad>San antonio</Ciudad>
+    <Fono>35 / 2202700</Fono>
+    <Correo></Correo>
+  </Fila414>
+  <Fila415>
+    <RUT>96.665.460-0</RUT>
+    <Nombre>GOOD FOOD S.A.</Nombre>
+    <Giro>Fabricacion, comer.impor.y dist.de productos alimenticios</Giro>
+    <Contacto>Cerrillos</Contacto>
+    <Direccion>Las encinas 268</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2947 8600</Fono>
+    <Correo></Correo>
+  </Fila415>
+  <Fila416>
+    <RUT>96.671.750-5</RUT>
+    <Nombre>EASY S.A.</Nombre>
+    <Giro>Vta. art. hog. y mater. de const.</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. kennedy 9001 piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29590555</Fono>
+    <Correo></Correo>
+  </Fila416>
+  <Fila417>
+    <RUT>96.680.480-7</RUT>
+    <Nombre>ELBELMAN CORP S.A.</Nombre>
+    <Giro>Importacion</Giro>
+    <Contacto>Quinta normal</Contacto>
+    <Direccion>Molina lavin 01721</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>93369340</Fono>
+    <Correo></Correo>
+  </Fila417>
+  <Fila418>
+    <RUT>96.692.160-9</RUT>
+    <Nombre>Importadora y Distribuidora KW S.A.</Nombre>
+    <Giro>Importadora y distribuidora</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>El rosal 45610</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>28704300</Fono>
+    <Correo></Correo>
+  </Fila418>
+  <Fila419>
+    <RUT>96.708.670-3</RUT>
+    <Nombre>LOGISTICA S.A.</Nombre>
+    <Giro>Depositos, almacenamientos, y transp. ca</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>Avda. el condor 590 of 203-204</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25408200</Fono>
+    <Correo></Correo>
+  </Fila419>
+  <Fila420>
+    <RUT>96.716.620-0</RUT>
+    <Nombre>ROYAL RENTAL S.A.</Nombre>
+    <Giro>Arriendo maquinaria</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Alcalde guzman 1391</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24848100</Fono>
+    <Correo></Correo>
+  </Fila420>
+  <Fila421>
+    <RUT>96.733.580-0</RUT>
+    <Nombre>MACRO FOOD S.A.</Nombre>
+    <Giro>Elab. de alimentos y servicios</Giro>
+    <Contacto>San bernando</Contacto>
+    <Direccion>Camin. la vara poniente 03945</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27133333</Fono>
+    <Correo></Correo>
+  </Fila421>
+  <Fila422>
+    <RUT>96.756.680-2</RUT>
+    <Nombre>Iron Mountain Chile S.A.</Nombre>
+    <Giro>Custodia y administracion de archivos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>El taqueral n° 266</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23957000</Fono>
+    <Correo></Correo>
+  </Fila422>
+  <Fila423>
+    <RUT>96.757.870-3</RUT>
+    <Nombre>PROALTEC S.A.</Nombre>
+    <Giro>Com. de productos cosmeticos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Faro raper 1977 c. ind. lo pinto</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26163945</Fono>
+    <Correo></Correo>
+  </Fila423>
+  <Fila424>
+    <RUT>96.773.060-2</RUT>
+    <Nombre>EPSA CHILE S.A.</Nombre>
+    <Giro>Excavaciones y proyectos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>El roble 615 mod 5 valle grande</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26524015</Fono>
+    <Correo></Correo>
+  </Fila424>
+  <Fila425>
+    <RUT>96.777.170-8</RUT>
+    <Nombre>SK Rental S.A.</Nombre>
+    <Giro>Arriendo maquinarias</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Panamericana norte km 15.5</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22833500</Fono>
+    <Correo></Correo>
+  </Fila425>
+  <Fila426>
+    <RUT>96.796.080-2</RUT>
+    <Nombre>SEAPORT S.A.</Nombre>
+    <Giro>Servicios de almacenamiento y dep.</Giro>
+    <Contacto>San antonio</Contacto>
+    <Direccion>Ruta g48 - n6728 - lote u - aguas buenas</Direccion>
+    <Ciudad>Valparaiso(35)</Ciudad>
+    <Fono>201500</Fono>
+    <Correo></Correo>
+  </Fila426>
+  <Fila427>
+    <RUT>96.800.040-3</RUT>
+    <Nombre>Terminal Puerto Valparaiso S.A.</Nombre>
+    <Giro>Deposito de contenedores y otros servicios</Giro>
+    <Contacto>Placilla peñuelas</Contacto>
+    <Direccion>Ruta 68 km 97,950</Direccion>
+    <Ciudad>Valparaiso</Ciudad>
+    <Fono>32 / 2131800</Fono>
+    <Correo></Correo>
+  </Fila427>
+  <Fila428>
+    <RUT>96.847.320-4</RUT>
+    <Nombre>Mall del Centro Concepcion S.A.</Nombre>
+    <Giro>Retail</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Huerfanos 1052 int. piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2161239</Fono>
+    <Correo></Correo>
+  </Fila428>
+  <Fila429>
+    <RUT>96.854.560-4</RUT>
+    <Nombre>TERMINAL EXPORTACION INTERNACIONAL LTDA</Nombre>
+    <Giro>Frigorifico</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. el bosque norte n° 500</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2630 1355</Fono>
+    <Correo></Correo>
+  </Fila429>
+  <Fila430>
+    <RUT>96.877.680-0</RUT>
+    <Nombre>Juan Bas Alimentos S.A.</Nombre>
+    <Giro>Fabricacion y distrib. de productos alimenticios</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Galvarino n°9601</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2490 1900</Fono>
+    <Correo></Correo>
+  </Fila430>
+  <Fila431>
+    <RUT>96.877.760-2</RUT>
+    <Nombre>MULTIFRUTA S.A.</Nombre>
+    <Giro>Servicios de frio y packing</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Panamericana sur 5018</Direccion>
+    <Ciudad>Buin</Ciudad>
+    <Fono>23557300</Fono>
+    <Correo></Correo>
+  </Fila431>
+  <Fila432>
+    <RUT>96.881.100-2</RUT>
+    <Nombre>NUTRAPHARM S.A.</Nombre>
+    <Giro>Ela. pro. y dist. de prod. nutraseutic</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>El roble 877</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26293900</Fono>
+    <Correo></Correo>
+  </Fila432>
+  <Fila433>
+    <RUT>96.885.450-K</RUT>
+    <Nombre>AEROSAN AIRPORT SERVICES S.A.</Nombre>
+    <Giro>Servicios aeroportuarios</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Aerop. arturo merino b. 2° nivel</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26901353</Fono>
+    <Correo></Correo>
+  </Fila433>
+  <Fila434>
+    <RUT>96.893.430-9</RUT>
+    <Nombre>Don Ignacio S.A.</Nombre>
+    <Giro>Inmobiliaria</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Santa adela 0381</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>88187070</Fono>
+    <Correo></Correo>
+  </Fila434>
+  <Fila435>
+    <RUT>96.893.470-8</RUT>
+    <Nombre>BATERIAS TUBULAR S.A.</Nombre>
+    <Giro>Baterias</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Avda. chena 12624 parque.ind.</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22 964 9740</Fono>
+    <Correo></Correo>
+  </Fila435>
+  <Fila436>
+    <RUT>96.908.870-3</RUT>
+    <Nombre>Terminal Pacifico Sur VAP S.A.</Nombre>
+    <Giro>Explotacion frente atraque n°1pto.vlpo.</Giro>
+    <Contacto>Valparaiso</Contacto>
+    <Direccion>Antonio varas 2 piso 3</Direccion>
+    <Ciudad>Valparaiso</Ciudad>
+    <Fono>32 / 227 5800</Fono>
+    <Correo></Correo>
+  </Fila436>
+  <Fila437>
+    <RUT>96.908.930-0</RUT>
+    <Nombre>San Vicente Terminal Internacional S.A.</Nombre>
+    <Giro>Portuario, muellaje y almacenaje</Giro>
+    <Contacto>Talcahuano</Contacto>
+    <Direccion>Avda. latorre n° 1590 </Direccion>
+    <Ciudad>Talcahuano</Ciudad>
+    <Fono>41/ 2503732</Fono>
+    <Correo></Correo>
+  </Fila437>
+  <Fila438>
+    <RUT>96.908.970-K</RUT>
+    <Nombre>San Antonio Terminal Internacional S.A.</Nombre>
+    <Giro>Instalaciones portuarias</Giro>
+    <Contacto>San antonio</Contacto>
+    <Direccion>Avda: ramon barros luco n°1613 tor.biocean.piso 13</Direccion>
+    <Ciudad>San antonio</Ciudad>
+    <Fono>35/2201616</Fono>
+    <Correo></Correo>
+  </Fila438>
+  <Fila439>
+    <RUT>96.912.590-0</RUT>
+    <Nombre>TANNER LEASING S.A.</Nombre>
+    <Giro>Leasing financiero</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Huerfanos 863 3er piso</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26747500</Fono>
+    <Correo></Correo>
+  </Fila439>
+  <Fila440>
+    <RUT>96.915.330-0</RUT>
+    <Nombre>Iquique Terminal Internacional S.A.</Nombre>
+    <Giro>Desarrollo,mant.y explotac.del frente de atraque 3 y 4</Giro>
+    <Contacto>Iquique</Contacto>
+    <Direccion>Esmeralda n° 340 of. 720</Direccion>
+    <Ciudad>Iquique</Ciudad>
+    <Fono>57 / 239 6000</Fono>
+    <Correo></Correo>
+  </Fila440>
+  <Fila441>
+    <RUT>96.920.980-2</RUT>
+    <Nombre>Winpack S.A.</Nombre>
+    <Giro>Elentos de embalajes</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Ojos del salado n° 0841</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2570 7819</Fono>
+    <Correo></Correo>
+  </Fila441>
+  <Fila442>
+    <RUT>96.929.960-7</RUT>
+    <Nombre>ORIZON S.A.</Nombre>
+    <Giro>Ind. elab. y epor. de conservas</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. el golf 150 piso 15</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24764100</Fono>
+    <Correo></Correo>
+  </Fila442>
+  <Fila443>
+    <RUT>96.930.440-6</RUT>
+    <Nombre>Keylogistics Chile S.A.</Nombre>
+    <Giro>Logistica</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Lago riñihue n° 02319</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9441 3096</Fono>
+    <Correo></Correo>
+  </Fila443>
+  <Fila444>
+    <RUT>96.935.800-K</RUT>
+    <Nombre>VIÑA SAN ESTEBAN S.A.</Nombre>
+    <Giro>Productor de vinos export. import. </Giro>
+    <Contacto>San esteban</Contacto>
+    <Direccion>La florida 2178</Direccion>
+    <Ciudad>Los andes(34)</Ciudad>
+    <Fono>2481050</Fono>
+    <Correo></Correo>
+  </Fila444>
+  <Fila445>
+    <RUT>96.936.910-9</RUT>
+    <Nombre>IND. DE TUBOS Y P. DE HORMIGON</Nombre>
+    <Giro>Prefabricados de hormigon</Giro>
+    <Contacto>La pintana</Contacto>
+    <Direccion>Dr. amador neghme 03811</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27595717</Fono>
+    <Correo></Correo>
+  </Fila445>
+  <Fila446>
+    <RUT>96.954.650-7</RUT>
+    <Nombre>Incede Ingenieria S.A.</Nombre>
+    <Giro>Ingenieria</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Valentin letelier n° 1373 of. 201</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>96659800</Fono>
+    <Correo></Correo>
+  </Fila446>
+  <Fila447>
+    <RUT>96.977.920-K</RUT>
+    <Nombre>FURLONG CHILE S.A.</Nombre>
+    <Giro>Logistica y transporte</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>San pablo antiguo 13012</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29574404</Fono>
+    <Correo></Correo>
+  </Fila447>
+  <Fila448>
+    <RUT>96.983.820-6</RUT>
+    <Nombre>SERVIMAQ S.A.</Nombre>
+    <Giro>Comercializadora</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>José m. carrera p26 el noviciado</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>29233900</Fono>
+    <Correo></Correo>
+  </Fila448>
+  <Fila449>
+    <RUT>96.999.210-8</RUT>
+    <Nombre>BATERIAS DEL PACIFICO S.A.</Nombre>
+    <Giro>Fabricacion de baterias</Giro>
+    <Contacto>El bosque</Contacto>
+    <Direccion>Jose joaquin prieto n 10000 bodega 12</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>25471434</Fono>
+    <Correo></Correo>
+  </Fila449>
+  <Fila450>
+    <RUT>96.999.340-6</RUT>
+    <Nombre>FLUIDRA CHILE S.A.</Nombre>
+    <Giro>Compra, vta. y exp. maq. piscina</Giro>
+    <Contacto>Huechuraba</Contacto>
+    <Direccion>El conquistador del monte 4731</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27400830</Fono>
+    <Correo></Correo>
+  </Fila450>
+  <Fila451>
+    <RUT>97.004.000-5</RUT>
+    <Nombre>BANCO DE CHILE</Nombre>
+    <Giro>Banco</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Ahumada 251</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26954618</Fono>
+    <Correo></Correo>
+  </Fila451>
+  <Fila452>
+    <RUT>99.510.060-6</RUT>
+    <Nombre>TAMAYA FRUTTS S.A.</Nombre>
+    <Giro>Elaboracion empaque comer. prod. agricolas</Giro>
+    <Contacto>Vitacura</Contacto>
+    <Direccion>Avda. vitacura 5250</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>26585030</Fono>
+    <Correo></Correo>
+  </Fila452>
+  <Fila453>
+    <RUT>99.511.240-K</RUT>
+    <Nombre>Antofagasta Terminal Internacional S.A.</Nombre>
+    <Giro>Desarrollo,mantencion y explotacion frente atraque n°2</Giro>
+    <Contacto>Antofagasta</Contacto>
+    <Direccion>Avda. grecia s/n costado recinto portuario</Direccion>
+    <Ciudad>Antofagasta</Ciudad>
+    <Fono>55/ 243 2301</Fono>
+    <Correo></Correo>
+  </Fila453>
+  <Fila454>
+    <RUT>99.555.350-3</RUT>
+    <Nombre>ATS. MAQUINAS LIMITADA</Nombre>
+    <Giro>Aariendo de maquinarias</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>El juncal 350</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24464612</Fono>
+    <Correo></Correo>
+  </Fila454>
+  <Fila455>
+    <RUT>99.560.200-8</RUT>
+    <Nombre>KREIS S.A.</Nombre>
+    <Giro>Imp. y mantencion maquinas</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Avda. pdte. jorge alessandri 11832</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>24375960</Fono>
+    <Correo></Correo>
+  </Fila455>
+  <Fila456>
+    <RUT>99.567.620-6</RUT>
+    <Nombre>Terminal Puerto Arica S.A.</Nombre>
+    <Giro>Desarrollo, mantenimiento y explotacion</Giro>
+    <Contacto>Arica</Contacto>
+    <Direccion>Maximo lira n° 389</Direccion>
+    <Ciudad>Arica</Ciudad>
+    <Fono>58/2202000</Fono>
+    <Correo></Correo>
+  </Fila456>
+  <Fila457>
+    <RUT>99.577.270-1</RUT>
+    <Nombre>TRANSPORTE DE CARGA EXPRESS S.A.</Nombre>
+    <Giro>Transporte de carga</Giro>
+    <Contacto>Conchali</Contacto>
+    <Direccion>Aviador acevedo 2077</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27360276</Fono>
+    <Correo></Correo>
+  </Fila457>
+  <Fila458>
+    <RUT>99.584.590-3</RUT>
+    <Nombre>AUSTRAL TRADING SPA</Nombre>
+    <Giro>Comercializadora de alimentos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Lo boza 300 modulo 8 anden 60</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>23514900</Fono>
+    <Correo></Correo>
+  </Fila458>
+  <Fila459>
+    <RUT>99.589.880-2</RUT>
+    <Nombre>BODELOG S.A.</Nombre>
+    <Giro>Serv. de bodegaje y almacenam.</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Camino el otoño sitio 9 y 10</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>27453496</Fono>
+    <Correo></Correo>
+  </Fila459>
+  <Fila460>
+    <RUT>96.543.050-4</RUT>
+    <Nombre>Abasolo Vallejo Soc. Anon.</Nombre>
+    <Giro>Fab. distrib.impor.expor.prod.metalicos y no metalicos</Giro>
+    <Contacto>Chillan</Contacto>
+    <Direccion>Avda. brasil n° 541</Direccion>
+    <Ciudad>Chillan</Ciudad>
+    <Fono>42 / 222 2246</Fono>
+    <Correo></Correo>
+  </Fila460>
+  <Fila461>
+    <RUT>81.866.400-1</RUT>
+    <Nombre>Fabrica de envases Fosko S.A.</Nombre>
+    <Giro>Fabrica de envases plasticos</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Camino el otoño n° 4 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2398 6100</Fono>
+    <Correo></Correo>
+  </Fila461>
+  <Fila462>
+    <RUT>86.172.000-4</RUT>
+    <Nombre>Ramirez y Sanchez Limitada</Nombre>
+    <Giro>Distribuidor farmaceutico</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Pedro de valdivia n° 5971</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2470 2400</Fono>
+    <Correo></Correo>
+  </Fila462>
+  <Fila463>
+    <RUT>77.753.080-1</RUT>
+    <Nombre>Movimiento de tierra Tres Reyes Ltda.</Nombre>
+    <Giro>Movimiento de tierras</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Camino la montaña n° 635 sitio 27</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9783 3100</Fono>
+    <Correo></Correo>
+  </Fila463>
+  <Fila464>
+    <RUT>87.605.600-3</RUT>
+    <Nombre>Hempel  A/S Chile Ltda.</Nombre>
+    <Giro>Importacion y venta de pinturas</Giro>
+    <Contacto>V.del mar</Contacto>
+    <Direccion>Calle limache n° 3116</Direccion>
+    <Ciudad>Viña del mar</Ciudad>
+    <Fono>32 / 263 9006</Fono>
+    <Correo></Correo>
+  </Fila464>
+  <Fila465>
+    <RUT>76.523.090-K</RUT>
+    <Nombre>Soc.de Ing.electrica, energia y fuerza S.A.</Nombre>
+    <Giro>Ingenieria</Giro>
+    <Contacto>Las condes </Contacto>
+    <Direccion>Avda: presidente riesco n° 5335  - of 305</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2246 6060</Fono>
+    <Correo></Correo>
+  </Fila465>
+  <Fila466>
+    <RUT>15.839.506-1</RUT>
+    <Nombre>Pablo Andres Inostroza Montenegro</Nombre>
+    <Giro>Mantencion y rep. de baterias industriales</Giro>
+    <Contacto>San ramon</Contacto>
+    <Direccion>Profesor ernesto guzman n° 9424</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>5871 6017</Fono>
+    <Correo></Correo>
+  </Fila466>
+  <Fila467>
+    <RUT>77.888.630-8</RUT>
+    <Nombre>Comercial Lubba Ltda.</Nombre>
+    <Giro>Distribuidora de confites y abarrotes</Giro>
+    <Contacto>La cisterna</Contacto>
+    <Direccion>Abel gonzalez n° 042</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2784 5440</Fono>
+    <Correo></Correo>
+  </Fila467>
+  <Fila468>
+    <RUT>76.061.529-3</RUT>
+    <Nombre>Deutsche Schalung Chile S.A</Nombre>
+    <Giro>Importación exportación y mantenimiento</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Ojos del salado 0791</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>228969380</Fono>
+    <Correo></Correo>
+  </Fila468>
+  <Fila469>
+    <RUT>76.307.548-6</RUT>
+    <Nombre>Rhema Maquinarias Spa.</Nombre>
+    <Giro>Importaciones venta y reparaciones</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Avda. almirante blanco encalada n° 2752</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2689 3170</Fono>
+    <Correo></Correo>
+  </Fila469>
+  <Fila470>
+    <RUT>99.530.100-8</RUT>
+    <Nombre>Matadero Frigorifico del Sur S.A.</Nombre>
+    <Giro>Matanza y desposte de ganado</Giro>
+    <Contacto>Osorno</Contacto>
+    <Direccion>Ruta u55, camino pichidamas, km 1,7</Direccion>
+    <Ciudad>Osorno</Ciudad>
+    <Fono>64 / 222 3400</Fono>
+    <Correo></Correo>
+  </Fila470>
+  <Fila471>
+    <RUT>96.584.740-5</RUT>
+    <Nombre>Friofort S.A.</Nombre>
+    <Giro>Deposito y almacenamiento</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Alberto krumm 0613</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2821 3732</Fono>
+    <Correo></Correo>
+  </Fila471>
+  <Fila472>
+    <RUT>76.284.723-K</RUT>
+    <Nombre>Contopsa Inland Terminal Spa.</Nombre>
+    <Giro>Servicios de almacenaje de mercancias</Giro>
+    <Contacto>Malvilla</Contacto>
+    <Direccion>Avda: las factorias n° 8150</Direccion>
+    <Ciudad>San antonio</Ciudad>
+    <Fono>35 / 220 2700</Fono>
+    <Correo></Correo>
+  </Fila472>
+  <Fila473>
+    <RUT>96.555.510-2</RUT>
+    <Nombre>Maui and Sons S.A.</Nombre>
+    <Giro>Comerc.de prendas de vestir,art.deportivos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>San ignacio n° 1001  </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2387 7500</Fono>
+    <Correo></Correo>
+  </Fila473>
+  <Fila474>
+    <RUT>76.012.093-6</RUT>
+    <Nombre>Hellmann Worldwide Logistics Ltda.</Nombre>
+    <Giro>Agencia carga, descarga y servicios logisticos</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Isidora goyenechea n°3600 of.201</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9 6574 8420</Fono>
+    <Correo></Correo>
+  </Fila474>
+  <Fila475>
+    <RUT>83.156.000-2</RUT>
+    <Nombre>Jose Cortes y Cia. Ltda.</Nombre>
+    <Giro>Productos quimicos</Giro>
+    <Contacto>Estacion central</Contacto>
+    <Direccion>Avda: libertador bernardo ohiggins n° 4745</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>227 791 421</Fono>
+    <Correo></Correo>
+  </Fila475>
+  <Fila476>
+    <RUT>14.011.861-3</RUT>
+    <Nombre>Jonathan Ortega Jara</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Comandante mario vargas n° 323</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9580 4729</Fono>
+    <Correo></Correo>
+  </Fila476>
+  <Fila477>
+    <RUT>76.057.631-K</RUT>
+    <Nombre>SCI Ingenieria limitada</Nombre>
+    <Giro>Servicios de ingenieria</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Avda: general bustamante n° 250 of.401</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2  2635 3375</Fono>
+    <Correo></Correo>
+  </Fila477>
+  <Fila478>
+    <RUT>96.946.910-3</RUT>
+    <Nombre>Fluitek Chile S.A.</Nombre>
+    <Giro>Venta de repuestos</Giro>
+    <Contacto>Vitacura </Contacto>
+    <Direccion>Avda: kennedy n° 6690 - of.402</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>222 418 877</Fono>
+    <Correo></Correo>
+  </Fila478>
+  <Fila479>
+    <RUT>77.762.180-7</RUT>
+    <Nombre>Perilogistics Limitada</Nombre>
+    <Giro>Almacenaje y distribucion</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Rodrigo de araya n° 1151</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono> Cel 7503 9330</Fono>
+    <Correo></Correo>
+  </Fila479>
+  <Fila480>
+    <RUT>76.254.752-K</RUT>
+    <Nombre>Servicios y Asesorias Seringman Ltda.</Nombre>
+    <Giro>Mantenciones electricas</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Los robles n° 3870</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9439 8130</Fono>
+    <Correo></Correo>
+  </Fila480>
+  <Fila481>
+    <RUT>76.219.663-8</RUT>
+    <Nombre>Comercial.Emerson Network Power chile Ltda.</Nombre>
+    <Giro>Import.exportac.repres.distrib.comerc.de productos</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. apoquindo n° 2827 of. 302</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>227 530 900</Fono>
+    <Correo></Correo>
+  </Fila481>
+  <Fila482>
+    <RUT>78.390.400-4</RUT>
+    <Nombre>Soc.Agricola y comercial El enano Ltda.</Nombre>
+    <Giro>Agricola</Giro>
+    <Contacto>Coltauco</Contacto>
+    <Direccion>El almendro s/n </Direccion>
+    <Ciudad>Rancagua</Ciudad>
+    <Fono>85003518</Fono>
+    <Correo></Correo>
+  </Fila482>
+  <Fila483>
+    <RUT>76.342.022-1</RUT>
+    <Nombre>CCI Rental Limitada</Nombre>
+    <Giro>Mantencion de equipos electricos</Giro>
+    <Contacto>Ñuñoa</Contacto>
+    <Direccion>Quilpue n° 4265</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>6310 9889</Fono>
+    <Correo></Correo>
+  </Fila483>
+  <Fila484>
+    <RUT>96.610.150-4</RUT>
+    <Nombre>Sakata Seed Chile S.A.</Nombre>
+    <Giro>Explotacion de viveros</Giro>
+    <Contacto>Nogales</Contacto>
+    <Direccion>Parcela n° 16  a20 el tranque </Direccion>
+    <Ciudad>La calera</Ciudad>
+    <Fono>33 / 229 3985</Fono>
+    <Correo></Correo>
+  </Fila484>
+  <Fila485>
+    <RUT>76.386.817-6</RUT>
+    <Nombre>Arr.compra y vta.de vehic.y Maq.Gruas express Ltda.</Nombre>
+    <Giro>Arriendo de gruas</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>San vicente n° 968</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>85908052 Cel</Fono>
+    <Correo></Correo>
+  </Fila485>
+  <Fila486>
+    <RUT>76.276.344-3</RUT>
+    <Nombre>Asesorias y servicios Carlos Ramirez Spa.</Nombre>
+    <Giro>Computacion</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Antonio varas n° 175 - 402</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>74971368</Fono>
+    <Correo></Correo>
+  </Fila486>
+  <Fila487>
+    <RUT>10.110.165-7</RUT>
+    <Nombre>Jeannette de las Mercedes Inzulza Larena</Nombre>
+    <Giro>Venta de maquinarias</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Pasaje la recoleta n° 5573</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9379 2561</Fono>
+    <Correo></Correo>
+  </Fila487>
+  <Fila488>
+    <RUT>76.033.004-3</RUT>
+    <Nombre>Constructora Suksa S.A.</Nombre>
+    <Giro>Construccion de viviendas</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Andres bello n° 2777   oficina 604</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>9671 7518 Cel</Fono>
+    <Correo></Correo>
+  </Fila488>
+  <Fila489>
+    <RUT>76.736.230-7</RUT>
+    <Nombre>Soc.Com.y Distrib.Ruiz y Cia Ltda.</Nombre>
+    <Giro>Importaciones y comercializacion</Giro>
+    <Contacto>Recoleta</Contacto>
+    <Direccion>Obispo bernardo carrasco n° 2741</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2954 9292</Fono>
+    <Correo></Correo>
+  </Fila489>
+  <Fila490>
+    <RUT>8.351.543-0</RUT>
+    <Nombre>Jaime Navarrete Nuñez</Nombre>
+    <Giro>Servicios hidraulicos</Giro>
+    <Contacto>Concepcion</Contacto>
+    <Direccion>Pasaje 21 n° 62 b barrio norte</Direccion>
+    <Ciudad>Concepcion</Ciudad>
+    <Fono>7733 4732 Cel</Fono>
+    <Correo></Correo>
+  </Fila490>
+  <Fila491>
+    <RUT>96.512.230-3</RUT>
+    <Nombre>Molinera Del Maipo S.A.</Nombre>
+    <Giro>Molinera</Giro>
+    <Contacto>Buin</Contacto>
+    <Direccion>Calle la paloma n° 0445</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>228 246 050</Fono>
+    <Correo></Correo>
+  </Fila491>
+  <Fila492>
+    <RUT>76.191.432-4</RUT>
+    <Nombre>Depremaq Ingenieria</Nombre>
+    <Giro>Ingenieria en maquinaria</Giro>
+    <Contacto>Quilpue</Contacto>
+    <Direccion>John kennedy n° 1786</Direccion>
+    <Ciudad>Quilpue</Ciudad>
+    <Fono>78564912 Cel</Fono>
+    <Correo></Correo>
+  </Fila492>
+  <Fila493>
+    <RUT>84.144.400-0</RUT>
+    <Nombre>Industrial y Comercial Salucorp ltda.</Nombre>
+    <Giro>Fabrica  de etiquetas y cintas adhesivas</Giro>
+    <Contacto>Macul</Contacto>
+    <Direccion>Castillo urizar sur n° 3535</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2363 7000</Fono>
+    <Correo></Correo>
+  </Fila493>
+  <Fila494>
+    <RUT>76.197.328-2</RUT>
+    <Nombre>Terminal Puerto Coquimbo S.A.</Nombre>
+    <Giro>Puertos y aeropuertos</Giro>
+    <Contacto>Coquimbo</Contacto>
+    <Direccion>Avda. costanera s/n</Direccion>
+    <Ciudad>Coquimbo</Ciudad>
+    <Fono>Cel 8500 2003</Fono>
+    <Correo></Correo>
+  </Fila494>
+  <Fila495>
+    <RUT>99.571.800-6</RUT>
+    <Nombre>Central de Distribuicion Lagos S.A.</Nombre>
+    <Giro>Distribuicion</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Camino la vara n° 03795</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2299 9600</Fono>
+    <Correo></Correo>
+  </Fila495>
+  <Fila496>
+    <RUT>88.859.600-3</RUT>
+    <Nombre>Drillco Tools S.A.</Nombre>
+    <Giro>Fab.ded maquinarias y herramientas mineras</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Avda: americo vespucio n° 1387</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22 431 2200</Fono>
+    <Correo></Correo>
+  </Fila496>
+  <Fila497>
+    <RUT>78.030.690-4</RUT>
+    <Nombre>Prosud S.A.</Nombre>
+    <Giro>Almacenamiento y distribucion</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Lautaro n° 2102</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel 7100 2417</Fono>
+    <Correo></Correo>
+  </Fila497>
+  <Fila498>
+    <RUT>76.320.526-6</RUT>
+    <Nombre>Minerbras S.A.</Nombre>
+    <Giro>Metal mecanica</Giro>
+    <Contacto>Lampa</Contacto>
+    <Direccion>Las encinas n° 1104-b valle grande</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>226 217 123</Fono>
+    <Correo></Correo>
+  </Fila498>
+  <Fila499>
+    <RUT>76.188.148-5</RUT>
+    <Nombre>Migsa Ingenieria S.A.</Nombre>
+    <Giro>Fab.de produc.metalicos, maestranza y galvanizadora</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>San agustin n° 03541 parque industrial puerta sur</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>222 702 200</Fono>
+    <Correo></Correo>
+  </Fila499>
+  <Fila500>
+    <RUT>76.041.303-8</RUT>
+    <Nombre>Transportes Deprisa Limitada</Nombre>
+    <Giro>Transportes</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Cerro santa lucia n° 9871-b</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel. 6435 7395</Fono>
+    <Correo></Correo>
+  </Fila500>
+  <Fila501>
+    <RUT>77.584.680-1</RUT>
+    <Nombre>Arama Natural Products Distribuidora Ltda.</Nombre>
+    <Giro>Distribuidora de productos farmaceuticos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Lo boza n° 107 , bodega  a10</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2713 0797</Fono>
+    <Correo></Correo>
+  </Fila501>
+  <Fila502>
+    <RUT>76.305.620-1</RUT>
+    <Nombre>Embotelladora de Aguas Jahuel S.A.</Nombre>
+    <Giro>Embotelladora de aguas</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda. málaga n° 89 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2412 6500</Fono>
+    <Correo></Correo>
+  </Fila502>
+  <Fila503>
+    <RUT>76.434.279-8</RUT>
+    <Nombre>Servicios de ingenieria Valdebenito y Castro Ltda.</Nombre>
+    <Giro>Obras menores y mantencion</Giro>
+    <Contacto>La florida</Contacto>
+    <Direccion>Jardin alto n° 8981</Direccion>
+    <Ciudad>Satiago</Ciudad>
+    <Fono>Cel 8815 4422</Fono>
+    <Correo></Correo>
+  </Fila503>
+  <Fila504>
+    <RUT>61.704.000-K</RUT>
+    <Nombre>Corporacion Nacional del cobre de Chile</Nombre>
+    <Giro>Gran mineria del cobre</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Huerfanos n° 1270</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono></Fono>
+    <Correo></Correo>
+  </Fila504>
+  <Fila505>
+    <RUT>79.662.080-3</RUT>
+    <Nombre>Agricola Don Pollo Ltda.</Nombre>
+    <Giro>Agricola</Giro>
+    <Contacto>La pintana</Contacto>
+    <Direccion>Camino el mariscal n° 1590</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>223 890 500</Fono>
+    <Correo></Correo>
+  </Fila505>
+  <Fila506>
+    <RUT>76.252.614-K</RUT>
+    <Nombre>Soluciones Ind.Diaz Limitada</Nombre>
+    <Giro>Import.y comerc.de maquinas para vehiculos</Giro>
+    <Contacto>Providencia</Contacto>
+    <Direccion>Francisco noguera n° 200 p4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel 9802 1534</Fono>
+    <Correo></Correo>
+  </Fila506>
+  <Fila507>
+    <RUT>94.058.000-5</RUT>
+    <Nombre>Servicios Aeroportuarios Aerosan S.A.</Nombre>
+    <Giro>Servicios aeroportuarios</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Avda. capitan manuel avalos p.n° 1860</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2230 5962</Fono>
+    <Correo></Correo>
+  </Fila507>
+  <Fila508>
+    <RUT>96.885.450-K</RUT>
+    <Nombre>Aerosan Airport Services S.A.</Nombre>
+    <Giro>Servicios aeroportuarios</Giro>
+    <Contacto>Pudahuel </Contacto>
+    <Direccion>Avda. capitan manuel avalos p. n° 1860</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2230 5962</Fono>
+    <Correo></Correo>
+  </Fila508>
+  <Fila509>
+    <RUT>76.457.830-9</RUT>
+    <Nombre>Servicios Logisticos Ltda.</Nombre>
+    <Giro>Servicios aeroportuarios</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Avda. americo vespucio n° 1309 ofic.504</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2230 5962</Fono>
+    <Correo></Correo>
+  </Fila509>
+  <Fila510>
+    <RUT>89.049.200-2</RUT>
+    <Nombre>Plasticos Polymar Limitada</Nombre>
+    <Giro>Fca.envases plasticos</Giro>
+    <Contacto>Placilla</Contacto>
+    <Direccion>Cerro el plomo n°3530</Direccion>
+    <Ciudad>Valparaiso</Ciudad>
+    <Fono>Cel 95756204</Fono>
+    <Correo></Correo>
+  </Fila510>
+  <Fila511>
+    <RUT>78.488.790-1</RUT>
+    <Nombre>Multipanel Ltda.</Nombre>
+    <Giro>Fabricacion de productos metalicos</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>San ignacio n° 030</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22 738 6210</Fono>
+    <Correo></Correo>
+  </Fila511>
+  <Fila512>
+    <RUT>92.048.000-4</RUT>
+    <Nombre>Saam S.A.</Nombre>
+    <Giro>Servicios relacionados al transporte maritimo</Giro>
+    <Contacto>Valparaiso</Contacto>
+    <Direccion>Blanco n° 895</Direccion>
+    <Ciudad>Valparaiso</Ciudad>
+    <Fono>32 / 220 1213</Fono>
+    <Correo></Correo>
+  </Fila512>
+  <Fila513>
+    <RUT>92.307.000-1</RUT>
+    <Nombre>Rhona S.A.</Nombre>
+    <Giro>Industrial</Giro>
+    <Contacto>Viña del mar</Contacto>
+    <Direccion>Variante agua santa n° 4211</Direccion>
+    <Ciudad>Viña del mar</Ciudad>
+    <Fono>32 / 232 0600</Fono>
+    <Correo></Correo>
+  </Fila513>
+  <Fila514>
+    <RUT>83.077.900-0</RUT>
+    <Nombre>Importadora y Exportadora H.J.Ltda.</Nombre>
+    <Giro>Importaciones y distrib.de articulos electronicos</Giro>
+    <Contacto>Pudahuel</Contacto>
+    <Direccion>Puerto vespucio n° 9675</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22 499 4500</Fono>
+    <Correo></Correo>
+  </Fila514>
+  <Fila515>
+    <RUT>91.004.000-6</RUT>
+    <Nombre>Productos Fernandez S.A.</Nombre>
+    <Giro>Industria alimenticia</Giro>
+    <Contacto>Talca</Contacto>
+    <Direccion>11 oriente n° 1470</Direccion>
+    <Ciudad>Talca</Ciudad>
+    <Fono>71 / 224430</Fono>
+    <Correo></Correo>
+  </Fila515>
+  <Fila516>
+    <RUT>76.119.500-K</RUT>
+    <Nombre>Ingenieria, Serv.y Maquinarias Ltda.</Nombre>
+    <Giro>Serv.ing.comp.vtas.repuestos y partes vehic.motorizados</Giro>
+    <Contacto>Santiago</Contacto>
+    <Direccion>Chiloe n° 1449</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>22 556 5048</Fono>
+    <Correo></Correo>
+  </Fila516>
+  <Fila517>
+    <RUT>11.865.644-K</RUT>
+    <Nombre>Pedro Diaz Lopez</Nombre>
+    <Giro>Servicios</Giro>
+    <Contacto>Lo prado</Contacto>
+    <Direccion>Doctor carlos valencia n° 6065</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel 9067 7980</Fono>
+    <Correo></Correo>
+  </Fila517>
+  <Fila518>
+    <RUT>76.347.878-5</RUT>
+    <Nombre>Heavy Movement Chile Spa</Nombre>
+    <Giro>Trabajos de ingenieria </Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Cruz del sur n° of.902</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel 9309 7786</Fono>
+    <Correo></Correo>
+  </Fila518>
+  <Fila519>
+    <RUT>96.959.030-1</RUT>
+    <Nombre>Puerto Lirquen S.A.</Nombre>
+    <Giro>Serv.carga y descargas actividades portuarias</Giro>
+    <Contacto>Lirquen</Contacto>
+    <Direccion>Interior recinto portuario s/n </Direccion>
+    <Ciudad>Lirquen</Ciudad>
+    <Fono>41 / 240 6000</Fono>
+    <Correo></Correo>
+  </Fila519>
+  <Fila520>
+    <RUT>76.261.416-2</RUT>
+    <Nombre>BTK Baterias y servicios Spa.</Nombre>
+    <Giro>Baterias y servicios</Giro>
+    <Contacto>Santiago centro</Contacto>
+    <Direccion>Ahumada n° 116 </Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>Cel 6359 3260</Fono>
+    <Correo></Correo>
+  </Fila520>
+  <Fila521>
+    <RUT>76.482.344-3</RUT>
+    <Nombre>Transportes Ormac Limitada</Nombre>
+    <Giro>Transporte de carga por carretera</Giro>
+    <Contacto>Villa alemana</Contacto>
+    <Direccion>Pasaje interior n° 781 canal trinidad</Direccion>
+    <Ciudad>Villa alemana</Ciudad>
+    <Fono>8149 9495</Fono>
+    <Correo></Correo>
+  </Fila521>
+  <Fila522>
+    <RUT>76.428.196-9</RUT>
+    <Nombre>Servicios Baterias Servibat Spa.</Nombre>
+    <Giro>Reparacion,mant.de equipos electricos</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>San fernando n° 1145</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2964 9740</Fono>
+    <Correo></Correo>
+  </Fila522>
+  <Fila523>
+    <RUT>85.749.900-K</RUT>
+    <Nombre>Tetra Pak de Chile Com. Limitada</Nombre>
+    <Giro>Sistemas de envasados</Giro>
+    <Contacto>Las condes</Contacto>
+    <Direccion>Avda: apoquindo n° 5400 piso 4</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2940 7000</Fono>
+    <Correo></Correo>
+  </Fila523>
+  <Fila524>
+    <RUT>96.708.210-4</RUT>
+    <Nombre>Gebo Cermex Chile S.A.</Nombre>
+    <Giro>Ingenieria,transp. asesorias y sistemas</Giro>
+    <Contacto>Quilicura</Contacto>
+    <Direccion>Ojos del salado n° 0800</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2654 0400</Fono>
+    <Correo></Correo>
+  </Fila524>
+  <Fila525>
+    <RUT>17.565.152-7</RUT>
+    <Nombre>Leontina Marcela Contreras Descovic</Nombre>
+    <Giro>Fabricacion y comercializacion de maq. y art. de ferreteria y contruccion</Giro>
+    <Contacto>El bosque </Contacto>
+    <Direccion>Pasaje 11 casa 11778</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>98210014</Fono>
+    <Correo></Correo>
+  </Fila525>
+  <Fila526>
+    <RUT>76.414.829-0</RUT>
+    <Nombre>Equipos y Servicios Trex Spa.</Nombre>
+    <Giro>Import.expor.ventas,serv.maquinarias y rep.</Giro>
+    <Contacto>San bernardo</Contacto>
+    <Direccion>Avda. puerta sur n° 03360</Direccion>
+    <Ciudad>Santiago</Ciudad>
+    <Fono>2 2498 5600</Fono>
+    <Correo></Correo>
+  </Fila526>
+</tabla>

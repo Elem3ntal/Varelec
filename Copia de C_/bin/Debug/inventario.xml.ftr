@@ -1,0 +1,1213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tabla xmlns="">
+  <Fila0>
+    <Codigo>A000000001</Codigo>
+    <Origen>€-44062-29/5/2014-0,1</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Indicadores</Grupo>
+    <Cant>6</Cant>
+    <CostoUnitEuto>53</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>125000</PVP>
+    <Descripcion>One view</Descripcion>
+  </Fila0>
+  <Fila1>
+    <Codigo>A000000002</Codigo>
+    <Origen>€-25178-29/5/2014-0,1</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Indicadores</Grupo>
+    <Cant>12</Cant>
+    <CostoUnitEuto>30</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>82500</PVP>
+    <Descripcion>Multi b</Descripcion>
+  </Fila1>
+  <Fila2>
+    <Codigo>A000000003</Codigo>
+    <Origen>€-37330-29/5/2014-0,07</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Indicadores</Grupo>
+    <Cant>11</Cant>
+    <CostoUnitEuto>45</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>110000</PVP>
+    <Descripcion>Mdi ip 64</Descripcion>
+  </Fila2>
+  <Fila3>
+    <Codigo>A000000004</Codigo>
+    <Origen>€-16967-29/5/2014-0,1</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Indicadores</Grupo>
+    <Cant>12</Cant>
+    <CostoUnitEuto>20</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>38500</PVP>
+    <Descripcion>Indicador orometro multitension 12v/60v</Descripcion>
+  </Fila3>
+  <Fila4>
+    <Codigo>A000000005</Codigo>
+    <Origen>€-12091-29/5/2014-0,41</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Balizas</Grupo>
+    <Cant>107</Cant>
+    <CostoUnitEuto>12</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>36600</PVP>
+    <Descripcion>Baliza reals e1021c 12/110v</Descripcion>
+  </Fila4>
+  <Fila5>
+    <Codigo>A000000006</Codigo>
+    <Origen>€-9051-29/5/2014-0,605</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Balizas</Grupo>
+    <Cant>40</Cant>
+    <CostoUnitEuto>7</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>12100</PVP>
+    <Descripcion>Ampolleta baliza estroboscopica</Descripcion>
+  </Fila5>
+  <Fila6>
+    <Codigo>A000000007</Codigo>
+    <Origen>€-14748-29/5/2014-0,295</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Balizas</Grupo>
+    <Cant>42</Cant>
+    <CostoUnitEuto>16</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>36300</PVP>
+    <Descripcion>Baliza vision alert 12/40v 563.2r8</Descripcion>
+  </Fila6>
+  <Fila7>
+    <Codigo>A000000008</Codigo>
+    <Origen>€-4649-29/5/2014-0,25</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Bocinas</Grupo>
+    <Cant>18</Cant>
+    <CostoUnitEuto>4</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>18700</PVP>
+    <Descripcion>Bocina 12v</Descripcion>
+  </Fila7>
+  <Fila8>
+    <Codigo>A000000009</Codigo>
+    <Origen>€-10397-29/5/2014-0,25</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Bocinas</Grupo>
+    <Cant>17</Cant>
+    <CostoUnitEuto>11</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>20900</PVP>
+    <Descripcion>Bocina 24v</Descripcion>
+  </Fila8>
+  <Fila9>
+    <Codigo>A000000010</Codigo>
+    <Origen>€-8152-29/5/2014-0,29</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Bocinas</Grupo>
+    <Cant>19</Cant>
+    <CostoUnitEuto>8</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>24200</PVP>
+    <Descripcion>Bocina 36/48v</Descripcion>
+  </Fila9>
+  <Fila10>
+    <Codigo>A000000011</Codigo>
+    <Origen>€-20497-29/5/2014-0,145</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Alarmas</Grupo>
+    <Cant>19</Cant>
+    <CostoUnitEuto>24</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>47300</PVP>
+    <Descripcion>Zum marcha atras truck alarm</Descripcion>
+  </Fila10>
+  <Fila11>
+    <Codigo>A000000012</Codigo>
+    <Origen>€-87565-29/5/2014-1</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Timones</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>100</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>198000</PVP>
+    <Descripcion>Grupo timon zapi</Descripcion>
+  </Fila11>
+  <Fila12>
+    <Codigo>A000000013</Codigo>
+    <Origen>€-30486-29/5/2014-0,17</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Accionamiento</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>36</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>66000</PVP>
+    <Descripcion>Inversor marcha/bosch</Descripcion>
+  </Fila12>
+  <Fila13>
+    <Codigo>A000000014</Codigo>
+    <Origen>€-137753-29/5/2014-1,47</Origen>
+    <Familia>Accesorios</Familia>
+    <Grupo>Convertidores</Grupo>
+    <Cant>4</Cant>
+    <CostoUnitEuto>158</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>352000</PVP>
+    <Descripcion>Conversor tension elektrosistem</Descripcion>
+  </Fila13>
+  <Fila14>
+    <Codigo>F000000001</Codigo>
+    <Origen>€-1724-29/5/2014-0,015</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>16</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>5500</PVP>
+    <Descripcion>Fusible 35a</Descripcion>
+  </Fila14>
+  <Fila15>
+    <Codigo>F000000002</Codigo>
+    <Origen>€-1724-29/5/2014-0,015</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>48</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6050</PVP>
+    <Descripcion>Fusible 50a</Descripcion>
+  </Fila15>
+  <Fila16>
+    <Codigo>F000000003</Codigo>
+    <Origen>€-1724-29/5/2014-0,015</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>6</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6270</PVP>
+    <Descripcion>Fusible 80a</Descripcion>
+  </Fila16>
+  <Fila17>
+    <Codigo>F000000004</Codigo>
+    <Origen>€-1724-29/5/2014-0,015</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>69</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6490</PVP>
+    <Descripcion>Fusible 100a</Descripcion>
+  </Fila17>
+  <Fila18>
+    <Codigo>F000000005</Codigo>
+    <Origen>€-1751-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>54</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6710</PVP>
+    <Descripcion>Fusible 125a</Descripcion>
+  </Fila18>
+  <Fila19>
+    <Codigo>F000000006</Codigo>
+    <Origen>€-1751-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>25</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7480</PVP>
+    <Descripcion>Fusible 160a</Descripcion>
+  </Fila19>
+  <Fila20>
+    <Codigo>F000000007</Codigo>
+    <Origen>€-2572-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>47</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7920</PVP>
+    <Descripcion>Fusible 200a</Descripcion>
+  </Fila20>
+  <Fila21>
+    <Codigo>F000000008</Codigo>
+    <Origen>€-2572-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>24</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>8140</PVP>
+    <Descripcion>Fusible 250a</Descripcion>
+  </Fila21>
+  <Fila22>
+    <Codigo>F000000009</Codigo>
+    <Origen>€-2600-29/5/2014-0,025</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>8690</PVP>
+    <Descripcion>Fusible 500a</Descripcion>
+  </Fila22>
+  <Fila23>
+    <Codigo>F000000010</Codigo>
+    <Origen>€-1751-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>26</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7150</PVP>
+    <Descripcion>Fusible 300a</Descripcion>
+  </Fila23>
+  <Fila24>
+    <Codigo>F000000011</Codigo>
+    <Origen>€-1751-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7480</PVP>
+    <Descripcion>Fusible 325a</Descripcion>
+  </Fila24>
+  <Fila25>
+    <Codigo>F000000012</Codigo>
+    <Origen>€-1751-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>39</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7700</PVP>
+    <Descripcion>Fusible 355a</Descripcion>
+  </Fila25>
+  <Fila26>
+    <Codigo>F000000013</Codigo>
+    <Origen>€-1779-29/5/2014-0,025</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>59</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>8140</PVP>
+    <Descripcion>Fusible 425a</Descripcion>
+  </Fila26>
+  <Fila27>
+    <Codigo>F000000014</Codigo>
+    <Origen>€-1751-29/5/2014-0,02</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>18</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7920</PVP>
+    <Descripcion>Fusible 400a</Descripcion>
+  </Fila27>
+  <Fila28>
+    <Codigo>F000000015</Codigo>
+    <Origen>€-876-29/5/2014-0,01</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7150</PVP>
+    <Descripcion>Fusible sin proteccion 355a</Descripcion>
+  </Fila28>
+  <Fila29>
+    <Codigo>F000000016</Codigo>
+    <Origen>€-876-29/5/2014-0,01</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>19</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7480</PVP>
+    <Descripcion>Fusible sin proteccion 425a</Descripcion>
+  </Fila29>
+  <Fila30>
+    <Codigo>F000000017</Codigo>
+    <Origen>€-876-29/5/2014-0,01</Origen>
+    <Familia>Fusibles</Familia>
+    <Grupo>Fusibles</Grupo>
+    <Cant>20</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7810</PVP>
+    <Descripcion>Fusible sin proteccion 500a</Descripcion>
+  </Fila30>
+  <Fila31>
+    <Codigo>C000000001</Codigo>
+    <Origen>€-287204-29/5/2014-12</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Gm</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>270</CostoUnitEuto>
+    <CostoUnitPeso>12</CostoUnitPeso>
+    <PVP>325000</PVP>
+    <Descripcion>Cargador gm 24v/50a wa</Descripcion>
+  </Fila31>
+  <Fila32>
+    <Codigo>C000000002</Codigo>
+    <Origen>€-464716-29/5/2014-40</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Gm</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>300</CostoUnitEuto>
+    <CostoUnitPeso>40</CostoUnitPeso>
+    <PVP>498298</PVP>
+    <Descripcion>Cargador 24v/100a wa</Descripcion>
+  </Fila32>
+  <Fila33>
+    <Codigo>C000000003</Codigo>
+    <Origen>€-643295-29/5/2014-50</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Gm</Grupo>
+    <Cant>5</Cant>
+    <CostoUnitEuto>451</CostoUnitEuto>
+    <CostoUnitPeso>50</CostoUnitPeso>
+    <PVP>759000</PVP>
+    <Descripcion>Cargador 24v/100a wo-wa</Descripcion>
+  </Fila33>
+  <Fila34>
+    <Codigo>C000000004</Codigo>
+    <Origen>€-741000-29/5/2014-50</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Gm</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>570</CostoUnitEuto>
+    <CostoUnitPeso>50</CostoUnitPeso>
+    <PVP>902000</PVP>
+    <Descripcion>Cargador 24v/180a wo-wa</Descripcion>
+  </Fila34>
+  <Fila35>
+    <Codigo>C000000005</Codigo>
+    <Origen>€-68418-29/5/2014-0,2</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Gm</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>82</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>214500</PVP>
+    <Descripcion>Kit rep wo-wa</Descripcion>
+  </Fila35>
+  <Fila36>
+    <Codigo>C000000006</Codigo>
+    <Origen>€-1031324-29/5/2014-14</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>3</Cant>
+    <CostoUnitEuto>1163</CostoUnitEuto>
+    <CostoUnitPeso>14</CostoUnitPeso>
+    <PVP>2310000</PVP>
+    <Descripcion>Desulfatador (ng7 96/50)</Descripcion>
+  </Fila36>
+  <Fila37>
+    <Codigo>C000000007</Codigo>
+    <Origen>€-1987649-29/5/2014-28,7</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>2230</CostoUnitEuto>
+    <CostoUnitPeso>28</CostoUnitPeso>
+    <PVP>3410000</PVP>
+    <Descripcion>Descargador 80v/150a</Descripcion>
+  </Fila37>
+  <Fila38>
+    <Codigo>C000000008</Codigo>
+    <Origen>€-119849-29/5/2014-1,8</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>134</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>251000</PVP>
+    <Descripcion>Cargador zivan ubc 12v/18a</Descripcion>
+  </Fila38>
+  <Fila39>
+    <Codigo>C000000009</Codigo>
+    <Origen>€-220272-29/5/2014-3,2</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>247</CostoUnitEuto>
+    <CostoUnitPeso>3</CostoUnitPeso>
+    <PVP>462000</PVP>
+    <Descripcion>Cargador zivan ng1 12v/60a</Descripcion>
+  </Fila39>
+  <Fila40>
+    <Codigo>C000000010</Codigo>
+    <Origen>€-170471-29/5/2014-2,5</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>191</CostoUnitEuto>
+    <CostoUnitPeso>2</CostoUnitPeso>
+    <PVP>308000</PVP>
+    <Descripcion>Cargador zivan bc1 24v/30a</Descripcion>
+  </Fila40>
+  <Fila41>
+    <Codigo>C000000011</Codigo>
+    <Origen>€-247696-29/5/2014-3,11</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>281</CostoUnitEuto>
+    <CostoUnitPeso>3</CostoUnitPeso>
+    <PVP>495000</PVP>
+    <Descripcion>Cargador zivan ng1 24v/35a</Descripcion>
+  </Fila41>
+  <Fila42>
+    <Codigo>C000000012</Codigo>
+    <Origen>€-222735-29/5/2014-3,2</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>250</CostoUnitEuto>
+    <CostoUnitPeso>3</CostoUnitPeso>
+    <PVP>450000</PVP>
+    <Descripcion>Cargador zivan ng1 36v/25a</Descripcion>
+  </Fila42>
+  <Fila43>
+    <Codigo>C000000013</Codigo>
+    <Origen>€-689479-29/5/2014-15</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>740</CostoUnitEuto>
+    <CostoUnitPeso>15</CostoUnitPeso>
+    <PVP>930000</PVP>
+    <Descripcion>Cargador zivan cb ng5 80v/60a multi c</Descripcion>
+  </Fila43>
+  <Fila44>
+    <Codigo>C000000014</Codigo>
+    <Origen>€-648426-29/5/2014-15</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>690</CostoUnitEuto>
+    <CostoUnitPeso>15</CostoUnitPeso>
+    <PVP>989000</PVP>
+    <Descripcion>Cargador zivan ng5 48v/95a</Descripcion>
+  </Fila44>
+  <Fila45>
+    <Codigo>C000000015</Codigo>
+    <Origen>€-956321-29/5/2014-15</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>4</Cant>
+    <CostoUnitEuto>1065</CostoUnitEuto>
+    <CostoUnitPeso>15</CostoUnitPeso>
+    <PVP>1265000</PVP>
+    <Descripcion>Cargador zivan ng9 plus 24v/200a</Descripcion>
+  </Fila45>
+  <Fila46>
+    <Codigo>C000000016</Codigo>
+    <Origen>€-968057-29/5/2014-21,36</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>1037</CostoUnitEuto>
+    <CostoUnitPeso>21</CostoUnitPeso>
+    <PVP>1320000</PVP>
+    <Descripcion>Cargador zivan ng7 48v/100a + bomba</Descripcion>
+  </Fila46>
+  <Fila47>
+    <Codigo>C000000017</Codigo>
+    <Origen>€-188006-29/5/2014-5,11</Origen>
+    <Familia>Cargadores</Familia>
+    <Grupo>Zivan</Grupo>
+    <Cant>3</Cant>
+    <CostoUnitEuto>195</CostoUnitEuto>
+    <CostoUnitPeso>5</CostoUnitPeso>
+    <PVP>313500</PVP>
+    <Descripcion>Cargador hf2 24v/25a sellado</Descripcion>
+  </Fila47>
+  <Fila48>
+    <Codigo>K000000001</Codigo>
+    <Origen>€-27609-30/5/2014-0,395</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>3</Cant>
+    <CostoUnitEuto>31</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>66000</PVP>
+    <Descripcion>Contactor sw 80/24v</Descripcion>
+  </Fila48>
+  <Fila49>
+    <Codigo>K000000002</Codigo>
+    <Origen>€-27309-30/5/2014-0,34</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>9</Cant>
+    <CostoUnitEuto>31</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>82500</PVP>
+    <Descripcion>Contactor sw 80/72/80v</Descripcion>
+  </Fila49>
+  <Fila50>
+    <Codigo>K000000003</Codigo>
+    <Origen>€-24189-30/5/2014-0,37</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>5</Cant>
+    <CostoUnitEuto>27</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>66000</PVP>
+    <Descripcion>Contactor sw 80/12v</Descripcion>
+  </Fila50>
+  <Fila51>
+    <Codigo>K000000004</Codigo>
+    <Origen>€-23038-30/5/2014-0,46</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>5</Cant>
+    <CostoUnitEuto>25</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>96900</PVP>
+    <Descripcion>Contactor sw 84/24v</Descripcion>
+  </Fila51>
+  <Fila52>
+    <Codigo>K000000005</Codigo>
+    <Origen>€-37210-30/5/2014-0,8</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>40</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>107800</PVP>
+    <Descripcion>Contactor sw 180/48v</Descripcion>
+  </Fila52>
+  <Fila53>
+    <Codigo>K000000006</Codigo>
+    <Origen>€-58667-30/5/2014-0,82</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>15</Cant>
+    <CostoUnitEuto>66</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>129800</PVP>
+    <Descripcion>Contactor sw 181/24v</Descripcion>
+  </Fila53>
+  <Fila54>
+    <Codigo>K000000007</Codigo>
+    <Origen>€-65672-30/5/2014-0,9</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>10</Cant>
+    <CostoUnitEuto>74</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>154000</PVP>
+    <Descripcion>Contactor dc 88/24v</Descripcion>
+  </Fila54>
+  <Fila55>
+    <Codigo>K000000008</Codigo>
+    <Origen>€-27624-30/5/2014-1,3</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>7</Cant>
+    <CostoUnitEuto>25</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>231000</PVP>
+    <Descripcion>Contactor sw 200/24v</Descripcion>
+  </Fila55>
+  <Fila56>
+    <Codigo>K000000009</Codigo>
+    <Origen>€-77706-30/5/2014-1,45</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>4</Cant>
+    <CostoUnitEuto>85</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>231000</PVP>
+    <Descripcion>Contactor sw 200/48v</Descripcion>
+  </Fila56>
+  <Fila57>
+    <Codigo>K000000010</Codigo>
+    <Origen>€-76478-30/5/2014-1,225</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>85</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>231000</PVP>
+    <Descripcion>Contactor sw 200/80v</Descripcion>
+  </Fila57>
+  <Fila58>
+    <Codigo>K000000011</Codigo>
+    <Origen>€-33107-30/5/2014-0,65</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>36</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>93500</PVP>
+    <Descripcion>Contactor sw 180/36v</Descripcion>
+  </Fila58>
+  <Fila59>
+    <Codigo>K000000012</Codigo>
+    <Origen>€-31796-30/5/2014-0,41</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>36</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>104500</PVP>
+    <Descripcion>Contactor sw 82/24v</Descripcion>
+  </Fila59>
+  <Fila60>
+    <Codigo>K000000013</Codigo>
+    <Origen>€-76778-30/5/2014-1,28</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>3</Cant>
+    <CostoUnitEuto>85</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>231000</PVP>
+    <Descripcion>Contactor sw 200/36/48v</Descripcion>
+  </Fila60>
+  <Fila61>
+    <Codigo>K000000014</Codigo>
+    <Origen>€-42141-30/5/2014-0,5</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Contactores</Grupo>
+    <Cant>10</Cant>
+    <CostoUnitEuto>48</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>107800</PVP>
+    <Descripcion>Cortacorriente albright ed250b-61</Descripcion>
+  </Fila61>
+  <Fila62>
+    <Codigo>K000000015</Codigo>
+    <Origen>€-38911-30/5/2014-0,51</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>15</Cant>
+    <CostoUnitEuto>44</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>154000</PVP>
+    <Descripcion>Kit reparacion dc 182-k 4067</Descripcion>
+  </Fila62>
+  <Fila63>
+    <Codigo>K000000016</Codigo>
+    <Origen>€-6676-30/5/2014-0,17</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>7</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>60500</PVP>
+    <Descripcion>Kit reparacion bt 74458 (arrimaq)</Descripcion>
+  </Fila63>
+  <Fila64>
+    <Codigo>K000000017</Codigo>
+    <Origen>€-2736-30/5/2014-0,05</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>24500</PVP>
+    <Descripcion>Kit reparacion k 3023</Descripcion>
+  </Fila64>
+  <Fila65>
+    <Codigo>K000000018</Codigo>
+    <Origen>€-38037-30/5/2014-0,35</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>44</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>49500</PVP>
+    <Descripcion>Kit contacto 1094 (g.e)</Descripcion>
+  </Fila65>
+  <Fila66>
+    <Codigo>K000000019</Codigo>
+    <Origen>€-12259-30/5/2014-0,14</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>52</Cant>
+    <CostoUnitEuto>14</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>20350</PVP>
+    <Descripcion>Kit reparacion sw 82 k 4056-20</Descripcion>
+  </Fila66>
+  <Fila67>
+    <Codigo>K000000020</Codigo>
+    <Origen>€-5962-30/5/2014-0,34</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>5</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>27500</PVP>
+    <Descripcion>Kit reparacion k 4090 (bt)</Descripcion>
+  </Fila67>
+  <Fila68>
+    <Codigo>K000000021</Codigo>
+    <Origen>€-17022-30/5/2014-0,11</Origen>
+    <Familia>Contactores</Familia>
+    <Grupo>Kit</Grupo>
+    <Cant>42</Cant>
+    <CostoUnitEuto>20</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>32700</PVP>
+    <Descripcion>Kit reparacion g 1117</Descripcion>
+  </Fila68>
+  <Fila69>
+    <Codigo>B000000001</Codigo>
+    <Origen>€-985-2/6/2014-0,030</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Accesorios</Grupo>
+    <Cant>1033</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>1650</PVP>
+    <Descripcion>Tornillo baterias</Descripcion>
+  </Fila69>
+  <Fila70>
+    <Codigo>B000000002</Codigo>
+    <Origen>€-876-2/6/2014-0,01</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Accesorios</Grupo>
+    <Cant>1168</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>1320</PVP>
+    <Descripcion>Tapon de bateria normal</Descripcion>
+  </Fila70>
+  <Fila71>
+    <Codigo>B000000003</Codigo>
+    <Origen>€-985-2/6/2014-0,03</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>68</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4730</PVP>
+    <Descripcion>Puente 35x110mm</Descripcion>
+  </Fila71>
+  <Fila72>
+    <Codigo>B000000004</Codigo>
+    <Origen>€-2024-2/6/2014-0,07</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>7</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>5280</PVP>
+    <Descripcion>Puente 35x150mm</Descripcion>
+  </Fila72>
+  <Fila73>
+    <Codigo>B000000005</Codigo>
+    <Origen>€-1861-2/6/2014-0,04</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>89</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4500</PVP>
+    <Descripcion>Puente 35x75mm</Descripcion>
+  </Fila73>
+  <Fila74>
+    <Codigo>B000000006</Codigo>
+    <Origen>€-1888-2/6/2014-0,045</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>50</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4620</PVP>
+    <Descripcion>Puente 35x80mm</Descripcion>
+  </Fila74>
+  <Fila75>
+    <Codigo>B000000007</Codigo>
+    <Origen>€-1888-2/6/2014-0,045</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>33</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4840</PVP>
+    <Descripcion>Puente 35x95mm</Descripcion>
+  </Fila75>
+  <Fila76>
+    <Codigo>B000000008</Codigo>
+    <Origen>€-1121-2/6/2014-0,055</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>24</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4900</PVP>
+    <Descripcion>Puente 50x80mm</Descripcion>
+  </Fila76>
+  <Fila77>
+    <Codigo>B000000009</Codigo>
+    <Origen>€-2024-2/6/2014-0,07</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>4</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4950</PVP>
+    <Descripcion>Puente 50x110mm</Descripcion>
+  </Fila77>
+  <Fila78>
+    <Codigo>B000000010</Codigo>
+    <Origen>€-2079-2/6/2014-0,08</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>1</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>5500</PVP>
+    <Descripcion>Puente 50x130mm</Descripcion>
+  </Fila78>
+  <Fila79>
+    <Codigo>B000000011</Codigo>
+    <Origen>€-2955-2/6/2014-0,09</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>60</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>5610</PVP>
+    <Descripcion>Puente 50x150mm</Descripcion>
+  </Fila79>
+  <Fila80>
+    <Codigo>B000000012</Codigo>
+    <Origen>€-3173-2/6/2014-0,13</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>13</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6600</PVP>
+    <Descripcion>Puente 50x210mm</Descripcion>
+  </Fila80>
+  <Fila81>
+    <Codigo>B000000013</Codigo>
+    <Origen>€-1121-2/6/2014-0,055</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>158</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4400</PVP>
+    <Descripcion>Puente 50x85mm</Descripcion>
+  </Fila81>
+  <Fila82>
+    <Codigo>B000000014</Codigo>
+    <Origen>€-1970-2/6/2014-0,06</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>180</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4400</PVP>
+    <Descripcion>Puente 50x95mm</Descripcion>
+  </Fila82>
+  <Fila83>
+    <Codigo>B000000015</Codigo>
+    <Origen>€-2079-2/6/2014-0,08</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6000</PVP>
+    <Descripcion>Puente 70x100mm</Descripcion>
+  </Fila83>
+  <Fila84>
+    <Codigo>B000000016</Codigo>
+    <Origen>€-2982-2/6/2014-0,095</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>35</Cant>
+    <CostoUnitEuto>3</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6200</PVP>
+    <Descripcion>Puente 70x110mm</Descripcion>
+  </Fila84>
+  <Fila85>
+    <Codigo>B000000017</Codigo>
+    <Origen>€-2243-2/6/2014-0,11</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>6</Cant>
+    <CostoUnitEuto>2</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>5830</PVP>
+    <Descripcion>Puente 70x130mm</Descripcion>
+  </Fila85>
+  <Fila86>
+    <Codigo>B000000018</Codigo>
+    <Origen>€-1258-2/6/2014-0,08</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>5</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>5610</PVP>
+    <Descripcion>Puente 70x95mm</Descripcion>
+  </Fila86>
+  <Fila87>
+    <Codigo>B000000019</Codigo>
+    <Origen>€-15945-2/6/2014-0,815</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>31</Cant>
+    <CostoUnitEuto>14</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>24750</PVP>
+    <Descripcion>Terminal bat 50/1500</Descripcion>
+  </Fila87>
+  <Fila88>
+    <Codigo>B000000020</Codigo>
+    <Origen>€-20949-2/6/2014-1,13</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>16</Cant>
+    <CostoUnitEuto>18</CostoUnitEuto>
+    <CostoUnitPeso>1</CostoUnitPeso>
+    <PVP>29000</PVP>
+    <Descripcion>Terminal bat 70/1500</Descripcion>
+  </Fila88>
+  <Fila89>
+    <Codigo>B000000021</Codigo>
+    <Origen>€-10775-2/6/2014-0,62</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>27</Cant>
+    <CostoUnitEuto>9</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>21000</PVP>
+    <Descripcion>Terminal bat 32/1500</Descripcion>
+  </Fila89>
+  <Fila90>
+    <Codigo>B000000022</Codigo>
+    <Origen>€-8232-2/6/2014-0,455</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Puente</Grupo>
+    <Cant>27</Cant>
+    <CostoUnitEuto>7</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>17800</PVP>
+    <Descripcion>Terminal bat 25/1500</Descripcion>
+  </Fila90>
+  <Fila91>
+    <Codigo>B000000023</Codigo>
+    <Origen>€-10399-2/6/2014-0,1</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Accesorios</Grupo>
+    <Cant>8</Cant>
+    <CostoUnitEuto>12</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>55000</PVP>
+    <Descripcion>Densimetro</Descripcion>
+  </Fila91>
+  <Fila92>
+    <Codigo>B000000024</Codigo>
+    <Origen>€-481588-2/6/2014-7</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Accesorios</Grupo>
+    <Cant>2</Cant>
+    <CostoUnitEuto>540</CostoUnitEuto>
+    <CostoUnitPeso>7</CostoUnitPeso>
+    <PVP>693000</PVP>
+    <Descripcion>Hydrofill</Descripcion>
+  </Fila92>
+  <Fila93>
+    <Codigo>B000000025</Codigo>
+    <Origen>€-821-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>996</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>4950</PVP>
+    <Descripcion>Tapon bfs</Descripcion>
+  </Fila93>
+  <Fila94>
+    <Codigo>B000000026</Codigo>
+    <Origen>€-55-2/6/2014-0,01</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>921</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>550</PVP>
+    <Descripcion>Flotador n°24</Descripcion>
+  </Fila94>
+  <Fila95>
+    <Codigo>B000000027</Codigo>
+    <Origen>€-273-2/6/2014-0,05</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>754</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>690</PVP>
+    <Descripcion>Flotador n°39</Descripcion>
+  </Fila95>
+  <Fila96>
+    <Codigo>B000000028</Codigo>
+    <Origen>€-273-2/6/2014-0,05</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>51</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>525</PVP>
+    <Descripcion>Conector t 6/10/6</Descripcion>
+  </Fila96>
+  <Fila97>
+    <Codigo>B000000029</Codigo>
+    <Origen>€-273-2/6/2014-0,05</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>37</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>605</PVP>
+    <Descripcion>Conector t 10/10/10</Descripcion>
+  </Fila97>
+  <Fila98>
+    <Codigo>B000000030</Codigo>
+    <Origen>€-1094-2/6/2014-0,05</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>114</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>1705</PVP>
+    <Descripcion>Tapon obturador</Descripcion>
+  </Fila98>
+  <Fila99>
+    <Codigo>B000000031</Codigo>
+    <Origen>€-1094-2/6/2014-0,05</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>55</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>1540</PVP>
+    <Descripcion>Capuchon protector</Descripcion>
+  </Fila99>
+  <Fila100>
+    <Codigo>B000000032</Codigo>
+    <Origen>€-164-2/6/2014-0,03</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>1968</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>220</PVP>
+    <Descripcion>Abrazadera nm 6</Descripcion>
+  </Fila100>
+  <Fila101>
+    <Codigo>B000000033</Codigo>
+    <Origen>€-821-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>234</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>418</PVP>
+    <Descripcion>Abrazadera nm 10</Descripcion>
+  </Fila101>
+  <Fila102>
+    <Codigo>B000000034</Codigo>
+    <Origen>€-3284-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>54</Cant>
+    <CostoUnitEuto>4</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>6930</PVP>
+    <Descripcion>Filtros</Descripcion>
+  </Fila102>
+  <Fila103>
+    <Codigo>B000000035</Codigo>
+    <Origen>€-7389-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>85</Cant>
+    <CostoUnitEuto>9</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>9680</PVP>
+    <Descripcion>Conector h nw6 macho</Descripcion>
+  </Fila103>
+  <Fila104>
+    <Codigo>B000000036</Codigo>
+    <Origen>€-3284-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>6</Cant>
+    <CostoUnitEuto>4</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>7480</PVP>
+    <Descripcion>Indicador fluido</Descripcion>
+  </Fila104>
+  <Fila105>
+    <Codigo>B000000037</Codigo>
+    <Origen>€-109-2/6/2014-0,02</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>44</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>550</PVP>
+    <Descripcion>Flotador n°29</Descripcion>
+  </Fila105>
+  <Fila106>
+    <Codigo>B000000038</Codigo>
+    <Origen>€-109-2/6/2014-0,02</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>349</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>550</PVP>
+    <Descripcion>Flotador n°20</Descripcion>
+  </Fila106>
+  <Fila107>
+    <Codigo>B000000039</Codigo>
+    <Origen>€-109-2/6/2014-0,02</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>77</Cant>
+    <CostoUnitEuto>0</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>550</PVP>
+    <Descripcion>Flotador n°34</Descripcion>
+  </Fila107>
+  <Fila108>
+    <Codigo>B000000040</Codigo>
+    <Origen>€-821-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>32</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>605</PVP>
+    <Descripcion>Manguera 10</Descripcion>
+  </Fila108>
+  <Fila109>
+    <Codigo>B000000041</Codigo>
+    <Origen>€-821-2/6/2014-0</Origen>
+    <Familia>Baterias</Familia>
+    <Grupo>Sistema relleno</Grupo>
+    <Cant>96</Cant>
+    <CostoUnitEuto>1</CostoUnitEuto>
+    <CostoUnitPeso>0</CostoUnitPeso>
+    <PVP>495</PVP>
+    <Descripcion>Manguera 06</Descripcion>
+  </Fila109>
+</tabla>

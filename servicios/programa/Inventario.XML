@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<actualizacion>
+  <MetaData>
+    <Version>3.0alpha1</Version>
+    <CantFiles>11</CantFiles>
+    <Fecha>2/2/2015</Fecha>
+  </MetaData>
+  <archivos>
+    <ID1>http://25.108.141.130/ActualizadorVarelec/Inventario.exe</ID1>
+    <ID2>http://25.108.141.130/ActualizadorVarelec/Inventario_original.exe</ID2>
+    <ID3>http://25.108.141.130/ActualizadorVarelec/caca/formatoResumenFacturasEmitidas.xlsx</ID3>
+    <ID4>http://25.108.141.130/ActualizadorVarelec/caca/formatoResumenFacturasEmitidas2.xlsx</ID4>
+    <ID5>http://25.108.141.130/ActualizadorVarelec/caca/formatoResumenFacturasIngresadas.xlsx</ID5>
+    <ID6>http://25.108.141.130/ActualizadorVarelec/caca/formatoResumenFacturasIngresadas2.xlsx</ID6>
+    <ID7>http://25.108.141.130/ActualizadorVarelec/caca/formatoResumenFacturasIngresadas3.xlsx</ID7>
+    <ID8>http://25.108.141.130/ActualizadorVarelec/caca/formatoResumenFacturasIngresadas4.xlsx</ID8>
+    <ID9>http://25.108.141.130/ActualizadorVarelec/formatos/FormatoExportarPrecios.xlsx</ID9>
+    <ID10>http://25.108.141.130/ActualizadorVarelec/formatos/FormatoTotalInventario.xlsx</ID10>
+    <ID11>http://25.108.141.130/ActualizadorVarelec/formatos/FormatoTotalInventario2.xlsx</ID11>
+  </archivos>
+</actualizacion>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tabla xmlns="">
+  <Fila0>
+    <ID>javier</ID>
+    <Permisos>21111111</Permisos>
+  </Fila0>
+  <Fila1>
+    <ID>luis</ID>
+    <Permisos>21001011</Permisos>
+  </Fila1>
+  <Fila2>
+    <ID>isabel</ID>
+    <Permisos>21010100</Permisos>
+  </Fila2>
+  <Fila3>
+    <ID>fresia</ID>
+    <Permisos>20000100</Permisos>
+  </Fila3>
+  <Fila4>
+    <ID>mauricio</ID>
+    <Permisos>21001011</Permisos>
+  </Fila4>
+  <Fila5>
+    <ID>admin</ID>
+    <Permisos>21111111</Permisos>
+  </Fila5>
+  <Fila6>
+    <ID>juan</ID>
+    <Permisos>21001010</Permisos>
+  </Fila6>
+</tabla>

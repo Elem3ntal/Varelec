@@ -1,0 +1,135 @@
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Office.dll
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Rodriguez Benavente\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Office.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+E:\Inventario\Inventario\bin\Debug\Inventario.exe.config
+E:\Inventario\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+E:\Inventario\Inventario\obj\Debug\Inventario.exe
+E:\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Inventario\Inventario\bin\Debug\Inventario.exe
+E:\Inventario\Inventario\bin\Debug\Inventario.pdb
+E:\Inventario\Inventario\bin\Debug\Office.dll
+E:\Inventario\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Inventario\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+E:\Inventario\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+E:\Inventario\Inventario\obj\Debug\Inventario.FormInventario.resources
+E:\Inventario\Inventario\obj\Debug\Inventario.FormLogeo.resources
+E:\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+E:\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+D:\Inventario\Inventario\bin\Debug\Inventario.exe.config
+D:\Inventario\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+D:\Inventario\Inventario\obj\Debug\Inventario.exe
+D:\Inventario\Inventario\obj\Debug\Inventario.pdb
+D:\Inventario\Inventario\bin\Debug\Inventario.exe
+D:\Inventario\Inventario\bin\Debug\Inventario.pdb
+D:\Inventario\Inventario\bin\Debug\Office.dll
+D:\Inventario\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Inventario\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+D:\Inventario\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+D:\Inventario\Inventario\obj\Debug\Inventario.FormInventario.resources
+D:\Inventario\Inventario\obj\Debug\Inventario.FormLogeo.resources
+D:\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+D:\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\bin\Debug\Office.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.exe
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Inventario.exe
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Office.dll
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Javier\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Office.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2(NF)\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\bin\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\bin\Debug\Office.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.exe
+C:\Users\Rodriguez Benavente\Desktop\Inventario 2.2.Alpha1\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Javier\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.ResolveComReference.cache
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Javier\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Javier\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Javier\Desktop\Inventario\Inventario\bin\Debug\Office.dll
+C:\Users\Javier\Desktop\Inventario\Inventario\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Javier\Desktop\Inventario\Inventario\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.FacturaLiberada.resources
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.FormInventario.resources
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.FormLogeo.resources
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Javier\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache

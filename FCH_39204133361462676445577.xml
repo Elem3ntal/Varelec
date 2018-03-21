@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioBOLETA version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioBOLETA_v11.xsd">
+<SetDTE ID="EBOL1138505D80234796">
+<Caratula version="1.0">
+<RutEmisor>96945440-8</RutEmisor>
+<RutEnvia>13321566-2</RutEnvia>
+<RutReceptor>5749142-6</RutReceptor>
+<FchResol>2004-06-16</FchResol>
+<NroResol>58</NroResol>
+<TmstFirmaEnv>2016-05-08T00:00:45</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>39</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+ <Documento ID="S20160504T039F0020413336">
+  <Encabezado>
+   <IdDoc>
+    <TipoDTE>39</TipoDTE>
+    <Folio>20413336</Folio>
+    <FchEmis>2016-05-04</FchEmis>
+    <IndServicio>2</IndServicio>
+    <PeriodoDesde>2016-04-01</PeriodoDesde>
+    <PeriodoHasta>2016-04-30</PeriodoHasta>
+    <FchVenc>2016-05-18</FchVenc>
+   </IdDoc>
+   			<Emisor>
+				<RUTEmisor>96945440-8</RUTEmisor>
+				<RznSocEmisor>SOC CONCESIONARIA AUTOPISTA CENTRAL S A</RznSocEmisor>
+				<GiroEmisor>CONCESION AUTOPISTAS</GiroEmisor>
+				<DirOrigen>San José 1135 San Bernardo Región Metropolitana Chile.</DirOrigen>
+				<CmnaOrigen>San Bernardo</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+<Receptor>
+    <RUTRecep>5749142-6</RUTRecep>
+    <CdgIntRecep>1775171</CdgIntRecep>
+    <RznSocRecep>JUAN CARLOS RODRIGUEZ CUELLAR</RznSocRecep>
+    <Contacto>FacturacionMIPYME@sii.cl;JUANCRC52@GMAIL.COM</Contacto>
+    <DirRecep>AVDA MANUEL ANTONIO MATTA 952</DirRecep>
+    <CmnaRecep>QUILICURA</CmnaRecep>
+    <CiudadRecep>SANTIAGO</CiudadRecep>
+    <DirPostal>AVDA MANUEL ANTONIO MATTA 952-A</DirPostal>
+    <CmnaPostal>QUILICURA</CmnaPostal>
+    <CiudadPostal>SANTIAGO</CiudadPostal>
+   </Receptor>
+   <Totales>
+    <MntNeto>400</MntNeto>
+    <MntExe>6847</MntExe>
+    <IVA>76</IVA>
+    <MntTotal>7323</MntTotal>
+    <VlrPagar>7323</VlrPagar>
+   </Totales>
+  </Encabezado>
+  <Detalle>
+   <NroLinDet>1</NroLinDet>
+   <NmbItem>Arriendo de Televía</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>400</PrcItem>
+   <MontoItem>400</MontoItem>
+  </Detalle>
+  <Detalle>
+   <NroLinDet>2</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Peaje Autopista Central</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>6847</PrcItem>
+   <MontoItem>6847</MontoItem>
+  </Detalle>
+<TED version="1.0"><DD><RE>96945440-8</RE><TD>39</TD><F>20413336</F><FE>2016-05-04</FE><RR>5749142-6</RR><RSR>JUAN CARLOS RODRIGUEZ CUELLAR</RSR><MNT>7323</MNT><IT1>Arriendo de Televía</IT1><CAF version="1.0"><DA><RE>96945440-8</RE><RS>SOC CONCESIONARIA AUTOPISTA CENTRAL S A</RS><TD>39</TD><RNG><D>19709999</D><H>20609998</H></RNG><FA>2016-01-08</FA><RSAPK><M>vejDhAHCSFantpkNcIKvKH0TYn2RHdvaix2HpS3IRpsbQWgTxgbeu+nxlDsacw3Ogjnn29iJYhfh8zbkA8R4XQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">ksa8OWS+wc76LxoWh1rieMbpTGOdUnsmdN9byVhPThOmrwTqsRaTexh6o0RBNXB8HQt/7BO5QmHHse0uN5kufA==</FRMA></CAF><TSTED>2016-05-04T11:10:30</TSTED></DD><FRMT algoritmo="SHA1withRSA">MZn2dhDukKrBjA2FuIQudfyd1G2rL7jiHlgV66bH0/TLVe/iDf5aMjhEFEDsPeGfNqmj1H+TWspJ
+sNxDPvdZSw==
+</FRMT></TED>
+<TmstFirma>2016-05-04T11:10:30</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#S20160504T039F0020413336">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>EOKxMno9xWGZzhMqri6Hk7LrAC0=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    rYYaAkBX/X9q7OCpF+Pv5BoxXH/+M6PV3CcfUAEeSCwDlV5vrkeH6DWeuJPfEoEO
+    ngnArXn7CM/b/UY/654sQxLl/hbESNa8c3JdmqKrx1jAwv9NzgNK8tuJJeCUQ4d8
+    eHrmh4cWf91iB+E9HrwPAcIg+K6l/39WPQy4lDGNe3s=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          smTryO2lb5HKRjyJirQtr9bbGU8Ptm9QiwlvKSE0OQaqfJzCUULRNDukr807milq
+          6wVsQlpqTNZkEhQwnPiGm40A0jS2c1XNzzsCIyQBrqfS4Eq14OLu9Ems0s9aAOnH
+          W+J7+DejHJ2Cw/FzeWPWHmI6nNhx3Afd8fzrtBAdlz8=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+
+      <X509Certificate>
+        MIIGYDCCBUigAwIBAgIKQ7tFswAAAAI5njANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNTAzMjcxNTU3NDlaFw0xODAzMjYxNTU3NDlaMIHj
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMTYwNAYDVQQKEy1TT0NJRURBRCBDT05DRVNJ
+        T05BUklBIEFVVE9QSVNUQSBDRU5UUkFMIFMuQS4xFDASBgNVBAsTC0NPTkNFU0lP
+        TkVTMSEwHwYDVQQDExhDTEFVRElBICBWQVNRVUVaIFNFR1VORE8xKzApBgkqhkiG
+        9w0BCQEWHGN2YXNxdWV6QGF1dG9waXN0YWNlbnRyYWwuY2wwgZ8wDQYJKoZIhvcN
+        AQEBBQADgY0AMIGJAoGBALJk68jtpW+RykY8iYq0La/W2xlPD7ZvUIsJbykhNDkG
+        qnycwlFC0TQ7pK/NO5opausFbEJaakzWZBIUMJz4hpuNANI0tnNVzc87AiMkAa6n
+        0uBKteDi7vRJrNLPWgDpx1vie/g3oxydgsPxc3lj1h5iOpzYcdwH3fH867QQHZc/
+        AgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOM
+        ZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAdBgNVHQ4EFgQUoZk/LsPUu3HT
+        NX/BL+RP9/qbSKwwCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+        MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hp
+        bGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYB
+        BQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAa
+        oBgGCCsGAQQBwQEBoAwWCjEzMzIxNTY2LTIwIwYDVR0SBBwwGqAYBggrBgEEAcEB
+        AqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCC
+        AS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0
+        bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBp
+        AHIAbQBhACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABp
+        AGQAYQBkAG8AIABlAG4AIABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBs
+        ACwAIABxAHUAZQBkAGEAbgBkAG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBs
+        ACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdABy
+        AGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAY7tS8tdnPwrvJMrs
+        wgGu+F5VIB2dhodvuNS1WwsNUt+Ch4yPyHe7bDhFlL7Vj9voLBBR3qnY3YZC2zYr
+        0LRe4KaCSYYYC3y4QemM1HyartgwPfGC0YkEYMyJaF+IbNjWsDHKROqliuQKL5NH
+        fslpnQbhqcbeCWqSMjqGZ5hiirDfeHtSddRl0u2DdNKPz/Ag2Z5G80Jb0GCfkD9N
+        ZyuQr3nYTfqiMClWCEcYev1aV4DtRz6zHDuy88w9AL3JUmHaA8MN82XnNYfCpKPj
+        Ism6B1jB6xcGiDNxvI6JgzM+OvO1GNkN559034ZUf6suIXw5/vp6Y3MTPiMyL8Go
+        50r4vw==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+</DTE>
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#EBOL1138505D80234796">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>1G938riJq5/2AR6nVPpi8EhCS3Q=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    l9hlDwBKInCFTt5nuPj3BHTWpnx3tknH6m34PSCNxiG1FVFw0YDH4eUUOrr9bPrO
+    95jyN+X2Qxw+k8DW/yv605lNNu01vA6wBUH3Nb7o+krPUy40K2nTncvO9Fgw0kAm
+    ydTuu0WU/fVQpI7sq/nklXOSkydEY5GOI6gUZZYsmAM=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          smTryO2lb5HKRjyJirQtr9bbGU8Ptm9QiwlvKSE0OQaqfJzCUULRNDukr807milq
+          6wVsQlpqTNZkEhQwnPiGm40A0jS2c1XNzzsCIyQBrqfS4Eq14OLu9Ems0s9aAOnH
+          W+J7+DejHJ2Cw/FzeWPWHmI6nNhx3Afd8fzrtBAdlz8=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+
+      <X509Certificate>
+        MIIGYDCCBUigAwIBAgIKQ7tFswAAAAI5njANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNTAzMjcxNTU3NDlaFw0xODAzMjYxNTU3NDlaMIHj
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMTYwNAYDVQQKEy1TT0NJRURBRCBDT05DRVNJ
+        T05BUklBIEFVVE9QSVNUQSBDRU5UUkFMIFMuQS4xFDASBgNVBAsTC0NPTkNFU0lP
+        TkVTMSEwHwYDVQQDExhDTEFVRElBICBWQVNRVUVaIFNFR1VORE8xKzApBgkqhkiG
+        9w0BCQEWHGN2YXNxdWV6QGF1dG9waXN0YWNlbnRyYWwuY2wwgZ8wDQYJKoZIhvcN
+        AQEBBQADgY0AMIGJAoGBALJk68jtpW+RykY8iYq0La/W2xlPD7ZvUIsJbykhNDkG
+        qnycwlFC0TQ7pK/NO5opausFbEJaakzWZBIUMJz4hpuNANI0tnNVzc87AiMkAa6n
+        0uBKteDi7vRJrNLPWgDpx1vie/g3oxydgsPxc3lj1h5iOpzYcdwH3fH867QQHZc/
+        AgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOM
+        ZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAdBgNVHQ4EFgQUoZk/LsPUu3HT
+        NX/BL+RP9/qbSKwwCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+        MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hp
+        bGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYB
+        BQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAa
+        oBgGCCsGAQQBwQEBoAwWCjEzMzIxNTY2LTIwIwYDVR0SBBwwGqAYBggrBgEEAcEB
+        AqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCC
+        AS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0
+        bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBp
+        AHIAbQBhACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABp
+        AGQAYQBkAG8AIABlAG4AIABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBs
+        ACwAIABxAHUAZQBkAGEAbgBkAG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBs
+        ACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdABy
+        AGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAY7tS8tdnPwrvJMrs
+        wgGu+F5VIB2dhodvuNS1WwsNUt+Ch4yPyHe7bDhFlL7Vj9voLBBR3qnY3YZC2zYr
+        0LRe4KaCSYYYC3y4QemM1HyartgwPfGC0YkEYMyJaF+IbNjWsDHKROqliuQKL5NH
+        fslpnQbhqcbeCWqSMjqGZ5hiirDfeHtSddRl0u2DdNKPz/Ag2Z5G80Jb0GCfkD9N
+        ZyuQr3nYTfqiMClWCEcYev1aV4DtRz6zHDuy88w9AL3JUmHaA8MN82XnNYfCpKPj
+        Ism6B1jB6xcGiDNxvI6JgzM+OvO1GNkN559034ZUf6suIXw5/vp6Y3MTPiMyL8Go
+        50r4vw==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature></EnvioBOLETA>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DBXML>
+  <MetaData>
+    <CantidadColumnas>3</CantidadColumnas>
+    <ID>2</ID>
+    <NVersion>2</NVersion>
+  </MetaData>
+  <Data>
+    <DATA0>
+      <DATO0>usuario</DATO0>
+      <DATO1>contraseña</DATO1>
+      <DATO2>123456789</DATO2>
+    </DATA0>
+    <DATA1>
+      <DATO0>usuario2</DATO0>
+      <DATO1>contraseña2</DATO1>
+      <DATO2>0123456789</DATO2>
+    </DATA1>
+  </Data>
+</DBXML>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PMPTOTAL>
+  <NP-12345678a>
+    <estado>1</estado>
+    <fue>2</fue>
+    <cantidad>3</cantidad>
+    <costoFTR>4</costoFTR>
+    <costoEXP>5</costoEXP>
+  </NP-12345678a>
+  <NP-12345678>
+    <estado>1</estado>
+    <fue>2</fue>
+    <cantidad>3</cantidad>
+    <costoFTR>4</costoFTR>
+    <costoEXP>5</costoEXP>
+  </NP-12345678>
+  <NP-123456>
+    <estado>1</estado>
+    <fue>1</fue>
+    <cantidad>2</cantidad>
+    <costoFTR>100</costoFTR>
+    <costoEXP>805</costoEXP>
+  </NP-123456>
+</PMPTOTAL>

@@ -1,0 +1,561 @@
+920476017
+0009646111
+9210311218
+0019362505
+9234550014
+9223150004
+9230710001
+9238551183
+VW06A903315E
+3940321204
+112906
+9231100578
+9238290700
+1834465600
+0009730418
+9491000683
+
+nuParte: 0009646111
+familia: Linde
+grupo: Linde
+descrip: Cojinete de desgaste 0009646111
+kilos: 0
+cantidad: 0
+costoFTR: 5,5
+costoEXT: 5,79
+pvp: 6032
+ultimaFacturaIngreso: TVH-8027076
+ultimaFechaIngreso: 25/8/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 570
+flete: 0
+importe: 0,95
+------------------------------------------
+nuParte: 0009730418
+familia: Linde
+grupo: Linde
+descrip: Llave chapa contacto (par)
+kilos: 0,3
+cantidad: 2
+costoFTR: 5
+costoEXT: 5,69
+pvp: 5305
+ultimaFacturaIngreso: no registra
+ultimaFechaIngreso: 11/6/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 570
+flete: 0,41
+importe: 0,95
+------------------------------------------
+nuParte: 9210311218
+familia: Linde
+grupo: Linde
+descrip: Tuerca hexagonal
+kilos: 0,09
+cantidad: -8
+costoFTR: 1
+costoEXT: 4,02
+pvp: 2500
+ultimaFacturaIngreso: no registra
+ultimaFechaIngreso: 11/6/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 570
+flete: 2,82
+importe: 0,95
+------------------------------------------
+nuParte: 9234550014
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Chapa puerta derecha 9234550014
+kilos: 0,41
+cantidad: -16
+costoFTR: 68,9
+costoEXT: 75,4
+pvp: 61180
+ultimaFacturaIngreso: TVH-8027076
+ultimaFechaIngreso: 25/8/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 570
+flete: 2,73
+importe: 0,95
+------------------------------------------
+nuParte: 9230710001
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Filtro hidraulico freno
+kilos: 0,12
+cantidad: -12
+costoFTR: 25,86
+costoEXT: 28,06
+pvp: 22710
+ultimaFacturaIngreso: TVH-7004948
+ultimaFechaIngreso: 9/7/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 570
+flete: 0,8
+importe: 0,95
+------------------------------------------
+nuParte: 920476017
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Interruptor columna de direccion 920476017
+kilos: 0,81
+cantidad: 5
+costoFTR: 205,26
+costoEXT: 228,69
+pvp: 215440
+ultimaFacturaIngreso: Smolka-1410767
+ultimaFechaIngreso: 20/11/2014
+ultimoMovimiento: -
+tipoMoneda: EUR
+valorMoneda: 780
+flete: 12
+importe: 0,95
+------------------------------------------
+nuParte: 0019362505
+familia: Linde
+grupo: Linde
+descrip: Topearrastre 0019362505
+kilos: 0,05
+cantidad: 0
+costoFTR: 47,74
+costoEXT: 50,6
+pvp: 41367
+ultimaFacturaIngreso: -
+ultimaFechaIngreso: 29/9/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 600
+flete: 0,33
+importe: 0,95
+------------------------------------------
+nuParte: 9491000683
+familia: Linde
+grupo: Linde
+descrip: Correa 9491000683
+kilos: 0,12
+cantidad: 0
+costoFTR: 4,94
+costoEXT: 5,2
+pvp: 11700
+ultimaFacturaIngreso: TVH-1501007705
+ultimaFechaIngreso: 13/1/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 620
+flete: 0
+importe: 0,95
+------------------------------------------
+nuParte: 1834465600
+familia: Linde
+grupo: Linde
+descrip: Weard pad 1834465600
+kilos: 0,04
+cantidad: -6
+costoFTR: 8,11
+costoEXT: 8,82
+pvp: 23000
+ultimaFacturaIngreso: -
+ultimaFechaIngreso: 28/10/2014
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 600
+flete: 0,27
+importe: 0,95
+------------------------------------------
+nuParte: 3940321204
+familia: Linde
+grupo: Linde
+descrip: Corona de arranque 3940321204
+kilos: 0,7
+cantidad: -1
+costoFTR: 39,86
+costoEXT: 46,86
+pvp: 43290
+ultimaFacturaIngreso: -
+ultimaFechaIngreso: 23/1/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 620
+flete: 4,66
+importe: 0,95
+------------------------------------------
+nuParte: 9238551183
+familia: Otras Marcas
+grupo: 
+descrip: Breth filtro
+kilos: 0,22
+cantidad: -5
+costoFTR: 50
+costoEXT: 54,17
+pvp: 44115
+ultimaFacturaIngreso: TVH-1501045053
+ultimaFechaIngreso: 25/2/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 650
+flete: 1,46
+importe: 0,95
+------------------------------------------
+nuParte: 9223150004
+familia: Otras Marcas
+grupo: 
+descrip: Filtro hidraulico
+kilos: 0,92
+cantidad: -5
+costoFTR: 123,42
+costoEXT: 136,36
+pvp: 116695
+ultimaFacturaIngreso: TVH-1501045053
+ultimaFechaIngreso: 25/2/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 650
+flete: 6,12
+importe: 0,95
+------------------------------------------
+nuParte: 9231100578
+familia: Otras Marcas
+grupo: 
+descrip: Filtro de aire
+kilos: 0,92
+cantidad: -3
+costoFTR: 27,18
+costoEXT: 34,71
+pvp: 29329
+ultimaFacturaIngreso: TVH-1504005201
+ultimaFechaIngreso: 9/4/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 650
+flete: 5,79
+importe: 0,95
+------------------------------------------
+nuParte: 9238290700
+familia: Otras Marcas
+grupo: 
+descrip: Filtro separador de agua 
+kilos: 0,72
+cantidad: -4
+costoFTR: 28,26
+costoEXT: 34,48
+pvp: 28260
+ultimaFacturaIngreso: TVH-1504005201
+ultimaFechaIngreso: 9/4/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 650
+flete: 4,5
+importe: 0,95
+------------------------------------------
+nuParte: VW06A903315E
+familia: Linde
+grupo: Linde
+descrip: Tensor correa
+kilos: 0,86
+cantidad: 0
+costoFTR: 53,67
+costoEXT: 62,51
+pvp: 59967
+ultimaFacturaIngreso: TVH-1505035931
+ultimaFechaIngreso: 22/6/2015
+ultimoMovimiento: -
+tipoMoneda: USD
+valorMoneda: 650
+flete: 5,71
+importe: 0,95
+------------------------------------------
+nuParte: 920476017
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Interruptor columna de direccion 920476017
+kilos: 0,81
+cantidad: 4
+costoFTR: 205,26
+costoEXT: 228,69
+pvp: 215440
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 12
+importe: 0,95
+------------------------------------------
+nuParte: 0009646111
+familia: Linde
+grupo: Linde
+descrip: Cojinete de desgaste 0009646111
+kilos: 0
+cantidad: 6
+costoFTR: 5,5
+costoEXT: 5,79
+pvp: 6032
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 0
+importe: 0,95
+------------------------------------------
+nuParte: 9210311218
+familia: Linde
+grupo: Linde
+descrip: Tuerca hexagonal 9210311218
+kilos: 0,09
+cantidad: 10
+costoFTR: 2,2
+costoEXT: 3,37
+pvp: 3948
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 1
+importe: 0,95
+------------------------------------------
+nuParte: 0019362505
+familia: Linde
+grupo: Linde
+descrip: Topearrastre 0019362505
+kilos: 0,05
+cantidad: 4
+costoFTR: 33
+costoEXT: 35,47
+pvp: 42259
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 0,7
+importe: 0,95
+------------------------------------------
+nuParte: 9234550014
+familia: Linde
+grupo: Kalmar
+descrip: Chapa puerta derecha 9234550014
+kilos: 0,41
+cantidad: 10
+costoFTR: 59,4
+costoEXT: 67,89
+pvp: 63455
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 5,1
+importe: 0,95
+------------------------------------------
+nuParte: 9223150004
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Filtro hidraulico 9223150004
+kilos: 0,92
+cantidad: 5
+costoFTR: 82,5
+costoEXT: 99,47
+pvp: 121905
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 12
+importe: 0,95
+------------------------------------------
+nuParte: 9230710001
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Filtro hidraulico freno 9230710001
+kilos: 0,1
+cantidad: 12
+costoFTR: 1,1
+costoEXT: 2,63
+pvp: 22810
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 1,4
+importe: 0,95
+------------------------------------------
+nuParte: 9238551183
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Breth filtro 9238551183
+kilos: 0,22
+cantidad: 5
+costoFTR: 24,2
+costoEXT: 28,63
+pvp: 39789
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 3
+importe: 0,95
+------------------------------------------
+nuParte: VW06A903315E
+familia: Linde
+grupo: Linde
+descrip: Tensor correa vw06a903315e
+kilos: 0,86
+cantidad: 8
+costoFTR: 55,63
+costoEXT: 70,14
+pvp: 57935
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 11
+importe: 0,95
+------------------------------------------
+nuParte: 3940321204
+familia: Linde
+grupo: Linde
+descrip: Corona de arranque 3940321204
+kilos: 0,7
+cantidad: 1
+costoFTR: 50,6
+costoEXT: 63,79
+pvp: 49089
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 10
+importe: 0,95
+------------------------------------------
+nuParte: 112906
+familia: Otras Marcas
+grupo: Capacity
+descrip: Selenoide
+kilos: 0,25
+cantidad: 2
+costoFTR: 123,2
+costoEXT: 140,21
+pvp: 126165
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 10
+importe: 0,95
+------------------------------------------
+nuParte: 112906
+familia: Otras Marcas
+grupo: Capacity
+descrip: Selenoide
+kilos: 0,25
+cantidad: 2
+costoFTR: 123,2
+costoEXT: 140,21
+pvp: 126165
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 10
+importe: 0,95
+------------------------------------------
+nuParte: 9231100578
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Filtro de aire 923110578
+kilos: 0,92
+cantidad: 3
+costoFTR: 18,7
+costoEXT: 33,37
+pvp: 31125
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 13
+importe: 0,95
+------------------------------------------
+nuParte: 9238290700
+familia: Otras Marcas
+grupo: Kalmar
+descrip: Filtro decantador agua 9238290700
+kilos: 0,95
+cantidad: 4
+costoFTR: 30,8
+costoEXT: 47,16
+pvp: 27578
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 14
+importe: 0,95
+------------------------------------------
+nuParte: 1834465600
+familia: Linde
+grupo: Linde
+descrip: Placa 1834465600
+kilos: 0,04
+cantidad: 6
+costoFTR: 10,45
+costoEXT: 11,32
+pvp: 18999
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 0,3
+importe: 0,95
+------------------------------------------
+nuParte: 0009730418
+familia: Linde
+grupo: Linde
+descrip: Llave contacto larga 0009730418
+kilos: 0,03
+cantidad: 20
+costoFTR: 6,6
+costoEXT: 7,05
+pvp: 6773
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 0,1
+importe: 0,95
+------------------------------------------
+nuParte: 9491000683
+familia: Linde
+grupo: Linde
+descrip: Correa 9491000683
+kilos: 0,12
+cantidad: 4
+costoFTR: 6,29
+costoEXT: 8,09
+pvp: 13545
+ultimaFacturaIngreso: Varelec-46321
+ultimaFechaIngreso: 31/7/2015
+ultimoMovimiento: 31/7/2015
+tipoMoneda: EUR
+valorMoneda: 720
+flete: 1,4
+importe: 0,95
+------------------------------------------

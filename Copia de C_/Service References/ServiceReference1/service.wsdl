@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="escribirMemo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="entrada" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="escribirMemoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="escribirMemoResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="estado">
+        <s:complexType />
+      </s:element>
+      <s:element name="estadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="estadoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerMemosGenrales">
+        <s:complexType />
+      </s:element>
+      <s:element name="obtenerMemosGenralesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerMemosGenralesResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="guardarCotizacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cotizacion">
+              <s:complexType>
+                <s:sequence>
+                  <s:any processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="guardarCotizacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="guardarCotizacionResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listaCotizaciones">
+        <s:complexType />
+      </s:element>
+      <s:element name="listaCotizacionesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaCotizacionesResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerFactura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="vendedor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cliente" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fecha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerFacturaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerFacturaResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="indicadoresEconomicos">
+        <s:complexType />
+      </s:element>
+      <s:element name="indicadoresEconomicosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="indicadoresEconomicosResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setearIndicadoresEconomicos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dolar" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="euro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="importe" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setearIndicadoresEconomicosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="setearIndicadoresEconomicosResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ingresarFacturaLiberada">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="factura">
+              <s:complexType>
+                <s:sequence>
+                  <s:any processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ingresarFacturaLiberadaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ingresarFacturaLiberadaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ingresarFacturaPorCotizacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fecha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="vendedor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cliente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ingresarFacturaPorCotizacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ingresarFacturaPorCotizacionResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="escribirMemoSoapIn">
+    <wsdl:part name="parameters" element="tns:escribirMemo" />
+  </wsdl:message>
+  <wsdl:message name="escribirMemoSoapOut">
+    <wsdl:part name="parameters" element="tns:escribirMemoResponse" />
+  </wsdl:message>
+  <wsdl:message name="estadoSoapIn">
+    <wsdl:part name="parameters" element="tns:estado" />
+  </wsdl:message>
+  <wsdl:message name="estadoSoapOut">
+    <wsdl:part name="parameters" element="tns:estadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerMemosGenralesSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerMemosGenrales" />
+  </wsdl:message>
+  <wsdl:message name="obtenerMemosGenralesSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerMemosGenralesResponse" />
+  </wsdl:message>
+  <wsdl:message name="guardarCotizacionSoapIn">
+    <wsdl:part name="parameters" element="tns:guardarCotizacion" />
+  </wsdl:message>
+  <wsdl:message name="guardarCotizacionSoapOut">
+    <wsdl:part name="parameters" element="tns:guardarCotizacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="listaCotizacionesSoapIn">
+    <wsdl:part name="parameters" element="tns:listaCotizaciones" />
+  </wsdl:message>
+  <wsdl:message name="listaCotizacionesSoapOut">
+    <wsdl:part name="parameters" element="tns:listaCotizacionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerFacturaSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerFactura" />
+  </wsdl:message>
+  <wsdl:message name="obtenerFacturaSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="indicadoresEconomicosSoapIn">
+    <wsdl:part name="parameters" element="tns:indicadoresEconomicos" />
+  </wsdl:message>
+  <wsdl:message name="indicadoresEconomicosSoapOut">
+    <wsdl:part name="parameters" element="tns:indicadoresEconomicosResponse" />
+  </wsdl:message>
+  <wsdl:message name="setearIndicadoresEconomicosSoapIn">
+    <wsdl:part name="parameters" element="tns:setearIndicadoresEconomicos" />
+  </wsdl:message>
+  <wsdl:message name="setearIndicadoresEconomicosSoapOut">
+    <wsdl:part name="parameters" element="tns:setearIndicadoresEconomicosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ingresarFacturaLiberadaSoapIn">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaLiberada" />
+  </wsdl:message>
+  <wsdl:message name="ingresarFacturaLiberadaSoapOut">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaLiberadaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ingresarFacturaPorCotizacionSoapIn">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaPorCotizacion" />
+  </wsdl:message>
+  <wsdl:message name="ingresarFacturaPorCotizacionSoapOut">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaPorCotizacionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="escribirMemo">
+      <wsdl:input message="tns:escribirMemoSoapIn" />
+      <wsdl:output message="tns:escribirMemoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="estado">
+      <wsdl:input message="tns:estadoSoapIn" />
+      <wsdl:output message="tns:estadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerMemosGenrales">
+      <wsdl:input message="tns:obtenerMemosGenralesSoapIn" />
+      <wsdl:output message="tns:obtenerMemosGenralesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="guardarCotizacion">
+      <wsdl:input message="tns:guardarCotizacionSoapIn" />
+      <wsdl:output message="tns:guardarCotizacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listaCotizaciones">
+      <wsdl:input message="tns:listaCotizacionesSoapIn" />
+      <wsdl:output message="tns:listaCotizacionesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFactura">
+      <wsdl:input message="tns:obtenerFacturaSoapIn" />
+      <wsdl:output message="tns:obtenerFacturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="indicadoresEconomicos">
+      <wsdl:input message="tns:indicadoresEconomicosSoapIn" />
+      <wsdl:output message="tns:indicadoresEconomicosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setearIndicadoresEconomicos">
+      <wsdl:input message="tns:setearIndicadoresEconomicosSoapIn" />
+      <wsdl:output message="tns:setearIndicadoresEconomicosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaLiberada">
+      <wsdl:input message="tns:ingresarFacturaLiberadaSoapIn" />
+      <wsdl:output message="tns:ingresarFacturaLiberadaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaPorCotizacion">
+      <wsdl:input message="tns:ingresarFacturaPorCotizacionSoapIn" />
+      <wsdl:output message="tns:ingresarFacturaPorCotizacionSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="escribirMemo">
+      <soap:operation soapAction="http://tempuri.org/escribirMemo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="estado">
+      <soap:operation soapAction="http://tempuri.org/estado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerMemosGenrales">
+      <soap:operation soapAction="http://tempuri.org/obtenerMemosGenrales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="guardarCotizacion">
+      <soap:operation soapAction="http://tempuri.org/guardarCotizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaCotizaciones">
+      <soap:operation soapAction="http://tempuri.org/listaCotizaciones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFactura">
+      <soap:operation soapAction="http://tempuri.org/obtenerFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="indicadoresEconomicos">
+      <soap:operation soapAction="http://tempuri.org/indicadoresEconomicos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setearIndicadoresEconomicos">
+      <soap:operation soapAction="http://tempuri.org/setearIndicadoresEconomicos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaLiberada">
+      <soap:operation soapAction="http://tempuri.org/ingresarFacturaLiberada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaPorCotizacion">
+      <soap:operation soapAction="http://tempuri.org/ingresarFacturaPorCotizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="escribirMemo">
+      <soap12:operation soapAction="http://tempuri.org/escribirMemo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="estado">
+      <soap12:operation soapAction="http://tempuri.org/estado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerMemosGenrales">
+      <soap12:operation soapAction="http://tempuri.org/obtenerMemosGenrales" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="guardarCotizacion">
+      <soap12:operation soapAction="http://tempuri.org/guardarCotizacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaCotizaciones">
+      <soap12:operation soapAction="http://tempuri.org/listaCotizaciones" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFactura">
+      <soap12:operation soapAction="http://tempuri.org/obtenerFactura" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="indicadoresEconomicos">
+      <soap12:operation soapAction="http://tempuri.org/indicadoresEconomicos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setearIndicadoresEconomicos">
+      <soap12:operation soapAction="http://tempuri.org/setearIndicadoresEconomicos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaLiberada">
+      <soap12:operation soapAction="http://tempuri.org/ingresarFacturaLiberada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaPorCotizacion">
+      <soap12:operation soapAction="http://tempuri.org/ingresarFacturaPorCotizacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://25.109.196.97/service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://25.109.196.97/service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

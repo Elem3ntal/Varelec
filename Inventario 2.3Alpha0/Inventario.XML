@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<actualizacion>
+  <MetaData>
+    <Version>Beta</Version>
+    <CantFiles>105</CantFiles>
+    <Fecha>29/5/2016</Fecha>
+  </MetaData>
+  <archivos>
+    <ID1>http://25.108.141.130/ActualizadorVarelec/Inventario.sln</ID1>
+    <ID2>http://25.108.141.130/ActualizadorVarelec/Inventario.v12.suo</ID2>
+    <ID3>http://25.108.141.130/ActualizadorVarelec/Inventario/app.config</ID3>
+    <ID4>http://25.108.141.130/ActualizadorVarelec/Inventario/BarraEstado.cs</ID4>
+    <ID5>http://25.108.141.130/ActualizadorVarelec/Inventario/ClassDiagram1.cd</ID5>
+    <ID6>http://25.108.141.130/ActualizadorVarelec/Inventario/ComandosServidor.cs</ID6>
+    <ID7>http://25.108.141.130/ActualizadorVarelec/Inventario/cotizacion.xlsx</ID7>
+    <ID8>http://25.108.141.130/ActualizadorVarelec/Inventario/cotizacionAPDF.cs</ID8>
+    <ID9>http://25.108.141.130/ActualizadorVarelec/Inventario/cotizacionOLD.xlsx</ID9>
+    <ID10>http://25.108.141.130/ActualizadorVarelec/Inventario/FacturaIngreso.cs</ID10>
+    <ID11>http://25.108.141.130/ActualizadorVarelec/Inventario/FacturaLiberada.cs</ID11>
+    <ID12>http://25.108.141.130/ActualizadorVarelec/Inventario/FacturaLiberada.Designer.cs</ID12>
+    <ID13>http://25.108.141.130/ActualizadorVarelec/Inventario/FacturaLiberada.resx</ID13>
+    <ID14>http://25.108.141.130/ActualizadorVarelec/Inventario/Filtros.cs</ID14>
+    <ID15>http://25.108.141.130/ActualizadorVarelec/Inventario/FormInventario.cs</ID15>
+    <ID16>http://25.108.141.130/ActualizadorVarelec/Inventario/FormInventario.Designer.cs</ID16>
+    <ID17>http://25.108.141.130/ActualizadorVarelec/Inventario/FormInventario.resx</ID17>
+    <ID18>http://25.108.141.130/ActualizadorVarelec/Inventario/FormLogeo.cs</ID18>
+    <ID19>http://25.108.141.130/ActualizadorVarelec/Inventario/FormLogeo.Designer.cs</ID19>
+    <ID20>http://25.108.141.130/ActualizadorVarelec/Inventario/FormLogeo.resx</ID20>
+    <ID21>http://25.108.141.130/ActualizadorVarelec/Inventario/Inventario.csproj</ID21>
+    <ID22>http://25.108.141.130/ActualizadorVarelec/Inventario/Inventario.csproj.user</ID22>
+    <ID23>http://25.108.141.130/ActualizadorVarelec/Inventario/modeloFactura.xlsx</ID23>
+    <ID24>http://25.108.141.130/ActualizadorVarelec/Inventario/Numeros.cs</ID24>
+    <ID25>http://25.108.141.130/ActualizadorVarelec/Inventario/Program.cs</ID25>
+    <ID26>http://25.108.141.130/ActualizadorVarelec/Inventario/TotalInventario.cs</ID26>
+    <ID27>http://25.108.141.130/ActualizadorVarelec/Inventario/Usuario.cs</ID27>
+    <ID28>http://25.108.141.130/ActualizadorVarelec/Inventario/varelec HD.ico</ID28>
+    <ID29>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/clientes.dbxml</ID29>
+    <ID30>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/clientes.OLD</ID30>
+    <ID31>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/clientes.old.ftr</ID31>
+    <ID32>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/cotiApdf.temp</ID32>
+    <ID33>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/cotizacion.xlsx</ID33>
+    <ID34>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/factura.xml</ID34>
+    <ID35>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/FacturaIngresoPendiente - copia.xml</ID35>
+    <ID36>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/FacturasEmitidasMes.XML</ID36>
+    <ID37>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/FichaPMPGeneral.xml</ID37>
+    <ID38>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/index.tmp</ID38>
+    <ID39>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/indexCoti.xml</ID39>
+    <ID40>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Indicadores.old</ID40>
+    <ID41>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/ingreso.xml</ID41>
+    <ID42>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/inventario.dbxml</ID42>
+    <ID43>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario.exe</ID43>
+    <ID44>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario.exe.config</ID44>
+    <ID45>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario.pdb</ID45>
+    <ID46>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario.vshost.exe</ID46>
+    <ID47>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario.vshost.exe.config</ID47>
+    <ID48>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario.vshost.exe.manifest</ID48>
+    <ID49>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/inventario.xml.ftr</ID49>
+    <ID50>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Inventario_original.exe</ID50>
+    <ID51>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/items.dbxml</ID51>
+    <ID52>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/items.xml</ID52>
+    <ID53>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/memos.old</ID53>
+    <ID54>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/memos.tmp</ID54>
+    <ID55>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/memos.xml</ID55>
+    <ID56>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Microsoft.Office.Interop.Excel.dll</ID56>
+    <ID57>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Microsoft.Vbe.Interop.dll</ID57>
+    <ID58>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/modeloFactura.xlsx</ID58>
+    <ID59>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/Office.dll</ID59>
+    <ID60>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/prefactura.ftr</ID60>
+    <ID61>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/ResumenFacturasIngreso.xml</ID61>
+    <ID62>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/temp.ftr</ID62>
+    <ID63>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/user.xml</ID63>
+    <ID64>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/usuarios.dbxml</ID64>
+    <ID65>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/usuarios.old</ID65>
+    <ID66>http://25.108.141.130/ActualizadorVarelec/Inventario/bin/Debug/USUARIOS.XML</ID66>
+    <ID67>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/DesignTimeResolveAssemblyReferences.cache</ID67>
+    <ID68>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache</ID68>
+    <ID69>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.csproj.FileListAbsolute.txt</ID69>
+    <ID70>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.csproj.GenerateResource.Cache</ID70>
+    <ID71>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.csproj.ResolveComReference.cache</ID71>
+    <ID72>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.csprojResolveAssemblyReference.cache</ID72>
+    <ID73>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.exe</ID73>
+    <ID74>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.FacturaLiberada.resources</ID74>
+    <ID75>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.FormInventario.resources</ID75>
+    <ID76>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.FormLogeo.resources</ID76>
+    <ID77>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.pdb</ID77>
+    <ID78>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/Inventario.Properties.Resources.resources</ID78>
+    <ID79>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/TempPE/Service References.moneda.Reference.cs.dll</ID79>
+    <ID80>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/TempPE/Service References.ServiceReference1.Reference.cs.dll</ID80>
+    <ID81>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/TempPE/Service References.ServiceReference2.Reference.cs.dll</ID81>
+    <ID82>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/TempPE/Service References.ServidorVarelec.Reference.cs.dll</ID82>
+    <ID83>http://25.108.141.130/ActualizadorVarelec/Inventario/obj/Debug/TempPE/Service References.testingLocalhost.Reference.cs.dll</ID83>
+    <ID84>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/AssemblyInfo.cs</ID84>
+    <ID85>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/Resources.Designer.cs</ID85>
+    <ID86>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/Resources.resx</ID86>
+    <ID87>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/Settings.Designer.cs</ID87>
+    <ID88>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/Settings.settings</ID88>
+    <ID89>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/DataSources/System.Xml.Linq.XElement.datasource</ID89>
+    <ID90>http://25.108.141.130/ActualizadorVarelec/Inventario/Properties/DataSources/System.Xml.XmlElement.datasource</ID90>
+    <ID91>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/moneda/configuration.svcinfo</ID91>
+    <ID92>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/moneda/configuration91.svcinfo</ID92>
+    <ID93>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/moneda/currencyconvertor.disco</ID93>
+    <ID94>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/moneda/currencyconvertor.wsdl</ID94>
+    <ID95>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/moneda/Reference.cs</ID95>
+    <ID96>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/moneda/Reference.svcmap</ID96>
+    <ID97>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/configuration.svcinfo</ID97>
+    <ID98>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/configuration91.svcinfo</ID98>
+    <ID99>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/Reference.cs</ID99>
+    <ID100>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/Reference.svcmap</ID100>
+    <ID101>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/Servicio.wsdl</ID101>
+    <ID102>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/ServidorVarelec.disco</ID102>
+    <ID103>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/ServidorVarelec.xsd</ID103>
+    <ID104>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/ServidorVarelec1.xsd</ID104>
+    <ID105>http://25.108.141.130/ActualizadorVarelec/Inventario/Service References/ServidorVarelec/ServidorVarelec2.xsd</ID105>
+  </archivos>
+</actualizacion>

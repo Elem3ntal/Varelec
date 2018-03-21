@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<factura>
+  <factura1.xml>
+    <Datos>
+      <ingreso>javier</ingreso>
+      <proveedor>Javier</proveedor>
+      <NumeroFactura>123</NumeroFactura>
+      <Fecha>19/7/2014</Fecha>
+    </Datos>
+    <indicadores>
+      <Dolar>570</Dolar>
+      <Euro>800</Euro>
+      <Importe>0,95</Importe>
+    </indicadores>
+    <productos>
+      <producto1>
+        <Familia>Otras Marcas</Familia>
+        <Grupo>Grupon</Grupo>
+        <NP>123456789</NP>
+        <Descripcion>Descrip prueba</Descripcion>
+        <Kilos>56</Kilos>
+        <Cantidad>12</Cantidad>
+        <CostoFTR>€34</CostoFTR>
+        <CostoEXT>119,79</CostoEXT>
+        <PVP>$12.345</PVP>
+      </producto1>
+    </productos>
+  </factura1.xml>
+  <factura2.xml>
+    <Datos>
+      <ingreso>javier</ingreso>
+      <proveedor>jj</proveedor>
+      <NumeroFactura>1234</NumeroFactura>
+      <Fecha>21/7/2014</Fecha>
+    </Datos>
+    <indicadores>
+      <Dolar>570</Dolar>
+      <Euro>800</Euro>
+      <Importe>0,95</Importe>
+    </indicadores>
+    <productos>
+      <producto1>
+        <Familia>Otras Marcas</Familia>
+        <Grupo>Javier</Grupo>
+        <NP>123456</NP>
+        <Descripcion>Una descrip</Descripcion>
+        <Cantidad>2</Cantidad>
+        <Kilos>1</Kilos>
+        <CostoFTR>€1</CostoFTR>
+        <CostoEXT>8,05</CostoEXT>
+        <PVP>$3</PVP>
+      </producto1>
+    </productos>
+  </factura2.xml>
+</factura>

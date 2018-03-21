@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Servicio" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://25.109.196.97:931/ServidorVarelec?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://25.109.196.97:931/ServidorVarelec?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://25.109.196.97:931/ServidorVarelec?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicio_setearIndicadoresEconomicos_InputMessage">
+    <wsdl:part name="parameters" element="tns:setearIndicadoresEconomicos" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_setearIndicadoresEconomicos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setearIndicadoresEconomicosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ingresarFacturaLiberada_InputMessage">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaLiberada" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ingresarFacturaLiberada_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaLiberadaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ingresarFacturaPorCotizacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaPorCotizacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ingresarFacturaPorCotizacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ingresarFacturaPorCotizacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_facturasResumen_InputMessage">
+    <wsdl:part name="parameters" element="tns:facturasResumen" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_facturasResumen_OutputMessage">
+    <wsdl:part name="parameters" element="tns:facturasResumenResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_consultarActualizacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:consultarActualizacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_consultarActualizacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:consultarActualizacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_subirActualizacionAServidor_InputMessage">
+    <wsdl:part name="parameters" element="tns:subirActualizacionAServidor" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_subirActualizacionAServidor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:subirActualizacionAServidorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_IngresarFacturaIngreso_InputMessage">
+    <wsdl:part name="parameters" element="tns:IngresarFacturaIngreso" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_IngresarFacturaIngreso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:IngresarFacturaIngresoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_facturasIngresoResumen_InputMessage">
+    <wsdl:part name="parameters" element="tns:facturasIngresoResumen" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_facturasIngresoResumen_OutputMessage">
+    <wsdl:part name="parameters" element="tns:facturasIngresoResumenResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ingresoPMP_InputMessage">
+    <wsdl:part name="parameters" element="tns:ingresoPMP" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ingresoPMP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ingresoPMPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerPMP_InputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerPMP" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerPMP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerPMPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_uploadFile_InputMessage">
+    <wsdl:part name="parameters" element="tns:uploadFile" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_uploadFile_OutputMessage">
+    <wsdl:part name="parameters" element="tns:uploadFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_registrarInicio_InputMessage">
+    <wsdl:part name="parameters" element="tns:registrarInicio" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_registrarInicio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:registrarInicioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerHistorialInicios_InputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerHistorialInicios" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerHistorialInicios_OutputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerHistorialIniciosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_online_InputMessage">
+    <wsdl:part name="parameters" element="tns:online" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_online_OutputMessage">
+    <wsdl:part name="parameters" element="tns:onlineResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioAgregar_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioAgregar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioAgregar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioAgregarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioModificar_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioModificar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioModificar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioModificarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioEliminar_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioEliminar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioEliminar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioEliminarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioNVersion_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioNVersion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioNVersion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioNVersionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioObtener_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioObtener" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioObtener_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioObtenerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioErrores_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioErrores" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioErrores_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioErroresResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioErrorUltimo_InputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioErrorUltimo" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_inventarioErrorUltimo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:inventarioErrorUltimoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesAgregar_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesAgregar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesAgregar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesAgregarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesModificar_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesModificar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesModificar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesModificarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesEliminar_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesEliminar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesEliminar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesEliminarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesNVersion_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesNVersion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesNVersion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesNVersionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesObtener_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesObtener" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesObtener_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesObtenerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesErrores_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesErrores" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesErrores_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesErroresResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesErrorUltimo_InputMessage">
+    <wsdl:part name="parameters" element="tns:clientesErrorUltimo" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_clientesErrorUltimo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clientesErrorUltimoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosAgregar_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosAgregar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosAgregar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosAgregarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosModificar_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosModificar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosModificar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosModificarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosEliminar_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosEliminar" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosEliminar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosEliminarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosNVersion_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosNVersion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosNVersion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosNVersionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosObtener_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosObtener" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosObtener_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosObtenerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosErrores_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosErrores" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosErrores_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosErroresResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosErrorUltimo_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosErrorUltimo" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_usuariosErrorUltimo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuariosErrorUltimoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_escribirMemo_InputMessage">
+    <wsdl:part name="parameters" element="tns:escribirMemo" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_escribirMemo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:escribirMemoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerMemosGenrales_InputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerMemosGenrales" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerMemosGenrales_OutputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerMemosGenralesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_guardarCotizacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:guardarCotizacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_guardarCotizacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:guardarCotizacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_listaCotizaciones_InputMessage">
+    <wsdl:part name="parameters" element="tns:listaCotizaciones" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_listaCotizaciones_OutputMessage">
+    <wsdl:part name="parameters" element="tns:listaCotizacionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerFactura_InputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerFactura" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_obtenerFactura_OutputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_indicadoresEconomicos_InputMessage">
+    <wsdl:part name="parameters" element="tns:indicadoresEconomicos" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_indicadoresEconomicos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:indicadoresEconomicosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicio">
+    <wsdl:operation name="setearIndicadoresEconomicos">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/setearIndicadoresEconomicos" message="tns:IServicio_setearIndicadoresEconomicos_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/setearIndicadoresEconomicosResponse" message="tns:IServicio_setearIndicadoresEconomicos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaLiberada">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/ingresarFacturaLiberada" message="tns:IServicio_ingresarFacturaLiberada_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/ingresarFacturaLiberadaResponse" message="tns:IServicio_ingresarFacturaLiberada_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaPorCotizacion">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/ingresarFacturaPorCotizacion" message="tns:IServicio_ingresarFacturaPorCotizacion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/ingresarFacturaPorCotizacionResponse" message="tns:IServicio_ingresarFacturaPorCotizacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="facturasResumen">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/facturasResumen" message="tns:IServicio_facturasResumen_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/facturasResumenResponse" message="tns:IServicio_facturasResumen_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarActualizacion">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/consultarActualizacion" message="tns:IServicio_consultarActualizacion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/consultarActualizacionResponse" message="tns:IServicio_consultarActualizacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="subirActualizacionAServidor">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/subirActualizacionAServidor" message="tns:IServicio_subirActualizacionAServidor_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/subirActualizacionAServidorResponse" message="tns:IServicio_subirActualizacionAServidor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="IngresarFacturaIngreso">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/IngresarFacturaIngreso" message="tns:IServicio_IngresarFacturaIngreso_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/IngresarFacturaIngresoResponse" message="tns:IServicio_IngresarFacturaIngreso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="facturasIngresoResumen">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/facturasIngresoResumen" message="tns:IServicio_facturasIngresoResumen_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/facturasIngresoResumenResponse" message="tns:IServicio_facturasIngresoResumen_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ingresoPMP">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/ingresoPMP" message="tns:IServicio_ingresoPMP_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/ingresoPMPResponse" message="tns:IServicio_ingresoPMP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerPMP">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/obtenerPMP" message="tns:IServicio_obtenerPMP_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/obtenerPMPResponse" message="tns:IServicio_obtenerPMP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="uploadFile">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/uploadFile" message="tns:IServicio_uploadFile_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/uploadFileResponse" message="tns:IServicio_uploadFile_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarInicio">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/registrarInicio" message="tns:IServicio_registrarInicio_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/registrarInicioResponse" message="tns:IServicio_registrarInicio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerHistorialInicios">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/obtenerHistorialInicios" message="tns:IServicio_obtenerHistorialInicios_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/obtenerHistorialIniciosResponse" message="tns:IServicio_obtenerHistorialInicios_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="online">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/online" message="tns:IServicio_online_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/onlineResponse" message="tns:IServicio_online_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioAgregar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioAgregar" message="tns:IServicio_inventarioAgregar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioAgregarResponse" message="tns:IServicio_inventarioAgregar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioModificar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioModificar" message="tns:IServicio_inventarioModificar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioModificarResponse" message="tns:IServicio_inventarioModificar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioEliminar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioEliminar" message="tns:IServicio_inventarioEliminar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioEliminarResponse" message="tns:IServicio_inventarioEliminar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioNVersion">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioNVersion" message="tns:IServicio_inventarioNVersion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioNVersionResponse" message="tns:IServicio_inventarioNVersion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioObtener">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioObtener" message="tns:IServicio_inventarioObtener_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioObtenerResponse" message="tns:IServicio_inventarioObtener_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioErrores">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioErrores" message="tns:IServicio_inventarioErrores_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioErroresResponse" message="tns:IServicio_inventarioErrores_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="inventarioErrorUltimo">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/inventarioErrorUltimo" message="tns:IServicio_inventarioErrorUltimo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/inventarioErrorUltimoResponse" message="tns:IServicio_inventarioErrorUltimo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesAgregar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesAgregar" message="tns:IServicio_clientesAgregar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesAgregarResponse" message="tns:IServicio_clientesAgregar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesModificar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesModificar" message="tns:IServicio_clientesModificar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesModificarResponse" message="tns:IServicio_clientesModificar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesEliminar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesEliminar" message="tns:IServicio_clientesEliminar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesEliminarResponse" message="tns:IServicio_clientesEliminar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesNVersion">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesNVersion" message="tns:IServicio_clientesNVersion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesNVersionResponse" message="tns:IServicio_clientesNVersion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesObtener">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesObtener" message="tns:IServicio_clientesObtener_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesObtenerResponse" message="tns:IServicio_clientesObtener_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesErrores">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesErrores" message="tns:IServicio_clientesErrores_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesErroresResponse" message="tns:IServicio_clientesErrores_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clientesErrorUltimo">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/clientesErrorUltimo" message="tns:IServicio_clientesErrorUltimo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/clientesErrorUltimoResponse" message="tns:IServicio_clientesErrorUltimo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosAgregar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosAgregar" message="tns:IServicio_usuariosAgregar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosAgregarResponse" message="tns:IServicio_usuariosAgregar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosModificar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosModificar" message="tns:IServicio_usuariosModificar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosModificarResponse" message="tns:IServicio_usuariosModificar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosEliminar">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosEliminar" message="tns:IServicio_usuariosEliminar_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosEliminarResponse" message="tns:IServicio_usuariosEliminar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosNVersion">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosNVersion" message="tns:IServicio_usuariosNVersion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosNVersionResponse" message="tns:IServicio_usuariosNVersion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosObtener">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosObtener" message="tns:IServicio_usuariosObtener_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosObtenerResponse" message="tns:IServicio_usuariosObtener_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosErrores">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosErrores" message="tns:IServicio_usuariosErrores_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosErroresResponse" message="tns:IServicio_usuariosErrores_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuariosErrorUltimo">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/usuariosErrorUltimo" message="tns:IServicio_usuariosErrorUltimo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/usuariosErrorUltimoResponse" message="tns:IServicio_usuariosErrorUltimo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="escribirMemo">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/escribirMemo" message="tns:IServicio_escribirMemo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/escribirMemoResponse" message="tns:IServicio_escribirMemo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerMemosGenrales">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/obtenerMemosGenrales" message="tns:IServicio_obtenerMemosGenrales_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/obtenerMemosGenralesResponse" message="tns:IServicio_obtenerMemosGenrales_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="guardarCotizacion">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/guardarCotizacion" message="tns:IServicio_guardarCotizacion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/guardarCotizacionResponse" message="tns:IServicio_guardarCotizacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="listaCotizaciones">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/listaCotizaciones" message="tns:IServicio_listaCotizaciones_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/listaCotizacionesResponse" message="tns:IServicio_listaCotizaciones_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFactura">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/obtenerFactura" message="tns:IServicio_obtenerFactura_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/obtenerFacturaResponse" message="tns:IServicio_obtenerFactura_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="indicadoresEconomicos">
+      <wsdl:input wsam:Action="http://tempuri.org/IServicio/indicadoresEconomicos" message="tns:IServicio_indicadoresEconomicos_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IServicio/indicadoresEconomicosResponse" message="tns:IServicio_indicadoresEconomicos_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicio" type="tns:IServicio">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setearIndicadoresEconomicos">
+      <soap:operation soapAction="http://tempuri.org/IServicio/setearIndicadoresEconomicos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaLiberada">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ingresarFacturaLiberada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresarFacturaPorCotizacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ingresarFacturaPorCotizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="facturasResumen">
+      <soap:operation soapAction="http://tempuri.org/IServicio/facturasResumen" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarActualizacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/consultarActualizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="subirActualizacionAServidor">
+      <soap:operation soapAction="http://tempuri.org/IServicio/subirActualizacionAServidor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IngresarFacturaIngreso">
+      <soap:operation soapAction="http://tempuri.org/IServicio/IngresarFacturaIngreso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="facturasIngresoResumen">
+      <soap:operation soapAction="http://tempuri.org/IServicio/facturasIngresoResumen" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ingresoPMP">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ingresoPMP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerPMP">
+      <soap:operation soapAction="http://tempuri.org/IServicio/obtenerPMP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uploadFile">
+      <soap:operation soapAction="http://tempuri.org/IServicio/uploadFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarInicio">
+      <soap:operation soapAction="http://tempuri.org/IServicio/registrarInicio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerHistorialInicios">
+      <soap:operation soapAction="http://tempuri.org/IServicio/obtenerHistorialInicios" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="online">
+      <soap:operation soapAction="http://tempuri.org/IServicio/online" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioAgregar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioAgregar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioModificar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioModificar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioEliminar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioEliminar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioNVersion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioNVersion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioObtener">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioObtener" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioErrores">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioErrores" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inventarioErrorUltimo">
+      <soap:operation soapAction="http://tempuri.org/IServicio/inventarioErrorUltimo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesAgregar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesAgregar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesModificar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesModificar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesEliminar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesEliminar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesNVersion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesNVersion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesObtener">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesObtener" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesErrores">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesErrores" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clientesErrorUltimo">
+      <soap:operation soapAction="http://tempuri.org/IServicio/clientesErrorUltimo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosAgregar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosAgregar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosModificar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosModificar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosEliminar">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosEliminar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosNVersion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosNVersion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosObtener">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosObtener" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosErrores">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosErrores" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuariosErrorUltimo">
+      <soap:operation soapAction="http://tempuri.org/IServicio/usuariosErrorUltimo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="escribirMemo">
+      <soap:operation soapAction="http://tempuri.org/IServicio/escribirMemo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerMemosGenrales">
+      <soap:operation soapAction="http://tempuri.org/IServicio/obtenerMemosGenrales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="guardarCotizacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/guardarCotizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaCotizaciones">
+      <soap:operation soapAction="http://tempuri.org/IServicio/listaCotizaciones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFactura">
+      <soap:operation soapAction="http://tempuri.org/IServicio/obtenerFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="indicadoresEconomicos">
+      <soap:operation soapAction="http://tempuri.org/IServicio/indicadoresEconomicos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Servicio">
+    <wsdl:port name="BasicHttpBinding_IServicio" binding="tns:BasicHttpBinding_IServicio">
+      <soap:address location="http://25.109.196.97:931/ServidorVarelec" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

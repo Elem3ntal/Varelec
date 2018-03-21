@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FacturaIngreso>
+  <Datos>
+    <ingreso>javier</ingreso>
+    <proveedor>vendeAuto</proveedor>
+    <NumeroFactura>0123</NumeroFactura>
+    <Fecha>9/7/2015</Fecha>
+  </Datos>
+  <indicadores>
+    <Dolar>650</Dolar>
+    <Euro>700</Euro>
+    <Importe>0,95</Importe>
+  </indicadores>
+  <productos>
+    <producto1>
+      <Familia>Linde</Familia>
+      <Grupo>Singrupo</Grupo>
+      <NP>0123456789</NP>
+      <Descripcion>Elemento de prueba</Descripcion>
+      <Cantidad>15</Cantidad>
+      <Kilos>1,23</Kilos>
+      <CostoFTR>U$12,5</CostoFTR>
+      <CostoEXT>18,89</CostoEXT>
+      <PVP>$15.990</PVP>
+      <flete>5,45</flete>
+      <tipo>Nuevo</tipo>
+    </producto1>
+  </productos>
+</FacturaIngreso>

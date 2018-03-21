@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DATAPACKET Version="1.0">
+  <METADATA>
+    <FIELDS>
+      <FIELD ATTRNAME="MD5" FIELDTYPE="Memo" WIDTH="244"/>
+      <FIELD ATTRNAME="ID" FIELDTYPE="Memo" WIDTH="74"/>
+      <FIELD ATTRNAME="Permisos" FIELDTYPE="Integer" WIDTH="74"/>
+      <FIELD ATTRNAME="pk" FIELDTYPE="Integer" WIDTH="74"/>
+    </FIELDS>
+  </METADATA>
+  <ROWDATA>
+    <ROW MD5="a4aae18cc453a4f9582d02c68f44aaf0" ID="javier" Permisos="21111111" pk="14"/>
+    <ROW MD5="47faa10e78b1aa8adf1fcea2b6135283" ID="luis" Permisos="21001011" pk="15"/>
+    <ROW MD5="deb50b4ec774faaa988593522b7f7ad7" ID="isabel" Permisos="21010100" pk="16"/>
+    <ROW MD5="9090b581cce7a89e4907493066fb33e3" ID="mauricio" Permisos="21001011" pk="18"/>
+    <ROW MD5="8d5dc5140fc8c4ed30fa534485e349f4" ID="admin" Permisos="21111111" pk="19"/>
+    <ROW MD5="8fc4e849689de8272389974fd715b71c" ID="juan" Permisos="21001010" pk="20"/>
+    <ROW MD5="18245a3ed7f3a9901a91a3af050eb6f5" ID="eduardo" Permisos="20001010" pk="21"/>
+    <ROW MD5="a17338293d3bb6c94b64f89d7c85f29d" ID="fresia" Permisos="20000100" pk="22"/>
+    <ROW MD5="13e8f4c25d9e42d4df77d457764346d5" ID="andres" Permisos="20001010" pk="23"/>
+    <ROW MD5="c0a11eaac5fb9d95cc81683d1b7e508d" ID="mferrer" Permisos="20001110" pk="24"/>
+  </ROWDATA>
+</DATAPACKET>

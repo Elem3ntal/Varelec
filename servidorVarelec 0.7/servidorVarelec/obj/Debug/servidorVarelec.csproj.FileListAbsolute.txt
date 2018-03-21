@@ -1,0 +1,87 @@
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+E:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+E:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.exe
+E:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.pdb
+E:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe
+E:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.pdb
+E:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+E:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+E:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+E:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+D:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+D:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.exe
+D:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.pdb
+D:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe
+D:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.pdb
+D:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+D:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+D:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+D:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe
+C:\Users\Javier\Desktop\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.pdb
+G:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+G:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.exe
+G:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.pdb
+G:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.exe
+G:\Varelec\servidorVarelec\servidorVarelec\bin\Debug\servidorVarelec.pdb
+G:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+G:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+G:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+G:\Varelec\servidorVarelec\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+G:\Varelec\servidorVarelec 0.3\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+G:\Varelec\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.exe
+G:\Varelec\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\bin\Debug\servidorVarelec.exe
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\bin\Debug\servidorVarelec.pdb
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.3\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.4\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Rodriguez Benavente\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\bin\Debug\servidorVarelec.exe
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\bin\Debug\servidorVarelec.pdb
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+C:\Users\Javier\Desktop\servidorVarelec 0.4\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\bin\Debug\servidorVarelec.exe
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\bin\Debug\servidorVarelec.pdb
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+C:\Users\Javier\Desktop\servidorVarelec 0.5\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\bin\Debug\servidorVarelec.exe.config
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\obj\Debug\servidorVarelec.exe
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\obj\Debug\servidorVarelec.pdb
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\bin\Debug\servidorVarelec.exe
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\bin\Debug\servidorVarelec.pdb
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\obj\Debug\servidorVarelec.csprojResolveAssemblyReference.cache
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\obj\Debug\servidorVarelec.Form1.resources
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\obj\Debug\servidorVarelec.Properties.Resources.resources
+C:\Users\Elem3ntal\Desktop\Varelec\servidorVarelec 0.7\servidorVarelec\obj\Debug\servidorVarelec.csproj.GenerateResource.Cache

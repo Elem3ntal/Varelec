@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ca3f5c44-5989-434e-834b-bfde8fbd3a0e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://25.109.196.97:677/VarelecService?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="VarelecService3.xsd" MetadataType="Schema" ID="f5670604-54ed-49ed-a4c2-981d14baf152" SourceId="1" SourceUrl="http://25.109.196.97:677/VarelecService?xsd=xsd0" />
+    <MetadataFile FileName="VarelecService31.xsd" MetadataType="Schema" ID="3269705f-6e38-4e39-9ba6-cdf2657edeb4" SourceId="1" SourceUrl="http://25.109.196.97:677/VarelecService?xsd=xsd2" />
+    <MetadataFile FileName="VarelecService32.xsd" MetadataType="Schema" ID="a7a99e61-6ceb-4975-bcf8-4a18083060a3" SourceId="1" SourceUrl="http://25.109.196.97:677/VarelecService?xsd=xsd1" />
+    <MetadataFile FileName="VarelecService1.wsdl" MetadataType="Wsdl" ID="894baff5-dd10-4de4-8821-879b3ca97f55" SourceId="1" SourceUrl="http://25.109.196.97:677/VarelecService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

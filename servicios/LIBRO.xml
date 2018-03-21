@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<factura>
+  <Factura1>
+    <MetaData>I16/4/2014</MetaData>
+    <Vendedor>javier</Vendedor>
+    <Cliente>
+      <RUT>---</RUT>
+      <Señores>---</Señores>
+      <Contacto>---</Contacto>
+      <Giro></Giro>
+      <Direccion></Direccion>
+      <Fono>---</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>One view-A000000004</Descripcion>
+        <cantidad>12</cantidad>
+        <Precio>$125.000</Precio>
+        <valorTotal>$1.500.000</valorTotal>
+        <PlazoEntrega></PlazoEntrega>
+      </Elemento0>
+    </productos>
+  </Factura1>
+  <Factura2>
+    <MetaData>I16/4/2014</MetaData>
+    <Vendedor>javier</Vendedor>
+    <Cliente>
+      <RUT>---</RUT>
+      <Señores>---</Señores>
+      <Contacto>---</Contacto>
+      <Giro></Giro>
+      <Direccion></Direccion>
+      <Fono>---</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>One view-A000000004</Descripcion>
+        <cantidad>12</cantidad>
+        <Precio>$125.000</Precio>
+        <valorTotal>$1.500.000</valorTotal>
+        <PlazoEntrega></PlazoEntrega>
+      </Elemento0>
+    </productos>
+  </Factura2>
+  <Factura3>
+    <MetaData>I16/4/2014</MetaData>
+    <Vendedor>javier</Vendedor>
+    <Cliente>
+      <RUT>---</RUT>
+      <Señores>---</Señores>
+      <Contacto>---</Contacto>
+      <Giro></Giro>
+      <Direccion></Direccion>
+      <Fono>---</Fono>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>One view-A000000004</Descripcion>
+        <cantidad>12</cantidad>
+        <Precio>$125.000</Precio>
+        <valorTotal>$1.500.000</valorTotal>
+        <PlazoEntrega></PlazoEntrega>
+      </Elemento0>
+    </productos>
+  </Factura3>
+  <Factura4>
+    <MetaData>I22/5/2014</MetaData>
+    <Vendedor>javier</Vendedor>
+    <Cliente>
+      <RUT>4.756.340-2</RUT>
+      <Señores>Luis Noriega Valderrama</Señores>
+      <Giro>Taller</Giro>
+      <Direccion>Sanz 73 </Direccion>
+      <Fono>27790449</Fono>
+      <Contacto></Contacto>
+      <Correo></Correo>
+    </Cliente>
+    <productos>
+      <Elemento0>
+        <Descripcion>One view - A000000001</Descripcion>
+        <cantidad>12</cantidad>
+        <Precio>$125.000</Precio>
+        <valorTotal>$1.500.000</valorTotal>
+        <PlazoEntrega></PlazoEntrega>
+      </Elemento0>
+    </productos>
+  </Factura4>
+</factura>

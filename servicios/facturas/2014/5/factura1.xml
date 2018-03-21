@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cotizacion xmlns="">
+  <MetaData>I16/4/2014</MetaData>
+  <Vendedor>javier</Vendedor>
+  <Cliente>
+    <RUT>---</RUT>
+    <Señores>---</Señores>
+    <Contacto>---</Contacto>
+    <Giro>
+    </Giro>
+    <Direccion>
+    </Direccion>
+    <Fono>---</Fono>
+  </Cliente>
+  <Productos>
+    <Elemento0>
+      <Descripcion>One view-A000000004</Descripcion>
+      <cantidad>12</cantidad>
+      <Precio>$125.000</Precio>
+      <valorTotal>$1.500.000</valorTotal>
+      <PlazoEntrega>
+      </PlazoEntrega>
+    </Elemento0>
+  </Productos>
+  <Condiciones>
+    <condiciones0>Orden de Compra a nombre de:VARELEC CHILE LTDA.</condiciones0>
+    <condiciones1>Condiciones de Pago:</condiciones1>
+    <condiciones2>Lugar de entrega:</condiciones2>
+    <condiciones3>Validez de la Cotización:10 Dias</condiciones3>
+  </Condiciones>
+  <ID />1</cotizacion>

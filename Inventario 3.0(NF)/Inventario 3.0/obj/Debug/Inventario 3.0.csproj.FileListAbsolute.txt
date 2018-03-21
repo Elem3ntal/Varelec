@@ -1,0 +1,13 @@
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\bin\Debug\Inventario 3.0.exe.config
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\bin\Debug\Inventario 3.0.exe
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\bin\Debug\Inventario 3.0.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario_3._0.FormLogeo.resources
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario_3._0.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario 3.0.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario 3.0.exe
+c:\users\javier\documents\visual studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario 3.0.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario_3._0.FormInventario.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Inventario 3.0\Inventario 3.0\obj\Debug\Inventario 3.0.csprojResolveAssemblyReference.cache
+G:\Varelec\Inventario 3.0(NF)\Inventario 3.0\bin\Debug\Inventario 3.0.exe.config
+G:\Varelec\Inventario 3.0(NF)\Inventario 3.0\obj\Debug\Inventario 3.0.exe
+G:\Varelec\Inventario 3.0(NF)\Inventario 3.0\obj\Debug\Inventario 3.0.pdb

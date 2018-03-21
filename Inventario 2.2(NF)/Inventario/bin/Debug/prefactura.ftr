@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cotizacion xmlns="">
+  <MetaData>
+    <Fecha>18/6/2014</Fecha>
+  </MetaData>
+  <Vendedor>javier</Vendedor>
+  <Cliente>
+    <RUT>---</RUT>
+    <Señores>---</Señores>
+    <Giro></Giro>
+    <Direccion></Direccion>
+    <Fono>---</Fono>
+    <Contacto></Contacto>
+    <Correo></Correo>
+  </Cliente>
+  <Productos>
+    <Elemento0>
+      <Descripcion>Kit reparacion g 1117 - K000000021</Descripcion>
+      <cantidad>1</cantidad>
+      <Precio>$32.700</Precio>
+      <valorTotal>$32.700</valorTotal>
+      <PlazoEntrega></PlazoEntrega>
+    </Elemento0>
+  </Productos>
+  <Condiciones>
+    <condiciones0>Orden de Compra a nombre de: VARELEC CHILE LTDA.</condiciones0>
+    <condiciones1>Condiciones de Pago: </condiciones1>
+    <condiciones2>Lugar de entrega: Local cliente</condiciones2>
+    <condiciones3>Otro detalle Descipcion</condiciones3>
+    <condiciones4>Otro detalle Descipcion</condiciones4>
+    <condiciones5>Validez de la Cotización: 10 Dias</condiciones5>
+  </Condiciones>
+  <ID />2</cotizacion>

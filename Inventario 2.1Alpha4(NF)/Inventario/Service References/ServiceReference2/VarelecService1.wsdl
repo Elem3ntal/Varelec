@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="VarelecService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://25.109.196.97:677/VarelecService?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://25.109.196.97:677/VarelecService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://25.109.196.97:677/VarelecService?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IVarelecService_status_InputMessage">
+    <wsdl:part name="parameters" element="tns:status" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_status_OutputMessage">
+    <wsdl:part name="parameters" element="tns:statusResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_login_InputMessage">
+    <wsdl:part name="parameters" element="tns:login" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:loginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_editarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:editarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_editarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:editarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_crearUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:crearUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_crearUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:crearUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_eliminarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:eliminarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_eliminarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:eliminarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_crearProducto_InputMessage">
+    <wsdl:part name="parameters" element="tns:crearProducto" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_crearProducto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:crearProductoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_editarProducto_InputMessage">
+    <wsdl:part name="parameters" element="tns:editarProducto" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_editarProducto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:editarProductoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_eliminarProducto_InputMessage">
+    <wsdl:part name="parameters" element="tns:eliminarProducto" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_eliminarProducto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:eliminarProductoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_crearCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:crearCliente" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_crearCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:crearClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_editarCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:editarCliente" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_editarCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:editarClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_eliminarCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:eliminarCliente" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_eliminarCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:eliminarClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_registrarTransaccion_InputMessage">
+    <wsdl:part name="parameters" element="tns:registrarTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_registrarTransaccion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:registrarTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getInventarioXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInventarioXML" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getInventarioXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInventarioXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getClientesXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:getClientesXML" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getClientesXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getClientesXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getUsersXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:getUsersXML" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getUsersXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getUsersXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getFacturasPorClienteXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:getFacturasPorClienteXML" />
+  </wsdl:message>
+  <wsdl:message name="IVarelecService_getFacturasPorClienteXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getFacturasPorClienteXMLResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IVarelecService">
+    <wsdl:operation name="status">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/status" message="tns:IVarelecService_status_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/statusResponse" message="tns:IVarelecService_status_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="login">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/login" message="tns:IVarelecService_login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/loginResponse" message="tns:IVarelecService_login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="editarUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/editarUsuario" message="tns:IVarelecService_editarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/editarUsuarioResponse" message="tns:IVarelecService_editarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="crearUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/crearUsuario" message="tns:IVarelecService_crearUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/crearUsuarioResponse" message="tns:IVarelecService_crearUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/eliminarUsuario" message="tns:IVarelecService_eliminarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/eliminarUsuarioResponse" message="tns:IVarelecService_eliminarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="crearProducto">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/crearProducto" message="tns:IVarelecService_crearProducto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/crearProductoResponse" message="tns:IVarelecService_crearProducto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="editarProducto">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/editarProducto" message="tns:IVarelecService_editarProducto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/editarProductoResponse" message="tns:IVarelecService_editarProducto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarProducto">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/eliminarProducto" message="tns:IVarelecService_eliminarProducto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/eliminarProductoResponse" message="tns:IVarelecService_eliminarProducto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="crearCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/crearCliente" message="tns:IVarelecService_crearCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/crearClienteResponse" message="tns:IVarelecService_crearCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="editarCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/editarCliente" message="tns:IVarelecService_editarCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/editarClienteResponse" message="tns:IVarelecService_editarCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/eliminarCliente" message="tns:IVarelecService_eliminarCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/eliminarClienteResponse" message="tns:IVarelecService_eliminarCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarTransaccion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/registrarTransaccion" message="tns:IVarelecService_registrarTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/registrarTransaccionResponse" message="tns:IVarelecService_registrarTransaccion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInventarioXML">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/getInventarioXML" message="tns:IVarelecService_getInventarioXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/getInventarioXMLResponse" message="tns:IVarelecService_getInventarioXML_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getClientesXML">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/getClientesXML" message="tns:IVarelecService_getClientesXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/getClientesXMLResponse" message="tns:IVarelecService_getClientesXML_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getUsersXML">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/getUsersXML" message="tns:IVarelecService_getUsersXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/getUsersXMLResponse" message="tns:IVarelecService_getUsersXML_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getFacturasPorClienteXML">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVarelecService/getFacturasPorClienteXML" message="tns:IVarelecService_getFacturasPorClienteXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVarelecService/getFacturasPorClienteXMLResponse" message="tns:IVarelecService_getFacturasPorClienteXML_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IVarelecService" type="tns:IVarelecService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="status">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/status" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="login">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="editarUsuario">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/editarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="crearUsuario">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/crearUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuario">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/eliminarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="crearProducto">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/crearProducto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="editarProducto">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/editarProducto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarProducto">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/eliminarProducto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="crearCliente">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/crearCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="editarCliente">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/editarCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarCliente">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/eliminarCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarTransaccion">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/registrarTransaccion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInventarioXML">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/getInventarioXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getClientesXML">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/getClientesXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUsersXML">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/getUsersXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getFacturasPorClienteXML">
+      <soap:operation soapAction="http://tempuri.org/IVarelecService/getFacturasPorClienteXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="VarelecService">
+    <wsdl:port name="BasicHttpBinding_IVarelecService" binding="tns:BasicHttpBinding_IVarelecService">
+      <soap:address location="http://25.109.196.97:677/VarelecService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cotizacion>
+  <MetaData>
+    <Fecha>2014-03-27T00:00:00-04:00</Fecha>
+    <Expira>2014-04-06T00:00:00-04:00</Expira>
+  </MetaData>
+  <Vendedor>luis</Vendedor>
+  <Cliente>
+    <rut>servicio no implementado</rut>
+  </Cliente>
+  <Productos>
+    <Elemento0>
+      <Descripcion>descipcion4-np4</Descripcion>
+      <cantidad>3</cantidad>
+      <Precio>500</Precio>
+      <valorTotal>$1500</valorTotal>
+    </Elemento0>
+    <Elemento1>
+      <Descripcion>descipcion2-np2</Descripcion>
+      <cantidad>1</cantidad>
+      <Precio>100</Precio>
+      <valorTotal>$100</valorTotal>
+    </Elemento1>
+    <Elemento2>
+      <Descripcion>descipcion6-np6</Descripcion>
+      <cantidad>6</cantidad>
+      <Precio></Precio>
+      <valorTotal>$2970</valorTotal>
+    </Elemento2>
+  </Productos>
+</cotizacion>

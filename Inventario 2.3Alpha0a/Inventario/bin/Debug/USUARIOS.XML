@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DBXML xmlns="">
+  <MetaData>
+    <Cant3>
+      <nombre />
+      <hash />
+      <nivel />
+    </Cant3>
+    <ID>9</ID>
+    <Nversion>
+      <NVersion>0</NVersion>
+      <Date>07-09-2015</Date>
+    </Nversion>
+  </MetaData>
+  <Data>
+    <DATA0>
+      <nombre>javier</nombre>
+      <hash>a4aae18cc453a4f9582d02c68f44aaf0</hash>
+      <nivel>21111111</nivel>
+    </DATA0>
+    <DATA1>
+      <nombre>luis</nombre>
+      <hash>47faa10e78b1aa8adf1fcea2b6135283</hash>
+      <nivel>21001011</nivel>
+    </DATA1>
+    <DATA2>
+      <nombre>isabel</nombre>
+      <hash>deb50b4ec774faaa988593522b7f7ad7</hash>
+      <nivel>21010101</nivel>
+    </DATA2>
+    <DATA3>
+      <nombre>mauricio</nombre>
+      <hash>9090b581cce7a89e4907493066fb33e3</hash>
+      <nivel>21001011</nivel>
+    </DATA3>
+    <DATA4>
+      <nombre>juan</nombre>
+      <hash>8fc4e849689de8272389974fd715b71c</hash>
+      <nivel>21001011</nivel>
+    </DATA4>
+    <DATA5>
+      <nombre>eduardo</nombre>
+      <hash>18245a3ed7f3a9901a91a3af050eb6f5</hash>
+      <nivel>20001010</nivel>
+    </DATA5>
+    <DATA6>
+      <nombre>fresia</nombre>
+      <hash>a17338293d3bb6c94b64f89d7c85f29d</hash>
+      <nivel>20000100</nivel>
+    </DATA6>
+    <DATA7>
+      <nombre>andres</nombre>
+      <hash>13e8f4c25d9e42d4df77d457764346d5</hash>
+      <nivel>20001010</nivel>
+    </DATA7>
+    <DATA8>
+      <nombre>mferrer</nombre>
+      <hash>c0a11eaac5fb9d95cc81683d1b7e508d</hash>
+      <nivel>20001110</nivel>
+    </DATA8>
+  </Data>
+</DBXML>

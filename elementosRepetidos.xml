@@ -1,0 +1,295 @@
+borrados:
+    <DATA503>
+      <nuParte>920476017</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>Kalmar</grupo>
+      <descrip>Interruptor columna de direccion 920476017</descrip>
+      <kilos>0,81</kilos>
+      <cantidad>5</cantidad>
+      <costoFTR>205,26</costoFTR>
+      <costoEXT>228,69</costoEXT>
+      <pvp>215440</pvp>
+      <ultimaFacturaIngreso>Smolka-1410767</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>20/11/2014</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>EUR</tipoMoneda>
+      <valorMoneda>780</valorMoneda>
+      <flete>12</flete>
+      <importe>0,95</importe>
+    </DATA503>
+
+    <DATA236>
+      <nuParte>0009646111</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Cojinete de desgaste 0009646111</descrip>
+      <kilos>0</kilos>
+      <cantidad>0</cantidad>
+      <costoFTR>5,5</costoFTR>
+      <costoEXT>5,79</costoEXT>
+      <pvp>6032</pvp>
+      <ultimaFacturaIngreso>TVH-8027076</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>25/8/2014</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>570</valorMoneda>
+      <flete>0</flete>
+      <importe>0,95</importe>
+    </DATA236>
+
+    <DATA417>
+      <nuParte>9210311218</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Tuerca hexagonal</descrip>
+      <kilos>0,09</kilos>
+      <cantidad>-8</cantidad>
+      <costoFTR>1</costoFTR>
+      <costoEXT>4,02</costoEXT>
+      <pvp>2500</pvp>
+      <ultimaFacturaIngreso>no registra</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>11/6/2014</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>570</valorMoneda>
+      <flete>2,82</flete>
+      <importe>0,95</importe>
+    </DATA417>
+<DATA644>
+      <nuParte>0019362505</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Topearrastre 0019362505</descrip>
+      <kilos>0,05</kilos>
+      <cantidad>0</cantidad>
+      <costoFTR>47,74</costoFTR>
+      <costoEXT>50,6</costoEXT>
+      <pvp>41367</pvp>
+      <ultimaFacturaIngreso>-</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>29/9/2014</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>600</valorMoneda>
+      <flete>0,33</flete>
+      <importe>0,95</importe>
+    </DATA644>
+    <DATA1219>
+      <nuParte>9234550014</nuParte>
+      <familia>Linde</familia>
+      <grupo>Kalmar</grupo>
+      <descrip>Chapa puerta derecha 9234550014</descrip>
+      <kilos>0,41</kilos>
+      <cantidad>10</cantidad>
+      <costoFTR>59,4</costoFTR>
+      <costoEXT>67,89</costoEXT>
+      <pvp>63455</pvp>
+      <ultimaFacturaIngreso>Varelec-46321</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>31/7/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>31/7/2015</ultimoMovimiento>
+      <tipoMoneda>EUR</tipoMoneda>
+      <valorMoneda>720</valorMoneda>
+      <flete>5,1</flete>
+      <importe>0,95</importe>
+    </DATA1219>
+    <DATA960>
+      <nuParte>9223150004</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>
+      </grupo>
+      <descrip>Filtro hidraulico</descrip>
+      <kilos>0,92</kilos>
+      <cantidad>-5</cantidad>
+      <costoFTR>123,42</costoFTR>
+      <costoEXT>136,36</costoEXT>
+      <pvp>116695</pvp>
+      <ultimaFacturaIngreso>TVH-1501045053</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>25/2/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>650</valorMoneda>
+      <flete>6,12</flete>
+      <importe>0,95</importe>
+    </DATA960>
+    <DATA497>
+      <nuParte>9230710001</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>Kalmar</grupo>
+      <descrip>Filtro hidraulico freno</descrip>
+      <kilos>0,12</kilos>
+      <cantidad>-12</cantidad>
+      <costoFTR>25,86</costoFTR>
+      <costoEXT>28,06</costoEXT>
+      <pvp>22710</pvp>
+      <ultimaFacturaIngreso>TVH-7004948</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>9/7/2014</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>570</valorMoneda>
+      <flete>0,8</flete>
+      <importe>0,95</importe>
+    </DATA497>
+    <DATA959>
+      <nuParte>9238551183</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>
+      </grupo>
+      <descrip>Breth filtro</descrip>
+      <kilos>0,22</kilos>
+      <cantidad>-5</cantidad>
+      <costoFTR>50</costoFTR>
+      <costoEXT>54,17</costoEXT>
+      <pvp>44115</pvp>
+      <ultimaFacturaIngreso>TVH-1501045053</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>25/2/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>650</valorMoneda>
+      <flete>1,46</flete>
+      <importe>0,95</importe>
+    </DATA959>
+    <DATA1119>
+      <nuParte>VW06A903315E</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Tensor correa</descrip>
+      <kilos>0,86</kilos>
+      <cantidad>0</cantidad>
+      <costoFTR>53,67</costoFTR>
+      <costoEXT>62,51</costoEXT>
+      <pvp>59967</pvp>
+      <ultimaFacturaIngreso>TVH-1505035931</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>22/6/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>650</valorMoneda>
+      <flete>5,71</flete>
+      <importe>0,95</importe>
+    </DATA1119>
+    <DATA938>
+      <nuParte>3940321204</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Corona de arranque 3940321204</descrip>
+      <kilos>0,7</kilos>
+      <cantidad>-1</cantidad>
+      <costoFTR>39,86</costoFTR>
+      <costoEXT>46,86</costoEXT>
+      <pvp>43290</pvp>
+      <ultimaFacturaIngreso>-</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>23/1/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>620</valorMoneda>
+      <flete>4,66</flete>
+      <importe>0,95</importe>
+    </DATA938>
+    <DATA1226>
+      <nuParte>112906</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>Capacity</grupo>
+      <descrip>Selenoide</descrip>
+      <kilos>0,25</kilos>
+      <cantidad>2</cantidad>
+      <costoFTR>123,2</costoFTR>
+      <costoEXT>140,21</costoEXT>
+      <pvp>126165</pvp>
+      <ultimaFacturaIngreso>Varelec-46321</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>31/7/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>31/7/2015</ultimoMovimiento>
+      <tipoMoneda>EUR</tipoMoneda>
+      <valorMoneda>720</valorMoneda>
+      <flete>10</flete>
+      <importe>0,95</importe>
+    </DATA1226>
+    <DATA1059>
+      <nuParte>9231100578</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>
+      </grupo>
+      <descrip>Filtro de aire</descrip>
+      <kilos>0,92</kilos>
+      <cantidad>-3</cantidad>
+      <costoFTR>27,18</costoFTR>
+      <costoEXT>34,71</costoEXT>
+      <pvp>29329</pvp>
+      <ultimaFacturaIngreso>TVH-1504005201</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>9/4/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>650</valorMoneda>
+      <flete>5,79</flete>
+      <importe>0,95</importe>
+    </DATA1059>
+    <DATA1060>
+      <nuParte>9238290700</nuParte>
+      <familia>Otras Marcas</familia>
+      <grupo>
+      </grupo>
+      <descrip>Filtro separador de agua </descrip>
+      <kilos>0,72</kilos>
+      <cantidad>-4</cantidad>
+      <costoFTR>28,26</costoFTR>
+      <costoEXT>34,48</costoEXT>
+      <pvp>28260</pvp>
+      <ultimaFacturaIngreso>TVH-1504005201</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>9/4/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>650</valorMoneda>
+      <flete>4,5</flete>
+      <importe>0,95</importe>
+    </DATA1060>
+    <DATA1241>
+      <nuParte>1834465600</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Placa 1834465600</descrip>
+      <kilos>0,04</kilos>
+      <cantidad>6</cantidad>
+      <costoFTR>10,45</costoFTR>
+      <costoEXT>11,32</costoEXT>
+      <pvp>18999</pvp>
+      <ultimaFacturaIngreso>Varelec-46321</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>31/7/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>31/7/2015</ultimoMovimiento>
+      <tipoMoneda>EUR</tipoMoneda>
+      <valorMoneda>720</valorMoneda>
+      <flete>0,3</flete>
+      <importe>0,95</importe>
+    </DATA1241>
+    <DATA328>
+      <nuParte>0009730418</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Llave chapa contacto (par)</descrip>
+      <kilos>0,3</kilos>
+      <cantidad>2</cantidad>
+      <costoFTR>5</costoFTR>
+      <costoEXT>5,69</costoEXT>
+      <pvp>5305</pvp>
+      <ultimaFacturaIngreso>no registra</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>11/6/2014</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>570</valorMoneda>
+      <flete>0,41</flete>
+      <importe>0,95</importe>
+    </DATA328>
+    <DATA671>
+      <nuParte>9491000683</nuParte>
+      <familia>Linde</familia>
+      <grupo>Linde</grupo>
+      <descrip>Correa 9491000683</descrip>
+      <kilos>0,12</kilos>
+      <cantidad>0</cantidad>
+      <costoFTR>4,94</costoFTR>
+      <costoEXT>5,2</costoEXT>
+      <pvp>11700</pvp>
+      <ultimaFacturaIngreso>TVH-1501007705</ultimaFacturaIngreso>
+      <ultimaFechaIngreso>13/1/2015</ultimaFechaIngreso>
+      <ultimoMovimiento>-</ultimoMovimiento>
+      <tipoMoneda>USD</tipoMoneda>
+      <valorMoneda>620</valorMoneda>
+      <flete>0</flete>
+      <importe>0,95</importe>
+    </DATA671>

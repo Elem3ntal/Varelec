@@ -1,0 +1,2 @@
+inventario,16,nuParte familia grupo descrip kilos cantidad costoFTR costoEXT pvp ultimaFacturaIngreso ultimaFechaIngreso ultimoMovimiento tipoMoneda valorMoneda flete importe
+clientes,9,RUT nombre giro direccion comuna ciudad telefono correo ultimaFacturaCompra
